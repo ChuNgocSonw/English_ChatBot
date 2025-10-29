@@ -1,45 +1,45 @@
 # English AI Tutor - Chatbot Project
 
-![English AI Tutor Screenshot](placeholder_screenshot.png) Một chatbot thông minh sử dụng RAG (Retrieval-Augmented Generation) để trả lời các câu hỏi về ngữ pháp, từ vựng và thành ngữ tiếng Anh, đồng thời cung cấp tính năng phát âm bằng giọng đọc AI.
+Một chatbot thông minh sử dụng RAG (Retrieval-Augmented Generation) để trả lời các câu hỏi về ngữ pháp, từ vựng và thành ngữ tiếng Anh, đồng thời cung cấp tính năng phát âm bằng giọng đọc AI.
 
 ## ✨ Tính Năng Chính
 
-* **Tra cứu Kiến thức (RAG):**
+* Tra cứu Kiến thức (RAG):
     * Tìm kiếm thông tin về từ vựng (nghĩa, phiên âm, ví dụ), quy tắc ngữ pháp, và thành ngữ từ cơ sở dữ liệu Supabase.
     * Sử dụng Vector Embeddings (Google AI) và `pgvector` để tìm kiếm dựa trên ngữ nghĩa.
-* **Xử lý Ngôn ngữ Tự nhiên:**
+* Xử lý Ngôn ngữ Tự nhiên:
     * Tự động phát hiện ngôn ngữ của người dùng (Tiếng Anh/Tiếng Việt).
     * Trích xuất từ khóa tiếng Anh chính từ câu hỏi.
     * Phân biệt giữa câu hỏi kiến thức (Q&A) và trò chuyện thông thường.
     * Ghi nhớ ngữ cảnh cuộc trò chuyện để hiểu các câu hỏi nối tiếp.
-* **Phát âm (Text-to-Speech):**
+* Phát âm (Text-to-Speech):
     * Tạo giọng đọc AI chất lượng cao cho từ vựng tiếng Anh bằng Google AI (Gemini TTS).
     * Lưu trữ (cache) các file âm thanh đã tạo vào Supabase Storage để tăng tốc độ và tiết kiệm chi phí.
     * Tự động thử lại (retry) khi gặp lỗi giới hạn quota API.
-* **Giao diện Người dùng:**
+* Giao diện Người dùng:
     * Giao diện chat đơn giản, trực quan.
     * Hiển thị định dạng Markdown (in đậm, danh sách).
     * Hiển thị nút nghe bên cạnh từ vựng.
     * Hiển thị trạng thái đang chờ phản hồi.
-* **Song ngữ:** Trả lời các câu hỏi kiến thức bằng cả tiếng Anh (thông tin gốc) và tiếng Việt (giải thích, ví dụ).
+* Song ngữ: Trả lời các câu hỏi kiến thức bằng cả tiếng Anh (thông tin gốc) và tiếng Việt (giải thích, ví dụ).
 
 ---
 
 ## 🛠️ Công Nghệ Sử Dụng
 
-* **Backend:**
+* Backend:
     * Python 3.x
     * FastAPI (Web framework)
     * Uvicorn (ASGI server)
     * Google Generative AI SDK (`google-generativeai`)
     * Supabase Python Client (`supabase-py`)
     * dotenv (`python-dotenv`)
-* **Frontend:**
+* Frontend:
     * HTML
     * Tailwind CSS (Styling)
     * JavaScript (Fetch API, DOM manipulation)
     * Showdown.js (Markdown rendering)
-* **Database & Storage:**
+* Database & Storage:
     * Supabase (PostgreSQL with `pgvector` extension)
     * Supabase Storage
 
@@ -47,17 +47,17 @@
 
 ## ⚙️ Cài Đặt và Thiết Lập
 
-1.  **Clone Repository:**
-    ```bash
+1.  Clone Repository:
+
     git clone <your-repository-url>
     cd english_chatbot_project
-    ```
 
-2.  **Yêu cầu:**
+
+2.  Yêu cầu:
     * Python 3.7+
 
-3.  **(Khuyến nghị) Tạo và Kích hoạt Môi trường ảo:**
-    ```bash
+3.  (Khuyến nghị) Tạo và Kích hoạt Môi trường ảo:
+
     # Tạo môi trường ảo
     python -m venv venv
 
@@ -67,50 +67,50 @@
     .\venv\Scripts\activate.bat
     # Hoặc macOS/Linux
     source venv/bin/activate
-    ```
 
-4.  **Cài đặt Dependencies:**
-    ```bash
+
+4.  Cài đặt Dependencies:
+
     pip install -r requirements.txt
-    ```
+
     *(File `requirements.txt` chứa danh sách các thư viện Python cần thiết).*
 
-5.  **Thiết lập Biến Môi trường:**
+5.  Thiết lập Biến Môi trường:
     * Tạo một file tên là `.env` trong thư mục gốc (`english_chatbot_project`).
     * Thêm các khóa API của bạn vào file `.env`:
-        ```env
+
         SUPABASE_URL="YOUR_SUPABASE_URL"
         SUPABASE_KEY="YOUR_SUPABASE_SERVICE_KEY"
         GOOGLE_API_KEY="YOUR_GOOGLE_API_KEY"
-        ```
+
     * Thay thế các giá trị `YOUR_...` bằng thông tin thực tế từ Supabase và Google AI Studio.
 
-6.  **Thiết lập Supabase:**
+6.  Thiết lập Supabase:
     * Tạo project trên Supabase.
     * Trong SQL Editor, chạy các lệnh SQL để tạo bảng (`english_vocabulary`, `english_grammar_rules`, `english_idioms`) và các hàm tìm kiếm (`match_...`). Đảm bảo kích hoạt extension `vector`.
-    * Tạo một Storage Bucket tên là `audio_cache` và đặt nó là **public**.
+    * Tạo một Storage Bucket tên là `audio_cache` và đặt nó là public.
     * (Tùy chọn) Chạy script `embedding.py` (nếu có) để tạo vector embeddings cho dữ liệu ban đầu của bạn.
 
 ---
 
 ## ▶️ Chạy Ứng Dụng
 
-Bạn cần chạy **hai server** cùng lúc trong hai cửa sổ terminal riêng biệt, **đều từ thư mục gốc** (`english_chatbot_project`).
+Bạn cần chạy hai server cùng lúc trong hai cửa sổ terminal riêng biệt, đều từ thư mục gốc (`english_chatbot_project`).
 
-1.  **Terminal 1: Chạy Backend (API Server):**
-    ```powershell
+1.  Terminal 1: Chạy Backend (API Server):
+
     python -m uvicorn backend.main:app --reload
-    ```
+
     * Server API sẽ chạy tại `http://127.0.0.1:8000`.
     * Bạn có thể xem tài liệu API tự động (Swagger UI) tại: `http://127.0.0.1:8000/docs/default/get_answer_answer_post
 
-2.  **Terminal 2: Chạy Frontend (Giao diện):**
-    ```powershell
+2.  Terminal 2: Chạy Frontend (Giao diện):
+
     python .\run_frontend.py
-    ```
+
     * Server giao diện sẽ chạy tại `http://localhost:8080`.
 
-3.  **Truy cập Chatbot:** Mở trình duyệt web và truy cập `http://localhost:8080`.
+3.  Truy cập Chatbot: Mở trình duyệt web và truy cập `http://localhost:8080`.
 
 ---
 
@@ -126,10 +126,7 @@ Bạn cần chạy **hai server** cùng lúc trong hai cửa sổ terminal riên
 
 ## 🤝 Đóng Góp
 
-*(Thêm hướng dẫn nếu muốn người khác đóng góp vào dự án)*
 
 ---
 
 ## 📄 Giấy Phép
-
-*(Thêm thông tin giấy phép nếu có, ví dụ: MIT License)*
