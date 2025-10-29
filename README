@@ -1,58 +1,135 @@
-RUN BackEnd: python -m uvicorn backend.main:app --reload
-http://127.0.0.1:8000/docs#/default/get_answer_answer_post
-
-RUN FrontEnd: python .\run_frontend.py
-
 # English AI Tutor - Chatbot Project
 
-## Thiết lập Môi trường và Cài đặt Dependencies
+![English AI Tutor Screenshot](placeholder_screenshot.png) Một chatbot thông minh sử dụng RAG (Retrieval-Augmented Generation) để trả lời các câu hỏi về ngữ pháp, từ vựng và thành ngữ tiếng Anh, đồng thời cung cấp tính năng phát âm bằng giọng đọc AI.
 
-Để chạy dự án này, bạn cần cài đặt các thư viện Python cần thiết. Chúng tôi khuyên bạn nên sử dụng một môi trường ảo để tránh xung đột thư viện.
+## ✨ Tính Năng Chính
 
-### Yêu cầu tiên quyết
+* **Tra cứu Kiến thức (RAG):**
+    * Tìm kiếm thông tin về từ vựng (nghĩa, phiên âm, ví dụ), quy tắc ngữ pháp, và thành ngữ từ cơ sở dữ liệu Supabase.
+    * Sử dụng Vector Embeddings (Google AI) và `pgvector` để tìm kiếm dựa trên ngữ nghĩa.
+* **Xử lý Ngôn ngữ Tự nhiên:**
+    * Tự động phát hiện ngôn ngữ của người dùng (Tiếng Anh/Tiếng Việt).
+    * Trích xuất từ khóa tiếng Anh chính từ câu hỏi.
+    * Phân biệt giữa câu hỏi kiến thức (Q&A) và trò chuyện thông thường.
+    * Ghi nhớ ngữ cảnh cuộc trò chuyện để hiểu các câu hỏi nối tiếp.
+* **Phát âm (Text-to-Speech):**
+    * Tạo giọng đọc AI chất lượng cao cho từ vựng tiếng Anh bằng Google AI (Gemini TTS).
+    * Lưu trữ (cache) các file âm thanh đã tạo vào Supabase Storage để tăng tốc độ và tiết kiệm chi phí.
+    * Tự động thử lại (retry) khi gặp lỗi giới hạn quota API.
+* **Giao diện Người dùng:**
+    * Giao diện chat đơn giản, trực quan.
+    * Hiển thị định dạng Markdown (in đậm, danh sách).
+    * Hiển thị nút nghe bên cạnh từ vựng.
+    * Hiển thị trạng thái đang chờ phản hồi.
+* **Song ngữ:** Trả lời các câu hỏi kiến thức bằng cả tiếng Anh (thông tin gốc) và tiếng Việt (giải thích, ví dụ).
 
-* **Python**: Đảm bảo bạn đã cài đặt Python (phiên bản 3.7 trở lên được khuyến nghị). Bạn có thể tải về từ [python.org](https://www.python.org/).
+---
 
-### Các bước cài đặt
+## 🛠️ Công Nghệ Sử Dụng
 
-1.  **Mở Terminal hoặc Command Prompt:** Điều hướng đến thư mục gốc của dự án (`english_chatbot_project`).
+* **Backend:**
+    * Python 3.x
+    * FastAPI (Web framework)
+    * Uvicorn (ASGI server)
+    * Google Generative AI SDK (`google-generativeai`)
+    * Supabase Python Client (`supabase-py`)
+    * dotenv (`python-dotenv`)
+* **Frontend:**
+    * HTML
+    * Tailwind CSS (Styling)
+    * JavaScript (Fetch API, DOM manipulation)
+    * Showdown.js (Markdown rendering)
+* **Database & Storage:**
+    * Supabase (PostgreSQL with `pgvector` extension)
+    * Supabase Storage
 
-2.  **(Khuyến nghị) Tạo Môi trường ảo:**
+---
+
+## ⚙️ Cài Đặt và Thiết Lập
+
+1.  **Clone Repository:**
     ```bash
-    python -m venv venv
+    git clone <your-repository-url>
+    cd english_chatbot_project
     ```
-    Lệnh này sẽ tạo một thư mục tên là `venv` chứa môi trường ảo.
 
-3.  **Kích hoạt Môi trường ảo:**
-    * **Trên Windows (Command Prompt):**
-        ```bash
-        .\venv\Scripts\activate.bat
-        ```
-    * **Trên Windows (PowerShell):**
-        ```powershell
-        .\venv\Scripts\Activate.ps1
-        ```
-        *(Lưu ý: Nếu gặp lỗi thực thi script trên PowerShell, bạn có thể cần chạy lệnh `Set-ExecutionPolicy Unrestricted -Scope Process` trước khi kích hoạt)*
-    * **Trên macOS / Linux:**
-        ```bash
-        source venv/bin/activate
-        ```
-    Sau khi kích hoạt thành công, bạn sẽ thấy `(venv)` xuất hiện ở đầu dòng lệnh.
+2.  **Yêu cầu:**
+    * Python 3.7+
 
-4.  **Cài đặt các thư viện:** Chạy lệnh sau để cài đặt tất cả các thư viện cần thiết từ file `requirements.txt`:
+3.  **(Khuyến nghị) Tạo và Kích hoạt Môi trường ảo:**
+    ```bash
+    # Tạo môi trường ảo
+    python -m venv venv
+
+    # Kích hoạt trên Windows (PowerShell)
+    .\venv\Scripts\Activate.ps1
+    # Hoặc Windows (Command Prompt)
+    .\venv\Scripts\activate.bat
+    # Hoặc macOS/Linux
+    source venv/bin/activate
+    ```
+
+4.  **Cài đặt Dependencies:**
     ```bash
     pip install -r requirements.txt
     ```
-    Lệnh này sẽ tự động tải và cài đặt FastAPI, Uvicorn, Supabase client, Google Generative AI, và các thư viện phụ thuộc khác.
+    *(File `requirements.txt` chứa danh sách các thư viện Python cần thiết).*
 
 5.  **Thiết lập Biến Môi trường:**
-    * Tạo một file tên là `.env` trong thư mục gốc của dự án (`english_chatbot_project`).
-    * Thêm các khóa API cần thiết vào file `.env` theo định dạng sau:
+    * Tạo một file tên là `.env` trong thư mục gốc (`english_chatbot_project`).
+    * Thêm các khóa API của bạn vào file `.env`:
         ```env
         SUPABASE_URL="YOUR_SUPABASE_URL"
-        SUPABASE_SERVICE_KEY="YOUR_SUPABASE_SERVICE_KEY"
+        SUPABASE_KEY="YOUR_SUPABASE_SERVICE_KEY"
         GOOGLE_API_KEY="YOUR_GOOGLE_API_KEY"
         ```
-    * Thay thế các giá trị `"YOUR_..."` bằng thông tin thực tế của bạn.
+    * Thay thế các giá trị `YOUR_...` bằng thông tin thực tế từ Supabase và Google AI Studio.
 
-Bây giờ môi trường của bạn đã sẵn sàng để chạy các thành phần của dự án (frontend và backend).
+6.  **Thiết lập Supabase:**
+    * Tạo project trên Supabase.
+    * Trong SQL Editor, chạy các lệnh SQL để tạo bảng (`english_vocabulary`, `english_grammar_rules`, `english_idioms`) và các hàm tìm kiếm (`match_...`). Đảm bảo kích hoạt extension `vector`.
+    * Tạo một Storage Bucket tên là `audio_cache` và đặt nó là **public**.
+    * (Tùy chọn) Chạy script `embedding.py` (nếu có) để tạo vector embeddings cho dữ liệu ban đầu của bạn.
+
+---
+
+## ▶️ Chạy Ứng Dụng
+
+Bạn cần chạy **hai server** cùng lúc trong hai cửa sổ terminal riêng biệt, **đều từ thư mục gốc** (`english_chatbot_project`).
+
+1.  **Terminal 1: Chạy Backend (API Server):**
+    ```powershell
+    python -m uvicorn backend.main:app --reload
+    ```
+    * Server API sẽ chạy tại `http://127.0.0.1:8000`.
+    * Bạn có thể xem tài liệu API tự động (Swagger UI) tại: `http://127.0.0.1:8000/docs/default/get_answer_answer_post
+
+2.  **Terminal 2: Chạy Frontend (Giao diện):**
+    ```powershell
+    python .\run_frontend.py
+    ```
+    * Server giao diện sẽ chạy tại `http://localhost:8080`.
+
+3.  **Truy cập Chatbot:** Mở trình duyệt web và truy cập `http://localhost:8080`.
+
+---
+
+## 🚀 Hướng Phát Triển Tương Lai
+
+* Mở rộng bộ dữ liệu (từ vựng, ngữ pháp, thành ngữ).
+* Thêm chức năng quản lý người dùng (đăng nhập/đăng ký).
+* Lưu lịch sử chat cho từng người dùng.
+* Cải thiện khả năng hiểu các câu hỏi phức tạp hơn.
+* Triển khai lên một nền tảng hosting (ví dụ: Vercel, Heroku, Google Cloud Run).
+
+---
+
+## 🤝 Đóng Góp
+
+*(Thêm hướng dẫn nếu muốn người khác đóng góp vào dự án)*
+
+---
+
+## 📄 Giấy Phép
+
+*(Thêm thông tin giấy phép nếu có, ví dụ: MIT License)*
