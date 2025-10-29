@@ -2,3 +2,57 @@ RUN BackEnd: python -m uvicorn backend.main:app --reload
 http://127.0.0.1:8000/docs#/default/get_answer_answer_post
 
 RUN FrontEnd: python .\run_frontend.py
+
+# English AI Tutor - Chatbot Project
+
+## Thiết lập Môi trường và Cài đặt Dependencies
+
+Để chạy dự án này, bạn cần cài đặt các thư viện Python cần thiết. Chúng tôi khuyên bạn nên sử dụng một môi trường ảo để tránh xung đột thư viện.
+
+### Yêu cầu tiên quyết
+
+* **Python**: Đảm bảo bạn đã cài đặt Python (phiên bản 3.7 trở lên được khuyến nghị). Bạn có thể tải về từ [python.org](https://www.python.org/).
+
+### Các bước cài đặt
+
+1.  **Mở Terminal hoặc Command Prompt:** Điều hướng đến thư mục gốc của dự án (`english_chatbot_project`).
+
+2.  **(Khuyến nghị) Tạo Môi trường ảo:**
+    ```bash
+    python -m venv venv
+    ```
+    Lệnh này sẽ tạo một thư mục tên là `venv` chứa môi trường ảo.
+
+3.  **Kích hoạt Môi trường ảo:**
+    * **Trên Windows (Command Prompt):**
+        ```bash
+        .\venv\Scripts\activate.bat
+        ```
+    * **Trên Windows (PowerShell):**
+        ```powershell
+        .\venv\Scripts\Activate.ps1
+        ```
+        *(Lưu ý: Nếu gặp lỗi thực thi script trên PowerShell, bạn có thể cần chạy lệnh `Set-ExecutionPolicy Unrestricted -Scope Process` trước khi kích hoạt)*
+    * **Trên macOS / Linux:**
+        ```bash
+        source venv/bin/activate
+        ```
+    Sau khi kích hoạt thành công, bạn sẽ thấy `(venv)` xuất hiện ở đầu dòng lệnh.
+
+4.  **Cài đặt các thư viện:** Chạy lệnh sau để cài đặt tất cả các thư viện cần thiết từ file `requirements.txt`:
+    ```bash
+    pip install -r requirements.txt
+    ```
+    Lệnh này sẽ tự động tải và cài đặt FastAPI, Uvicorn, Supabase client, Google Generative AI, và các thư viện phụ thuộc khác.
+
+5.  **Thiết lập Biến Môi trường:**
+    * Tạo một file tên là `.env` trong thư mục gốc của dự án (`english_chatbot_project`).
+    * Thêm các khóa API cần thiết vào file `.env` theo định dạng sau:
+        ```env
+        SUPABASE_URL="YOUR_SUPABASE_URL"
+        SUPABASE_SERVICE_KEY="YOUR_SUPABASE_SERVICE_KEY"
+        GOOGLE_API_KEY="YOUR_GOOGLE_API_KEY"
+        ```
+    * Thay thế các giá trị `"YOUR_..."` bằng thông tin thực tế của bạn.
+
+Bây giờ môi trường của bạn đã sẵn sàng để chạy các thành phần của dự án (frontend và backend).

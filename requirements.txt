@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+supabase
+google-generativeai
+sentence-transformers
+numpy
+requests
+httpx
+wave
