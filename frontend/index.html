@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>English AI Tutor</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
+    <style>
+        body { font-family: 'Inter', sans-serif; }
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+        .chat-bubble-user { background-color: #3b82f6; color: white; }
+        .chat-bubble-bot { background-color: #e5e7eb; color: #1f2937; }
+        .tts-icon {
+            display: inline-block;
+            cursor: pointer;
+            margin-left: 8px;
+            vertical-align: middle;
+            color: #4b5563;
+            transition: color 0.2s, transform 0.2s;
+        }
+        .tts-icon:hover { color: #1d4ed8; transform: scale(1.1); }
+        .tts-icon.loading {
+            cursor: wait;
+            opacity: 0.5;
+            animation: spin 1s linear infinite;
+        }
+        @keyframes spin {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body class="bg-gray-100 flex flex-col items-center justify-center h-screen">
+    <div class="w-full max-w-2xl h-full md:h-[90vh] md:max-h-[700px] flex flex-col bg-white shadow-2xl rounded-lg">
+        <div class="bg-blue-600 text-white p-4 rounded-t-lg shadow-md">
+            <h1 class="text-2xl font-bold">English AI Tutor</h1>
+            <p class="text-sm opacity-90">Hỏi tôi bất cứ điều gì về ngữ pháp, từ vựng, và thành ngữ Anh!</p>
+        </div>
+
+        <div id="chat-box" class="flex-1 p-4 overflow-y-auto">
+            <div class="flex justify-start mb-4">
+                <div class="chat-bubble-bot max-w-lg p-3 rounded-lg"><p>Xin chào! Tôi có thể giúp gì cho bạn hôm nay?</p></div>
+            </div>
+        </div>
+
+        <div class="p-4 bg-white border-t border-gray-200 rounded-b-lg">
+            <div class="flex items-center space-x-2">
+                <input type="text" id="user-input" class="flex-1 p-3 border border-gray-300 rounded-full focus:outline-none focus:ring-2 focus:ring-blue-500" placeholder="Nhập câu hỏi của bạn...">
+                <button id="send-button" title="Gửi tin nhắn" class="bg-blue-600 text-white p-3 rounded-full hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 disabled:bg-blue-300">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" viewBox="0 0 20 20" fill="currentColor"><path d="M10.894 2.553a1 1 0 00-1.788 0l-7 14a1 1 0 001.169 1.409l5-1.429A1 1 0 009 15.571V11a1 1 0 112 0v4.571a1 1 0 00.725.962l5 1.428a1 1 0 001.17-1.408l-7-14z" /></svg>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const chatBox = document.getElementById('chat-box');
+        const userInput = document.getElementById('user-input');
+        const sendButton = document.getElementById('send-button');
+        const showdownConverter = new showdown.Converter({noHeaderId: true});
+        const API_URL = 'http://127.0.0.1:8000/answer';
+        const TTS_API_URL = 'http://127.0.0.1:8000/synthesize-speech';
+        
+        // --- HÀM XỬ LÝ ÂM THANH (ĐƠN GIẢN HÓA RẤT NHIỀU) ---
+        async function speak(text, iconElement) {
+            if (iconElement.classList.contains('loading')) return;
+
+            iconElement.classList.add('loading');
+            try {
+                const response = await fetch(TTS_API_URL, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ text: text })
+                });
+
+                if (!response.ok) throw new Error('TTS API request failed');
+
+                const data = await response.json();
+                
+                // Chỉ cần lấy URL và phát
+                const audio = new Audio(data.audioUrl);
+                audio.play();
+
+            } catch (error) {
+                console.error("Lỗi phát âm:", error);
+                alert("Không thể tạo âm thanh cho từ này.");
+            } finally {
+                iconElement.classList.remove('loading');
+            }
+        }
+        
+        // --- CÁC HÀM XỬ LÝ GIAO DIỆN CHAT (giữ nguyên) ---
+
+        function displayMessage(message, sender) {
+            const messageWrapper = document.createElement('div');
+            messageWrapper.className = `flex mb-4 ${sender === 'user' ? 'justify-end' : 'justify-start'}`;
+            const messageBubble = document.createElement('div');
+            messageBubble.className = `max-w-lg p-3 rounded-lg ${sender === 'user' ? 'chat-bubble-user' : 'chat-bubble-bot'}`;
+            let htmlMessage = showdownConverter.makeHtml(message);
+            htmlMessage = htmlMessage.replace(/&lt;span class="tts-word"&gt;/g, '<span class="tts-word">');
+            htmlMessage = htmlMessage.replace(/&lt;\/span&gt;/g, '</span>');
+            messageBubble.innerHTML = htmlMessage;
+            messageWrapper.appendChild(messageBubble);
+            chatBox.appendChild(messageWrapper);
+            
+            const ttsElements = messageBubble.querySelectorAll('.tts-word');
+            ttsElements.forEach(element => {
+                const wordToSpeak = element.textContent;
+                const speakerIcon = document.createElement('span');
+                speakerIcon.className = 'tts-icon';
+                speakerIcon.title = `Nghe phát âm của '${wordToSpeak}'`;
+                speakerIcon.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M9.383 3.076A1 1 0 0110 4v12a1 1 0 01-1.707.707L4.586 13H2a1 1 0 01-1-1V8a1 1 0 011-1h2.586l3.707-3.707a1 1 0 011.09-.217zM14.657 2.929a1 1 0 011.414 0A9.972 9.972 0 0119 10a9.972 9.972 0 01-2.929 7.071 1 1 0 01-1.414-1.414A7.971 7.971 0 0017 10c0-2.21-.894-4.208-2.343-5.657a1 1 0 010-1.414zm-2.829 2.828a1 1 0 011.415 0A5.983 5.983 0 0115 10a5.984 5.984 0 01-1.757 4.243 1 1 0 01-1.415-1.415A3.984 3.984 0 0013 10a3.983 3.983 0 00-1.172-2.828 1 1 0 010-1.415z" clip-rule="evenodd" /></svg>`;
+                speakerIcon.onclick = (e) => {
+                    e.stopPropagation();
+                    speak(wordToSpeak, speakerIcon);
+                };
+                element.insertAdjacentElement('afterend', speakerIcon);
+            });
+            chatBox.scrollTop = chatBox.scrollHeight;
+        }
+
+        async function handleSendMessage() {
+            const message = userInput.value.trim();
+            if (!message) return;
+            displayMessage(message, 'user');
+            userInput.value = '';
+            sendButton.disabled = true;
+
+            const loadingBubbleId = `loading-${Date.now()}`;
+            displaySpecialContent(`<div class="flex items-center space-x-1"><div class="w-2 h-2 bg-gray-500 rounded-full animate-pulse"></div><div class="w-2 h-2 bg-gray-500 rounded-full animate-pulse [animation-delay:0.2s]"></div><div class="w-2 h-2 bg-gray-500 rounded-full animate-pulse [animation-delay:0.4s]"></div></div>`, 'bot', loadingBubbleId);
+
+            try {
+                const response = await fetch(API_URL, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ text: message }) 
+                });
+                removeMessageById(loadingBubbleId);
+                if (!response.ok) throw new Error('Network response');
+                const data = await response.json();
+                displayMessage(data.answer, 'bot');
+            } catch (error) {
+                console.error('Error:', error);
+                removeMessageById(loadingBubbleId);
+                displayMessage('Xin lỗi, đã có lỗi xảy ra. Vui lòng thử lại sau.', 'bot');
+            } finally {
+                sendButton.disabled = false;
+                userInput.focus();
+            }
+        }
+        
+        function displaySpecialContent(htmlContent, sender, id) {
+            const el = document.createElement('div');
+            if (id) el.id = id;
+            el.className = `flex mb-4 ${sender === 'user' ? 'justify-end' : 'justify-start'}`;
+            const bubble = document.createElement('div');
+            bubble.className = `max-w-lg p-3 rounded-lg ${sender === 'user' ? 'chat-bubble-user' : 'chat-bubble-bot'}`;
+            bubble.innerHTML = htmlContent;
+            el.appendChild(bubble);
+            chatBox.appendChild(el);
+            chatBox.scrollTop = chatBox.scrollHeight;
+        }
+        
+        function removeMessageById(id) {
+            const el = document.getElementById(id);
+            if(el) el.remove();
+        }
+
+        sendButton.addEventListener('click', handleSendMessage);
+        userInput.addEventListener('keydown', (event) => { if (event.key === 'Enter') handleSendMessage(); });
+    </script>
+</body>
+</html>

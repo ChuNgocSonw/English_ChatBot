@@ -1,0 +1,4 @@
+RUN BackEnd: python -m uvicorn backend.main:app --reload
+http://127.0.0.1:8000/docs#/default/get_answer_answer_post
+
+RUN FrontEnd: python .\run_frontend.py

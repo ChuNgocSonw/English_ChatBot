@@ -1,0 +1,5187 @@
+[
+    {
+        "phrase": "A piece of cake",
+        "meaning": "Something that is very easy to do.",
+        "example": "Passing the test was a piece of cake after studying all week."
+    },
+    {
+        "phrase": "Born with a silver spoon in one’s mouth",
+        "meaning": "To be born into a wealthy and privileged family.",
+        "example": "He’s never had to work hard; he was born with a silver spoon in one’s mouth."
+    },
+    {
+        "phrase": "Pay an arm and a leg",
+        "meaning": "To pay a very high price for something.",
+        "example": "I had to pay an arm and a leg for my new laptop ."
+    },
+    {
+        "phrase": "Time flies when you're having fun",
+        "meaning": "Time seems to pass quickly when you're enjoying yourself.",
+        "example": "We were laughing so much—I can’t believe it’s already midnight. Time flies when you're having fun!"
+    },
+    {
+        "phrase": "Your guess is as good as mine",
+        "meaning": "You do not know something, just like the person asking.",
+        "example": "I don’t know when the train arrives—your guess is as good as mine."
+    },
+    {
+        "phrase": "Bent out of shape",
+        "meaning": "To be upset or angry about something, often unnecessarily.",
+        "example": "She got really bent out of shape over a small typo in the report."
+    },
+    {
+        "phrase": "Speak of the devil",
+        "meaning": "Used when someone you were just talking about suddenly appears.",
+        "example": "We were just talking about you! Speak of the devil!"
+    },
+    {
+        "phrase": "On a wild goose chase",
+        "meaning": "To waste time searching for something that is not valuable or doesn’t exist.",
+        "example": "I spent all morning looking for the manager, but it turned out to be a wild goose chase."
+    },
+    {
+        "phrase": "Ignorance is bliss",
+        "meaning": "It’s sometimes better not to know the truth to avoid worry.",
+        "example": "I didn’t check my exam results yet—ignorance is bliss!"
+    },
+    {
+        "phrase": "It's raining cats and dogs",
+        "meaning": "It is raining very heavily.",
+        "example": "I forgot my umbrella and got soaked—it was raining cats and dogs ."
+    },
+    {
+        "phrase": "Once in a blue moon",
+        "meaning": "Something that happens very rarely.",
+        "example": "We only go out to dinner once in a blue moon ."
+    },
+    {
+        "phrase": "A taste of their own medicine",
+        "meaning": "Experiencing the same negative treatment one has given to others.",
+        "example": "After years of teasing others, he finally got a taste of his own medicine."
+    },
+    {
+        "phrase": "Break the ice",
+        "meaning": "To start a conversation in a social setting to make people feel comfortable.",
+        "example": "He told a joke to break the ice at the beginning of the meeting ."
+    },
+    {
+        "phrase": "Cut corners",
+        "meaning": "To do something in the cheapest or easiest way, often sacrificing quality.",
+        "example": "The company cut corners on safety, which led to an accident."
+    },
+    {
+        "phrase": "The ball is in your court",
+        "meaning": "It is now your turn to make a decision or take action.",
+        "example": "I’ve sent you the proposal—now the ball is in your court ."
+    },
+    {
+        "phrase": "The best of both worlds",
+        "meaning": "Enjoying two desirable but usually conflicting benefits at once.",
+        "example": "Living in the city but working from home gives me the best of both worlds ."
+    },
+    {
+        "phrase": "Show someone the ropes",
+        "meaning": "To teach someone how to do a job or task.",
+        "example": "My coworker showed me the ropes on my first day ."
+    },
+    {
+        "phrase": "The whole nine yards",
+        "meaning": "Everything possible; the full amount or extent.",
+        "example": "For the party, she went all out—decorations, catering, music—the whole nine yards ."
+    },
+    {
+        "phrase": "Through thick and thin",
+        "meaning": "Supporting someone during both good and bad times.",
+        "example": "True friends stay with you through thick and thin ."
+    },
+    {
+        "phrase": "Throw in the towel",
+        "meaning": "To give up or admit defeat.",
+        "example": "After failing the test three times, he finally threw in the towel."
+    },
+    {
+        "phrase": "Turn a blind eye",
+        "meaning": "To deliberately ignore something wrong.",
+        "example": "The manager turned a blind eye to the employee’s late arrivals."
+    },
+    {
+        "phrase": "Under the weather",
+        "meaning": "Feeling slightly ill or unwell.",
+        "example": "I’m feeling under the weather today, so I’ll stay home ."
+    },
+    {
+        "phrase": "Off the hook",
+        "meaning": "No longer responsible or freed from an obligation.",
+        "example": "I was supposed to work Saturday, but my boss let me off the hook."
+    },
+    {
+        "phrase": "Up in the air",
+        "meaning": "Uncertain or not yet decided.",
+        "example": "Our vacation plans are still up in the air ."
+    },
+    {
+        "phrase": "When it rains, it pours",
+        "meaning": "When bad things happen all at once.",
+        "example": "First my phone broke, then I locked myself out—when it rains, it pours ."
+    },
+    {
+        "phrase": "Back someone up",
+        "meaning": "To support or defend someone.",
+        "example": "When I was accused, my friend backed me up with an alibi ."
+    },
+    {
+        "phrase": "Break down",
+        "meaning": "To stop working, especially a machine.",
+        "example": "The car broke down on the highway during rush hour ."
+    },
+    {
+        "phrase": "Call around",
+        "meaning": "To contact several people to get information or help.",
+        "example": "I called around to find a plumber who could come immediately ."
+    },
+    {
+        "phrase": "Call off",
+        "meaning": "To cancel a plan or event.",
+        "example": "They called off the picnic due to bad weather ."
+    },
+    {
+        "phrase": "Calm down",
+        "meaning": "To become less angry, excited, or anxious.",
+        "example": "Take a deep breath and calm down before you say something you’ll regret ."
+    },
+    {
+        "phrase": "Check something out",
+        "meaning": "To examine or inspect something.",
+        "example": "I’ll check out the contract and get back to you ."
+    },
+    {
+        "phrase": "Cut down on",
+        "meaning": "To reduce the amount of something.",
+        "example": "The doctor told me to cut down on sugar ."
+    },
+    {
+        "phrase": "Cut off",
+        "meaning": "To stop the supply of something.",
+        "example": "The power was cut off during the storm ."
+    },
+    {
+        "phrase": "Cut out",
+        "meaning": "To remove something by cutting, or to stop doing a habit.",
+        "example": "I had to cut out coffee because it made me jittery ."
+    },
+    {
+        "phrase": "Deal with",
+        "meaning": "To handle or manage a situation or person.",
+        "example": "How do you deal with stress at work ?"
+    },
+    {
+        "phrase": "Dress up",
+        "meaning": "To wear formal or fancy clothes.",
+        "example": "We dressed up for the wedding even though it was outdoors ."
+    },
+    {
+        "phrase": "Drop by",
+        "meaning": "To visit someone informally.",
+        "example": "I’ll drop by your office later to return the book ."
+    },
+    {
+        "phrase": "Drop off",
+        "meaning": "To deliver something or someone, or to fall asleep.",
+        "example": "Can you drop off these papers at the post office ?"
+    },
+    {
+        "phrase": "Drop out",
+        "meaning": "To quit school or a program before finishing.",
+        "example": "He dropped out of college to start his own business ."
+    },
+    {
+        "phrase": "End up",
+        "meaning": "To finally be in a certain place or situation, often unexpectedly.",
+        "example": "We missed the bus and ended up walking home ."
+    },
+    {
+        "phrase": "Fall apart",
+        "meaning": "To break into pieces or to fail completely.",
+        "example": "The old suitcase finally fell apart after ten years of use ."
+    },
+    {
+        "phrase": "Fall behind",
+        "meaning": "To fail to keep up with others in progress or work.",
+        "example": "If you miss too many classes, you’ll fall behind in your studies ."
+    },
+    {
+        "phrase": "Fall down",
+        "meaning": "To collapse or fall to the ground.",
+        "example": "The old building fell down during the earthquake ."
+    },
+    {
+        "phrase": "Figure out",
+        "meaning": "To solve a problem or understand something.",
+        "example": "I finally figured out how to fix the printer ."
+    },
+    {
+        "phrase": "Fill in",
+        "meaning": "To complete a form or substitute for someone.",
+        "example": "Please fill in this application form before the interview ."
+    },
+    {
+        "phrase": "Fill out",
+        "meaning": "To complete a form with information.",
+        "example": "You need to fill out these documents to open a bank account ."
+    },
+    {
+        "phrase": "Fill up",
+        "meaning": "To make something completely full.",
+        "example": "I filled up the car with gas before the road trip ."
+    },
+    {
+        "phrase": "Get along with",
+        "meaning": "To have a good relationship with someone.",
+        "example": "She gets along with everyone in the office."
+    },
+    {
+        "phrase": "Get rid of",
+        "meaning": "To remove or eliminate something unwanted.",
+        "example": "I need to get rid of these old shoes."
+    },
+    {
+        "phrase": "Give up",
+        "meaning": "To stop trying or abandon an effort.",
+        "example": "She didn’t give up even after several failures."
+    },
+    {
+        "phrase": "Go over",
+        "meaning": "To review or examine details.",
+        "example": "Let’s go over the report before submitting it."
+    },
+    {
+        "phrase": "Hold on",
+        "meaning": "To wait or pause for a moment.",
+        "example": "Hold on, I’ll be ready in five minutes."
+    },
+    {
+        "phrase": "Keep an eye on",
+        "meaning": "To watch or monitor closely.",
+        "example": "Can you keep an eye on my bag while I go to the restroom?"
+    },
+    {
+        "phrase": "Let down",
+        "meaning": "To disappoint someone.",
+        "example": "He let down his teammates by missing the goal."
+    },
+    {
+        "phrase": "Look after",
+        "meaning": "To take care of someone or something.",
+        "example": "Mary looks after her younger brother every afternoon."
+    },
+    {
+        "phrase": "Look forward to",
+        "meaning": "To anticipate with pleasure.",
+        "example": "I look forward to seeing you at the party."
+    },
+    {
+        "phrase": "Make up",
+        "meaning": "To invent a story or reconcile after disagreement.",
+        "example": "They made up after their argument."
+    },
+    {
+        "phrase": "Pass away",
+        "meaning": "To die.",
+        "example": "His grandfather passed away last year."
+    },
+    {
+        "phrase": "Pick up",
+        "meaning": "To collect or learn something new.",
+        "example": "She picked up Spanish quickly while traveling."
+    },
+    {
+        "phrase": "Put off",
+        "meaning": "To postpone or delay.",
+        "example": "Can we put off the meeting until next week?"
+    },
+    {
+        "phrase": "Put on",
+        "meaning": "To wear clothes or gain weight.",
+        "example": "He put on his jacket before leaving."
+    },
+    {
+        "phrase": "Run out of",
+        "meaning": "To use all of something and have none left.",
+        "example": "We ran out of sugar, so I couldn’t bake the cake."
+    },
+    {
+        "phrase": "Set up",
+        "meaning": "To arrange or establish something.",
+        "example": "They set up a new company in Silicon Valley."
+    },
+    {
+        "phrase": "Show up",
+        "meaning": "To arrive or appear.",
+        "example": "She didn’t show up for the appointment."
+    },
+    {
+        "phrase": "Shut down",
+        "meaning": "To close or stop operating.",
+        "example": "The factory shut down due to financial problems."
+    },
+    {
+        "phrase": "Sort out",
+        "meaning": "To organize or resolve a problem.",
+        "example": "Let’s sort out these papers before the meeting."
+    },
+    {
+        "phrase": "Take after",
+        "meaning": "To resemble a family member in appearance or character.",
+        "example": "She takes after her father and loves reading."
+    },
+    {
+        "phrase": "Take care of",
+        "meaning": "To look after someone or something.",
+        "example": "Please take care of the plants while I’m away."
+    },
+    {
+        "phrase": "Take off",
+        "meaning": "To leave the ground; become successful.",
+        "example": "The plane will take off in ten minutes."
+    },
+    {
+        "phrase": "Tear up",
+        "meaning": "To destroy by tearing into pieces.",
+        "example": "He tore up the letter after reading it."
+    },
+    {
+        "phrase": "Think over",
+        "meaning": "To consider or reflect on something.",
+        "example": "Think over my offer before you decide."
+    },
+    {
+        "phrase": "Throw away",
+        "meaning": "To dispose of something as waste.",
+        "example": "Don’t forget to throw away the empty wrappers."
+    },
+    {
+        "phrase": "Top off",
+        "meaning": "To fill up to the maximum; finish something impressively.",
+        "example": "The meal was topped off with a delicious dessert."
+    },
+    {
+        "phrase": "Turn down",
+        "meaning": "To reject or refuse.",
+        "example": "She turned down the job offer because of the salary."
+    },
+    {
+        "phrase": "Try on",
+        "meaning": "To put on clothing to see if it fits.",
+        "example": "Try on the dress before you buy it."
+    },
+    {
+        "phrase": "Wait on",
+        "meaning": "To serve someone, especially in a restaurant.",
+        "example": "The waiter waited on us quickly."
+    },
+    {
+        "phrase": "Wait out",
+        "meaning": "To wait until something ends.",
+        "example": "We’ll wait out the storm before driving home."
+    },
+    {
+        "phrase": "Wake up",
+        "meaning": "To stop sleeping.",
+        "example": "I wake up at 6 a.m. every day."
+    },
+    {
+        "phrase": "Warm up",
+        "meaning": "To prepare for physical activity.",
+        "example": "Stretch to warm up before running."
+    },
+    {
+        "phrase": "Work out",
+        "meaning": "To exercise or resolve a problem.",
+        "example": "They worked out their differences after talking."
+    },
+    {
+        "phrase": "Write down",
+        "meaning": "To record on paper.",
+        "example": "Write down your homework assignments."
+    },
+    {
+        "phrase": "Back out",
+        "meaning": "To withdraw from a commitment.",
+        "example": "She backed out of the agreement at the last minute."
+    },
+    {
+        "phrase": "Blow up",
+        "meaning": "To explode or get very angry.",
+        "example": "The tire blew up on the highway."
+    },
+    {
+        "phrase": "Break in",
+        "meaning": "To enter by force or start using something new.",
+        "example": "Someone tried to break in last night."
+    },
+    {
+        "phrase": "Bring up",
+        "meaning": "To mention a topic or raise a child.",
+        "example": "She brought up an interesting point."
+    },
+    {
+        "phrase": "Carry on",
+        "meaning": "To continue doing something.",
+        "example": "Carry on with your work quietly."
+    },
+    {
+        "phrase": "Catch up with",
+        "meaning": "To reach the same level or update someone.",
+        "example": "I need to catch up with my assignments."
+    },
+    {
+        "phrase": "Check in",
+        "meaning": "To register upon arrival.",
+        "example": "We checked in at the hotel late last night."
+    },
+    {
+        "phrase": "Check out",
+        "meaning": "To leave and pay for your stay.",
+        "example": "Don’t forget to check out before noon."
+    },
+    {
+        "phrase": "Come across",
+        "meaning": "To find unexpectedly.",
+        "example": "I came across my childhood photos."
+    },
+    {
+        "phrase": "Cut out",
+        "meaning": "To remove or eliminate.",
+        "example": "The doctor told me to cut out junk food."
+    },
+    {
+        "phrase": "Drop by",
+        "meaning": "To visit informally.",
+        "example": "I’ll drop by after work."
+    },
+    {
+        "phrase": "Drop off",
+        "meaning": "To deliver or fall asleep.",
+        "example": "Please drop off the package at reception."
+    },
+    {
+        "phrase": "End up",
+        "meaning": "To finally be in a situation, often by accident.",
+        "example": "We ended up eating at a new restaurant."
+    },
+    {
+        "phrase": "Fall apart",
+        "meaning": "To break into pieces or collapse emotionally.",
+        "example": "The plan fell apart when the sponsor quit."
+    },
+    {
+        "phrase": "Get along with",
+        "meaning": "To have a good relationship.",
+        "example": "Sam gets along with his colleagues easily."
+    },
+    {
+        "phrase": "Give in",
+        "meaning": "To surrender after resistance.",
+        "example": "He finally gave in to their demands."
+    },
+    {
+        "phrase": "Add up",
+        "meaning": "To make sense or seem logical.",
+        "example": "His story doesn’t add up—he said he was home all night, but his car was seen downtown."
+    },
+    {
+        "phrase": "Back down",
+        "meaning": "To retreat from a position or argument under pressure.",
+        "example": "He refused to back down even when confronted with evidence."
+    },
+    {
+        "phrase": "Blow over",
+        "meaning": "To pass without serious consequences.",
+        "example": "The argument will blow over in a few days; they always make up."
+    },
+    {
+        "phrase": "Break down",
+        "meaning": "To lose emotional control and start crying.",
+        "example": "She broke down in tears when she heard the news."
+    },
+    {
+        "phrase": "Bring about",
+        "meaning": "To cause something to happen.",
+        "example": "The new policy helped bring about positive changes in the company."
+    },
+    {
+        "phrase": "Call it a day",
+        "meaning": "To stop working for the day or permanently.",
+        "example": "We’ve made good progress—let’s call it a day."
+    },
+    {
+        "phrase": "Catch on",
+        "meaning": "To understand something or become popular.",
+        "example": "It took me a while to catch on to the new software."
+    },
+    {
+        "phrase": "Check out",
+        "meaning": "To investigate or examine something.",
+        "example": "I’ll check out that new café this weekend."
+    },
+    {
+        "phrase": "Come up with",
+        "meaning": "To think of or produce an idea or solution.",
+        "example": "We need to come up with a better marketing strategy."
+    },
+    {
+        "phrase": "Cut back on",
+        "meaning": "To reduce the amount of something.",
+        "example": "I’m trying to cut back on caffeine to sleep better."
+    },
+    {
+        "phrase": "Do away with",
+        "meaning": "To abolish or get rid of something.",
+        "example": "The school decided to do away with the uniform policy."
+    },
+    {
+        "phrase": "Dress down",
+        "meaning": "To wear casual clothes or to scold someone.",
+        "example": "It’s Friday, so we can dress down at work."
+    },
+    {
+        "phrase": "Fall through",
+        "meaning": "To fail to happen or be completed.",
+        "example": "Our vacation plans fell through when the flights were canceled."
+    },
+    {
+        "phrase": "Get across",
+        "meaning": "To successfully communicate an idea.",
+        "example": "It took several examples to get the point across."
+    },
+    {
+        "phrase": "Get over",
+        "meaning": "To recover from an illness or emotional event.",
+        "example": "It took months to get over the breakup."
+    },
+    {
+        "phrase": "Give off",
+        "meaning": "To emit a smell, light, or sound.",
+        "example": "The flowers give off a sweet fragrance."
+    },
+    {
+        "phrase": "Go back on",
+        "meaning": "To break a promise or agreement.",
+        "example": "He went back on his word and refused to help."
+    },
+    {
+        "phrase": "Hold back",
+        "meaning": "To restrain oneself or withhold information.",
+        "example": "She held back tears during the emotional speech."
+    },
+    {
+        "phrase": "Keep up with",
+        "meaning": "To stay at the same level as others.",
+        "example": "It’s hard to keep up with the latest technology."
+    },
+    {
+        "phrase": "Lay off",
+        "meaning": "To dismiss employees from their jobs.",
+        "example": "The company had to lay off 100 workers due to losses."
+    },
+    {
+        "phrase": "Let out",
+        "meaning": "To allow someone to leave or release something.",
+        "example": "The teacher let the students out early."
+    },
+    {
+        "phrase": "Look down on",
+        "meaning": "To regard someone as inferior.",
+        "example": "He looks down on people who didn’t go to college."
+    },
+    {
+        "phrase": "Look up to",
+        "meaning": "To admire or respect someone.",
+        "example": "Children often look up to their parents."
+    },
+    {
+        "phrase": "Make for",
+        "meaning": "To head toward a place.",
+        "example": "After dinner, we made for the cinema."
+    },
+    {
+        "phrase": "Make up for",
+        "meaning": "To compensate for something missed or lost.",
+        "example": "The bonus made up for the long hours."
+    },
+    {
+        "phrase": "Pass on",
+        "meaning": "To decline an offer or transmit information.",
+        "example": "I’ll pass on the dessert—I’m full."
+    },
+    {
+        "phrase": "Pick on",
+        "meaning": "To repeatedly criticize or bully someone.",
+        "example": "Stop picking on your little brother."
+    },
+    {
+        "phrase": "Put up with",
+        "meaning": "To tolerate something unpleasant.",
+        "example": "I can’t put up with his constant complaining."
+    },
+    {
+        "phrase": "Run into",
+        "meaning": "To meet someone unexpectedly or encounter a problem.",
+        "example": "I ran into an old friend at the supermarket."
+    },
+    {
+        "phrase": "Set off",
+        "meaning": "To start a journey or cause something to happen.",
+        "example": "We set off early to avoid traffic."
+    },
+    {
+        "phrase": "Show off",
+        "meaning": "To boast or display something proudly.",
+        "example": "He loves to show off his new car."
+    },
+    {
+        "phrase": "Stand by",
+        "meaning": "To support someone or be ready.",
+        "example": "I’ll stand by you no matter what happens."
+    },
+    {
+        "phrase": "Take in",
+        "meaning": "To understand information or deceive someone.",
+        "example": "It took a moment to take in the shocking news."
+    },
+    {
+        "phrase": "Take on",
+        "meaning": "To accept a challenge or responsibility.",
+        "example": "She decided to take on the role of team leader."
+    },
+    {
+        "phrase": "Talk into",
+        "meaning": "To persuade someone to do something.",
+        "example": "He talked me into joining the hiking trip."
+    },
+    {
+        "phrase": "Tear down",
+        "meaning": "To demolish a building or criticize harshly.",
+        "example": "The old factory was torn down last year."
+    },
+    {
+        "phrase": "Think through",
+        "meaning": "To consider all aspects of a decision.",
+        "example": "You should think through the consequences before quitting."
+    },
+    {
+        "phrase": "Throw out",
+        "meaning": "To discard something or expel someone.",
+        "example": "They threw out the old furniture."
+    },
+    {
+        "phrase": "Turn into",
+        "meaning": "To change into something different.",
+        "example": "The argument turned into a full-blown fight."
+    },
+    {
+        "phrase": "Use up",
+        "meaning": "To consume all of something.",
+        "example": "We’ve used up all the printer paper."
+    },
+    {
+        "phrase": "Wait for",
+        "meaning": "To stay in place until something happens.",
+        "example": "I’ll wait for you at the bus stop."
+    },
+    {
+        "phrase": "Pass something up",
+        "meaning": "To decline or refuse something, usually something good.",
+        "example": "I passed up the job offer because I wasn’t ready to move cities."
+    },
+    {
+        "phrase": "Pay somebody back",
+        "meaning": "To return money that you owe.",
+        "example": "I’ll pay you back for the coffee tomorrow."
+    },
+    {
+        "phrase": "Pay for something",
+        "meaning": "To be punished or suffer consequences for something bad.",
+        "example": "He’ll pay for his mistakes sooner or later."
+    },
+    {
+        "phrase": "Pick something out",
+        "meaning": "To choose or select from a group.",
+        "example": "She picked out a dress for the party."
+    },
+    {
+        "phrase": "Point somebody/something out",
+        "meaning": "To indicate with your finger or words.",
+        "example": "The teacher pointed out the error in my essay."
+    },
+    {
+        "phrase": "Pull something off",
+        "meaning": "To succeed in doing something difficult.",
+        "example": "He pulled off a surprise party without her suspecting a thing."
+    },
+    {
+        "phrase": "Put something down",
+        "meaning": "To write something on paper, or insult someone.",
+        "example": "Please put your name down on the list."
+    },
+    {
+        "phrase": "Put something together",
+        "meaning": "To assemble or arrange.",
+        "example": "We put together a team for the competition."
+    },
+    {
+        "phrase": "Put up with",
+        "meaning": "To tolerate or endure something unpleasant.",
+        "example": "She put up with noisy neighbors for years."
+    },
+    {
+        "phrase": "Rip off",
+        "meaning": "To cheat someone financially.",
+        "example": "Tourists often get ripped off when buying souvenirs."
+    },
+    {
+        "phrase": "Rule out",
+        "meaning": "To eliminate as a possibility.",
+        "example": "The doctor ruled out food poisoning after examining him."
+    },
+    {
+        "phrase": "Run across",
+        "meaning": "To find or meet by chance.",
+        "example": "I ran across an old friend at the grocery store."
+    },
+    {
+        "phrase": "Run over",
+        "meaning": "To hit someone or something with a vehicle.",
+        "example": "The car ran over a pothole and damaged its tire."
+    },
+    {
+        "phrase": "See eye to eye",
+        "meaning": "To agree completely.",
+        "example": "My parents don’t always see eye to eye on politics."
+    },
+    {
+        "phrase": "Shake something off",
+        "meaning": "To recover or get rid of something, especially illness or emotions.",
+        "example": "I’m trying to shake off this cold before the weekend."
+    },
+    {
+        "phrase": "Show up",
+        "meaning": "To arrive, especially late or unexpectedly.",
+        "example": "He showed up at the meeting uninvited."
+    },
+    {
+        "phrase": "Shut someone down",
+        "meaning": "To stop someone from continuing, usually conversation or work.",
+        "example": "The moderator shut him down when he went off topic."
+    },
+    {
+        "phrase": "Single someone out",
+        "meaning": "To select one person from a group for special attention.",
+        "example": "The teacher singled out Jane for her hard work."
+    },
+    {
+        "phrase": "Sit back",
+        "meaning": "To relax and not get involved.",
+        "example": "Just sit back and enjoy the movie."
+    },
+    {
+        "phrase": "Sit tight",
+        "meaning": "To wait patiently and not take action yet.",
+        "example": "The boss said to sit tight until he gets back to us."
+    },
+    {
+        "phrase": "Slip one’s mind",
+        "meaning": "To forget something.",
+        "example": "My appointment slipped my mind and I missed it entirely."
+    },
+    {
+        "phrase": "Sort out",
+        "meaning": "To resolve a problem or organize things.",
+        "example": "We need to sort out our finances before the trip."
+    },
+    {
+        "phrase": "Spill the beans",
+        "meaning": "To reveal a secret.",
+        "example": "He accidentally spilled the beans about the surprise party."
+    },
+    {
+        "phrase": "Stand out",
+        "meaning": "To be noticeable or distinctive.",
+        "example": "Her bright dress helped her stand out in the crowd."
+    },
+    {
+        "phrase": "Stand up for",
+        "meaning": "To defend or support someone or something.",
+        "example": "He stood up for his colleague during the meeting."
+    },
+    {
+        "phrase": "Step down",
+        "meaning": "To resign from a position.",
+        "example": "The CEO decided to step down after ten years."
+    },
+    {
+        "phrase": "Stick to",
+        "meaning": "To keep doing something without changing.",
+        "example": "He sticks to his routine, even on weekends."
+    },
+    {
+        "phrase": "Stick out",
+        "meaning": "To be noticeable or protrude.",
+        "example": "That tower really sticks out among the other buildings."
+    },
+    {
+        "phrase": "Take after",
+        "meaning": "To resemble a family member in looks or behavior.",
+        "example": "She takes after her mother’s kindness."
+    },
+    {
+        "phrase": "Take off",
+        "meaning": "To suddenly become successful or leave the ground.",
+        "example": "The business took off quickly after launching online."
+    },
+    {
+        "phrase": "Talk over",
+        "meaning": "To discuss thoroughly.",
+        "example": "Let’s talk it over before making a decision."
+    },
+    {
+        "phrase": "Tear something up",
+        "meaning": "To destroy by ripping into pieces.",
+        "example": "She tore up the old photos."
+    },
+    {
+        "phrase": "Think ahead",
+        "meaning": "To plan for the future.",
+        "example": "It’s important to think ahead when managing your finances."
+    },
+    {
+        "phrase": "Throw in the towel",
+        "meaning": "To give up or surrender.",
+        "example": "After many attempts, he finally threw in the towel."
+    },
+    {
+        "phrase": "Touch down",
+        "meaning": "To land, especially of airplanes.",
+        "example": "The plane touched down safely in heavy rain."
+    },
+    {
+        "phrase": "Turn something around",
+        "meaning": "To change something for the better.",
+        "example": "The new manager turned the company around in a year."
+    },
+    {
+        "phrase": "Turn down",
+        "meaning": "To refuse or reject.",
+        "example": "I turned down the offer because it wasn’t right for me."
+    },
+    {
+        "phrase": "Wait on someone",
+        "meaning": "To serve, especially in a restaurant.",
+        "example": "The waiter waited on us promptly."
+    },
+    {
+        "phrase": "Wear off",
+        "meaning": "To gradually disappear or diminish.",
+        "example": "The painkiller’s effect wore off after a few hours."
+    },
+    {
+        "phrase": "Work out",
+        "meaning": "To resolve a problem or exercise.",
+        "example": "We finally worked out a solution everyone agreed with."
+    },
+    {
+        "phrase": "Write something off",
+        "meaning": "To cancel a debt or consider something a loss.",
+        "example": "The company wrote off the old equipment."
+    },
+    {
+        "phrase": "Zero in on",
+        "meaning": "To focus closely and target something.",
+        "example": "The scientists zeroed in on the cause of the outbreak."
+    },
+    {
+        "phrase": "Zone out",
+        "meaning": "To stop paying attention or lose focus.",
+        "example": "I zoned out during the long lecture."
+    },
+    {
+        "phrase": "Get cold feet",
+        "meaning": "To suddenly become fearful about something planned.",
+        "example": "He got cold feet right before his wedding."
+    },
+    {
+        "phrase": "Take a rain check",
+        "meaning": "To decline now but suggest maybe later.",
+        "example": "I can’t go tonight, but I’d like to take a rain check."
+    },
+    {
+        "phrase": "Let the cat out of the bag",
+        "meaning": "To accidentally reveal a secret.",
+        "example": "She let the cat out of the bag about his promotion."
+    },
+    {
+        "phrase": "Pass something up",
+        "meaning": "To decline or refuse something, usually something good.",
+        "example": "I passed up the job offer because I wasn’t ready to move cities."
+    },
+    {
+        "phrase": "Pay somebody back",
+        "meaning": "To return money that you owe.",
+        "example": "I’ll pay you back for the coffee tomorrow."
+    },
+    {
+        "phrase": "Pay for something",
+        "meaning": "To be punished or suffer consequences for something bad.",
+        "example": "He’ll pay for his mistakes sooner or later."
+    },
+    {
+        "phrase": "Pick something out",
+        "meaning": "To choose or select from a group.",
+        "example": "She picked out a dress for the party."
+    },
+    {
+        "phrase": "Point somebody/something out",
+        "meaning": "To indicate with your finger or words.",
+        "example": "The teacher pointed out the error in my essay."
+    },
+    {
+        "phrase": "Pull something off",
+        "meaning": "To succeed in doing something difficult.",
+        "example": "He pulled off a surprise party without her suspecting a thing."
+    },
+    {
+        "phrase": "Put something down",
+        "meaning": "To write something on paper, or insult someone.",
+        "example": "Please put your name down on the list."
+    },
+    {
+        "phrase": "Put something together",
+        "meaning": "To assemble or arrange.",
+        "example": "We put together a team for the competition."
+    },
+    {
+        "phrase": "Put up with",
+        "meaning": "To tolerate or endure something unpleasant.",
+        "example": "She put up with noisy neighbors for years."
+    },
+    {
+        "phrase": "Rip off",
+        "meaning": "To cheat someone financially.",
+        "example": "Tourists often get ripped off when buying souvenirs."
+    },
+    {
+        "phrase": "Rule out",
+        "meaning": "To eliminate as a possibility.",
+        "example": "The doctor ruled out food poisoning after examining him."
+    },
+    {
+        "phrase": "Run across",
+        "meaning": "To find or meet by chance.",
+        "example": "I ran across an old friend at the grocery store."
+    },
+    {
+        "phrase": "Run over",
+        "meaning": "To hit someone or something with a vehicle.",
+        "example": "The car ran over a pothole and damaged its tire."
+    },
+    {
+        "phrase": "See eye to eye",
+        "meaning": "To agree completely.",
+        "example": "My parents don’t always see eye to eye on politics."
+    },
+    {
+        "phrase": "Shake something off",
+        "meaning": "To recover or get rid of something, especially illness or emotions.",
+        "example": "I’m trying to shake off this cold before the weekend."
+    },
+    {
+        "phrase": "Show up",
+        "meaning": "To arrive, especially late or unexpectedly.",
+        "example": "He showed up at the meeting uninvited."
+    },
+    {
+        "phrase": "Shut someone down",
+        "meaning": "To stop someone from continuing, usually conversation or work.",
+        "example": "The moderator shut him down when he went off topic."
+    },
+    {
+        "phrase": "Single someone out",
+        "meaning": "To select one person from a group for special attention.",
+        "example": "The teacher singled out Jane for her hard work."
+    },
+    {
+        "phrase": "Sit back",
+        "meaning": "To relax and not get involved.",
+        "example": "Just sit back and enjoy the movie."
+    },
+    {
+        "phrase": "Sit tight",
+        "meaning": "To wait patiently and not take action yet.",
+        "example": "The boss said to sit tight until he gets back to us."
+    },
+    {
+        "phrase": "Slip one’s mind",
+        "meaning": "To forget something.",
+        "example": "My appointment slipped my mind and I missed it entirely."
+    },
+    {
+        "phrase": "Sort out",
+        "meaning": "To resolve a problem or organize things.",
+        "example": "We need to sort out our finances before the trip."
+    },
+    {
+        "phrase": "Spill the beans",
+        "meaning": "To reveal a secret.",
+        "example": "He accidentally spilled the beans about the surprise party."
+    },
+    {
+        "phrase": "Stand out",
+        "meaning": "To be noticeable or distinctive.",
+        "example": "Her bright dress helped her stand out in the crowd."
+    },
+    {
+        "phrase": "Stand up for",
+        "meaning": "To defend or support someone or something.",
+        "example": "He stood up for his colleague during the meeting."
+    },
+    {
+        "phrase": "Step down",
+        "meaning": "To resign from a position.",
+        "example": "The CEO decided to step down after ten years."
+    },
+    {
+        "phrase": "Stick to",
+        "meaning": "To keep doing something without changing.",
+        "example": "He sticks to his routine, even on weekends."
+    },
+    {
+        "phrase": "Stick out",
+        "meaning": "To be noticeable or protrude.",
+        "example": "That tower really sticks out among the other buildings."
+    },
+    {
+        "phrase": "Take after",
+        "meaning": "To resemble a family member in looks or behavior.",
+        "example": "She takes after her mother’s kindness."
+    },
+    {
+        "phrase": "Take off",
+        "meaning": "To suddenly become successful or leave the ground.",
+        "example": "The business took off quickly after launching online."
+    },
+    {
+        "phrase": "Talk over",
+        "meaning": "To discuss thoroughly.",
+        "example": "Let’s talk it over before making a decision."
+    },
+    {
+        "phrase": "Tear something up",
+        "meaning": "To destroy by ripping into pieces.",
+        "example": "She tore up the old photos."
+    },
+    {
+        "phrase": "Think ahead",
+        "meaning": "To plan for the future.",
+        "example": "It’s important to think ahead when managing your finances."
+    },
+    {
+        "phrase": "Throw in the towel",
+        "meaning": "To give up or surrender.",
+        "example": "After many attempts, he finally threw in the towel."
+    },
+    {
+        "phrase": "Touch down",
+        "meaning": "To land, especially of airplanes.",
+        "example": "The plane touched down safely in heavy rain."
+    },
+    {
+        "phrase": "Turn something around",
+        "meaning": "To change something for the better.",
+        "example": "The new manager turned the company around in a year."
+    },
+    {
+        "phrase": "Turn down",
+        "meaning": "To refuse or reject.",
+        "example": "I turned down the offer because it wasn’t right for me."
+    },
+    {
+        "phrase": "Wait on someone",
+        "meaning": "To serve, especially in a restaurant.",
+        "example": "The waiter waited on us promptly."
+    },
+    {
+        "phrase": "Wear off",
+        "meaning": "To gradually disappear or diminish.",
+        "example": "The painkiller’s effect wore off after a few hours."
+    },
+    {
+        "phrase": "Work out",
+        "meaning": "To resolve a problem or exercise.",
+        "example": "We finally worked out a solution everyone agreed with."
+    },
+    {
+        "phrase": "Write something off",
+        "meaning": "To cancel a debt or consider something a loss.",
+        "example": "The company wrote off the old equipment."
+    },
+    {
+        "phrase": "Zero in on",
+        "meaning": "To focus closely and target something.",
+        "example": "The scientists zeroed in on the cause of the outbreak."
+    },
+    {
+        "phrase": "Zone out",
+        "meaning": "To stop paying attention or lose focus.",
+        "example": "I zoned out during the long lecture."
+    },
+    {
+        "phrase": "Get cold feet",
+        "meaning": "To suddenly become fearful about something planned.",
+        "example": "He got cold feet right before his wedding."
+    },
+    {
+        "phrase": "Take a rain check",
+        "meaning": "To decline now but suggest maybe later.",
+        "example": "I can’t go tonight, but I’d like to take a rain check."
+    },
+    {
+        "phrase": "Let the cat out of the bag",
+        "meaning": "To accidentally reveal a secret.",
+        "example": "She let the cat out of the bag about his promotion."
+    },
+    {
+        "phrase": "Make ends meet",
+        "meaning": "To have enough money to cover your basic expenses.",
+        "example": "Many families struggle to make ends meet these days."
+    },
+    {
+        "phrase": "Go the extra mile",
+        "meaning": "To do more than what is expected.",
+        "example": "She always goes the extra mile to help her students."
+    },
+    {
+        "phrase": "Barking up the wrong tree",
+        "meaning": "To make a wrong assumption or pursue a mistaken or misguided course of action.",
+        "example": "If you think I broke the vase, you’re barking up the wrong tree."
+    },
+    {
+        "phrase": "Burn the midnight oil",
+        "meaning": "To work late into the night.",
+        "example": "He was burning the midnight oil before his big exam."
+    },
+    {
+        "phrase": "Hit the nail on the head",
+        "meaning": "To describe exactly what is causing a situation or problem.",
+        "example": "When she mentioned the budget, she really hit the nail on the head."
+    },
+    {
+        "phrase": "Let the chips fall where they may",
+        "meaning": "To let something happen, no matter what the consequences are.",
+        "example": "Tell the truth and let the chips fall where they may."
+    },
+    {
+        "phrase": "Pull someone’s leg",
+        "meaning": "To tease or joke with someone.",
+        "example": "Don’t believe him—he’s just pulling your leg."
+    },
+    {
+        "phrase": "Under someone’s thumb",
+        "meaning": "Under someone’s control or influence.",
+        "example": "He’s completely under his boss’s thumb."
+    },
+    {
+        "phrase": "Throw caution to the wind",
+        "meaning": "To take a risk or act recklessly.",
+        "example": "She decided to throw caution to the wind and buy the expensive dress."
+    },
+    {
+        "phrase": "Put all your eggs in one basket",
+        "meaning": "To risk everything on a single venture.",
+        "example": "Investing all your savings in one stock is putting all your eggs in one basket."
+    },
+    {
+        "phrase": "Bite the bullet",
+        "meaning": "To do something very difficult or unpleasant that you have been putting off.",
+        "example": "She decided to bite the bullet and take the difficult exam."
+    },
+    {
+        "phrase": "Cut to the chase",
+        "meaning": "To get to the point without wasting time.",
+        "example": "Let’s cut to the chase and discuss what really matters."
+    },
+    {
+        "phrase": "Take with a grain of salt",
+        "meaning": "To not take something too seriously.",
+        "example": "Take everything he says with a grain of salt."
+    },
+    {
+        "phrase": "Up in arms",
+        "meaning": "To be very angry about something.",
+        "example": "Residents are up in arms about the new parking rules."
+    },
+    {
+        "phrase": "Take the plunge",
+        "meaning": "To do something difficult or risky after thinking about it.",
+        "example": "After years of planning, they finally took the plunge and opened a restaurant."
+    },
+    {
+        "phrase": "Go back to the drawing board",
+        "meaning": "To start over with a new plan after a failure.",
+        "example": "The project failed, so it’s back to the drawing board."
+    },
+    {
+        "phrase": "Leave no stone unturned",
+        "meaning": "To do everything possible to find something or solve a problem.",
+        "example": "She left no stone unturned in the search for her lost dog."
+    },
+    {
+        "phrase": "Keep an ear to the ground",
+        "meaning": "To pay attention to what is happening or being said.",
+        "example": "Journalists keep an ear to the ground for breaking news."
+    },
+    {
+        "phrase": "On the fence",
+        "meaning": "Unable to decide about something.",
+        "example": "I’m still on the fence about moving abroad."
+    },
+    {
+        "phrase": "Beat around the bush",
+        "meaning": "To avoid talking about the main topic.",
+        "example": "Stop beating around the bush and tell me what happened."
+    },
+    {
+        "phrase": "Out of the blue",
+        "meaning": "Something happening unexpectedly.",
+        "example": "He showed up out of the blue with flowers."
+    },
+    {
+        "phrase": "In hot water",
+        "meaning": "In trouble or difficulty.",
+        "example": "He was in hot water for missing the meeting."
+    },
+    {
+        "phrase": "Off the cuff",
+        "meaning": "Without preparation, spontaneous.",
+        "example": "She made a speech off the cuff."
+    },
+    {
+        "phrase": "The ball is in your court",
+        "meaning": "It’s your decision or responsibility to take action.",
+        "example": "I’ve done my part—the ball is in your court now."
+    },
+    {
+        "phrase": "Know the ropes",
+        "meaning": "To understand the details of how to do something, especially a job.",
+        "example": "It took me a month to know the ropes at my new job."
+    },
+    {
+        "phrase": "Not playing with a full deck",
+        "meaning": "Someone who isn’t mentally sound or is acting strangely.",
+        "example": "After that strange comment, I think he’s not playing with a full deck."
+    },
+    {
+        "phrase": "Open a can of worms",
+        "meaning": "To create new complications while trying to solve a problem.",
+        "example": "Mentioning politics opened a can of worms at the dinner table."
+    },
+    {
+        "phrase": "Down in the dumps",
+        "meaning": "Feeling sad or depressed.",
+        "example": "She’s down in the dumps after her breakup."
+    },
+    {
+        "phrase": "A blessing in disguise",
+        "meaning": "Something that seems bad at first but results in something good.",
+        "example": "Losing that job was a blessing in disguise."
+    },
+    {
+        "phrase": "Cry over spilled milk",
+        "meaning": "To be upset about something that has already happened and cannot be changed.",
+        "example": "There’s no use crying over spilled milk."
+    },
+    {
+        "phrase": "Spill the beans",
+        "meaning": "To reveal a secret.",
+        "example": "He spilled the beans about the surprise party."
+    },
+    {
+        "phrase": "Miss the boat",
+        "meaning": "To miss an opportunity.",
+        "example": "He missed the boat on investing in the company early."
+    },
+    {
+        "phrase": "Blow off steam",
+        "meaning": "To get rid of strong feelings by doing something active.",
+        "example": "After work, she goes running to blow off steam."
+    },
+    {
+        "phrase": "Kick the bucket",
+        "meaning": "To die.",
+        "example": "The old landlord finally kicked the bucket."
+    },
+    {
+        "phrase": "Throw in the towel",
+        "meaning": "To give up on something.",
+        "example": "After several failed attempts, he threw in the towel."
+    },
+    {
+        "phrase": "Steal one’s thunder",
+        "meaning": "To take the credit for something someone else did.",
+        "example": "He stole my thunder by announcing the project first."
+    },
+    {
+        "phrase": "Kill two birds with one stone",
+        "meaning": "To accomplish two things at once.",
+        "example": "By going to the grocery store on the way home, I killed two birds with one stone."
+    },
+    {
+        "phrase": "Add fuel to the fire",
+        "meaning": "To make a bad situation worse.",
+        "example": "His comments just added fuel to the fire."
+    },
+    {
+        "phrase": "On cloud nine",
+        "meaning": "Extremely happy.",
+        "example": "She was on cloud nine after getting promoted."
+    },
+    {
+        "phrase": "The elephant in the room",
+        "meaning": "A major issue that everyone’s avoiding.",
+        "example": "Discussing his job loss was the elephant in the room."
+    },
+    {
+        "phrase": "Call it a day",
+        "meaning": "To stop working for the day.",
+        "example": "After fixing the leak, they called it a day."
+    },
+    {
+        "phrase": "The last straw",
+        "meaning": "The final problem that makes a situation unbearable.",
+        "example": "His rude comment was the last straw."
+    },
+    {
+        "phrase": "Get out of hand",
+        "meaning": "To become out of control.",
+        "example": "The party got out of hand very quickly."
+    },
+    {
+        "phrase": "In the dark",
+        "meaning": "Not knowing about something important.",
+        "example": "I was kept in the dark about the meeting."
+    },
+    {
+        "phrase": "In a pickle",
+        "meaning": "In a difficult or problematic situation.",
+        "example": "I’m in a pickle because I forgot my keys."
+    },
+    {
+        "phrase": "The tip of the iceberg",
+        "meaning": "A small, visible part of a much larger problem.",
+        "example": "These complaints are just the tip of the iceberg."
+    },
+    {
+        "phrase": "Ring a bell",
+        "meaning": "To sound or seem familiar.",
+        "example": "That name rings a bell, but I can’t remember where I heard it."
+    },
+    {
+        "phrase": "On the ball",
+        "meaning": "To be alert and ready.",
+        "example": "Good job on catching that error—you’re really on the ball."
+    },
+    {
+        "phrase": "Keep your chin up",
+        "meaning": "To stay positive in a difficult situation.",
+        "example": "Times are tough, but keep your chin up."
+    },
+    {
+        "phrase": "Make ends meet",
+        "meaning": "To earn just enough money to live on.",
+        "example": "After the pay cut, it was hard to make ends meet."
+    },
+    {
+        "phrase": "Go the extra mile",
+        "meaning": "To do more than what is required.",
+        "example": "She went the extra mile to help her coworker finish the project."
+    },
+    {
+        "phrase": "Barking up the wrong tree",
+        "meaning": "To be mistaken about the cause or person responsible.",
+        "example": "If you think I took your phone, you’re barking up the wrong tree."
+    },
+    {
+        "phrase": "Burn the midnight oil",
+        "meaning": "To work late into the night.",
+        "example": "I had to burn the midnight oil to finish the report on time."
+    },
+    {
+        "phrase": "Hit the nail on the head",
+        "meaning": "To describe exactly what is right or true.",
+        "example": "When you said the issue was communication, you really hit the nail on the head."
+    },
+    {
+        "phrase": "Let the chips fall where they may",
+        "meaning": "To accept whatever consequences happen.",
+        "example": "I’m telling the truth—let the chips fall where they may."
+    },
+    {
+        "phrase": "Pull someone’s leg",
+        "meaning": "To tease or joke with someone.",
+        "example": "I was just pulling your leg—I didn’t really lose your keys."
+    },
+    {
+        "phrase": "Under someone’s thumb",
+        "meaning": "Completely controlled by another person.",
+        "example": "Ever since the merger, the team has been under the CEO’s thumb."
+    },
+    {
+        "phrase": "Throw caution to the wind",
+        "meaning": "To act recklessly or take a big risk.",
+        "example": "She threw caution to the wind and booked a one-way ticket to Paris."
+    },
+    {
+        "phrase": "Put all your eggs in one basket",
+        "meaning": "To risk everything on a single opportunity.",
+        "example": "Investing your entire savings in one startup is like putting all your eggs in one basket."
+    },
+    {
+        "phrase": "Bite the bullet",
+        "meaning": "To face a painful or difficult situation bravely.",
+        "example": "It’s time to bite the bullet and tell him the truth."
+    },
+    {
+        "phrase": "Cut to the chase",
+        "meaning": "To get to the point without delay.",
+        "example": "We don’t have much time—let’s cut to the chase."
+    },
+    {
+        "phrase": "Take with a grain of salt",
+        "meaning": "To not fully believe or accept something.",
+        "example": "You should take his advice with a grain of salt—he’s not an expert."
+    },
+    {
+        "phrase": "Up in arms",
+        "meaning": "Angry and protesting about something.",
+        "example": "The community was up in arms over the new construction plans."
+    },
+    {
+        "phrase": "Take the plunge",
+        "meaning": "To finally do something after much hesitation.",
+        "example": "After months of thinking, they took the plunge and bought a house."
+    },
+    {
+        "phrase": "Go back to the drawing board",
+        "meaning": "To start over after a failed attempt.",
+        "example": "The design didn’t work, so we went back to the drawing board."
+    },
+    {
+        "phrase": "Leave no stone unturned",
+        "meaning": "To do everything possible to achieve something.",
+        "example": "The detective left no stone unturned in solving the case."
+    },
+    {
+        "phrase": "Keep an ear to the ground",
+        "meaning": "To stay alert for new information or developments.",
+        "example": "Investors keep an ear to the ground for market changes."
+    },
+    {
+        "phrase": "On the fence",
+        "meaning": "Undecided about something.",
+        "example": "I’m still on the fence about accepting the job offer."
+    },
+    {
+        "phrase": "Beat around the bush",
+        "meaning": "To avoid speaking directly about something.",
+        "example": "Stop beating around the bush and tell me what you really think."
+    },
+    {
+        "phrase": "Out of the blue",
+        "meaning": "Completely unexpectedly.",
+        "example": "Out of the blue, she called and invited me to dinner."
+    },
+    {
+        "phrase": "In hot water",
+        "meaning": "In trouble or difficulty.",
+        "example": "He’s in hot water for submitting the report late."
+    },
+    {
+        "phrase": "Off the cuff",
+        "meaning": "Without preparation; spontaneously.",
+        "example": "His off-the-cuff remarks made the audience laugh."
+    },
+    {
+        "phrase": "Know the ropes",
+        "meaning": "To understand how something works, especially a job.",
+        "example": "After a week of training, she knew the ropes."
+    },
+    {
+        "phrase": "Not playing with a full deck",
+        "meaning": "Lacking intelligence or acting irrationally.",
+        "example": "Anyone who believes that story isn’t playing with a full deck."
+    },
+    {
+        "phrase": "Open a can of worms",
+        "meaning": "To create a complicated problem by trying to fix another.",
+        "example": "Asking about the budget opened a can of worms."
+    },
+    {
+        "phrase": "Down in the dumps",
+        "meaning": "Feeling sad or depressed.",
+        "example": "He’s been down in the dumps since his dog passed away."
+    },
+    {
+        "phrase": "A blessing in disguise",
+        "meaning": "Something bad that leads to a good outcome.",
+        "example": "Losing that job was a blessing in disguise—I found a better one."
+    },
+    {
+        "phrase": "Cry over spilled milk",
+        "meaning": "To be upset about something that can’t be changed.",
+        "example": "There’s no point crying over spilled milk—let’s fix the problem."
+    },
+    {
+        "phrase": "Miss the boat",
+        "meaning": "To miss an opportunity.",
+        "example": "If you don’t apply now, you’ll miss the boat."
+    },
+    {
+        "phrase": "Blow off steam",
+        "meaning": "To release built-up energy or frustration.",
+        "example": "After the argument, he went for a run to blow off steam."
+    },
+    {
+        "phrase": "Kick the bucket",
+        "meaning": "To die.",
+        "example": "My grandfather kicked the bucket last winter."
+    },
+    {
+        "phrase": "Steal one’s thunder",
+        "meaning": "To take credit for someone else’s idea.",
+        "example": "She stole my thunder by presenting my idea in the meeting."
+    },
+    {
+        "phrase": "Kill two birds with one stone",
+        "meaning": "To accomplish two goals with one action.",
+        "example": "Walking to work lets me exercise and save money—killing two birds with one stone."
+    },
+    {
+        "phrase": "Add fuel to the fire",
+        "meaning": "To make a bad situation worse.",
+        "example": "His sarcastic comment only added fuel to the fire."
+    },
+    {
+        "phrase": "On cloud nine",
+        "meaning": "Extremely happy.",
+        "example": "She’s been on cloud nine since she got engaged."
+    },
+    {
+        "phrase": "The elephant in the room",
+        "meaning": "An obvious problem no one wants to discuss.",
+        "example": "The company’s declining profits are the elephant in the room."
+    },
+    {
+        "phrase": "Call it a day",
+        "meaning": "To stop working for the day.",
+        "example": "We’ve done enough—let’s call it a day."
+    },
+    {
+        "phrase": "The last straw",
+        "meaning": "The final problem that makes a situation unbearable.",
+        "example": "When the car broke down again, it was the last straw."
+    },
+    {
+        "phrase": "Get out of hand",
+        "meaning": "To become uncontrolled or chaotic.",
+        "example": "The party got out of hand when too many people showed up."
+    },
+    {
+        "phrase": "In the dark",
+        "meaning": "Uninformed about something important.",
+        "example": "I was kept in the dark about the layoffs until the last minute."
+    },
+    {
+        "phrase": "In a pickle",
+        "meaning": "In a difficult or tricky situation.",
+        "example": "I’m in a pickle because I lost my passport before the trip."
+    },
+    {
+        "phrase": "The tip of the iceberg",
+        "meaning": "A small sign of a much larger problem.",
+        "example": "This error is just the tip of the iceberg—there are more issues."
+    },
+    {
+        "phrase": "Ring a bell",
+        "meaning": "To sound familiar.",
+        "example": "That song rings a bell, but I can’t remember the title."
+    },
+    {
+        "phrase": "On the ball",
+        "meaning": "Alert, competent, and efficient.",
+        "example": "You’re really on the ball—great job catching that mistake."
+    },
+    {
+        "phrase": "Keep your chin up",
+        "meaning": "To stay positive despite difficulties.",
+        "example": "I know it’s tough, but"
+    },
+    {
+        "phrase": "Behind the scenes",
+        "meaning": "In private, not in public view or knowledge.",
+        "example": "He worked behind the scenes to support the team’s project."
+    },
+    {
+        "phrase": "Hit below the belt",
+        "meaning": "To act unfairly or use unfair tactics in an argument or contest.",
+        "example": "Her comments about his family hit below the belt."
+    },
+    {
+        "phrase": "Bite the dust",
+        "meaning": "To be defeated or to die.",
+        "example": "Many brave soldiers bit the dust during the war."
+    },
+    {
+        "phrase": "A wet blanket",
+        "meaning": "Someone who discourages enjoyment or enthusiasm.",
+        "example": "Don’t be such a wet blanket—join us on the dance floor!"
+    },
+    {
+        "phrase": "In cold blood",
+        "meaning": "Deliberately and without emotion.",
+        "example": "The crime was committed in cold blood."
+    },
+    {
+        "phrase": "A blue stocking",
+        "meaning": "An intellectual woman or one devoted to scholarly pursuits.",
+        "example": "She’s known as a blue stocking for her love of literature."
+    },
+    {
+        "phrase": "At first blush",
+        "meaning": "At the first sight or glance.",
+        "example": "At first blush, the offer looked appealing."
+    },
+    {
+        "phrase": "A bolt from the blue",
+        "meaning": "Something completely unexpected.",
+        "example": "His resignation was a bolt from the blue."
+    },
+    {
+        "phrase": "One’s bread and butter",
+        "meaning": "One’s means of livelihood.",
+        "example": "Writing is his bread and butter."
+    },
+    {
+        "phrase": "To breathe one’s last",
+        "meaning": "To die.",
+        "example": "The old king breathed his last peacefully."
+    },
+    {
+        "phrase": "Make bricks without straw",
+        "meaning": "To attempt something without the necessary resources.",
+        "example": "We’re making bricks without straw if we try this without funding."
+    },
+    {
+        "phrase": "Good wine needs no bush",
+        "meaning": "Quality speaks for itself and needs no advertisement.",
+        "example": "Her reputation is enough—good wine needs no bush."
+    },
+    {
+        "phrase": "Burn the candle at both ends",
+        "meaning": "To exhaust oneself by doing too many things.",
+        "example": "She’s burning the candle at both ends studying and working."
+    },
+    {
+        "phrase": "If the cap fits, wear it",
+        "meaning": "If an accusation fits, accept it.",
+        "example": "I wasn’t blaming anyone, but if the cap fits, wear it."
+    },
+    {
+        "phrase": "Care killed the cat",
+        "meaning": "Excessive worry is harmful.",
+        "example": "Don’t stress too much—care killed the cat."
+    },
+    {
+        "phrase": "Catch someone’s eye",
+        "meaning": "To attract attention.",
+        "example": "The painting caught everyone’s eye at the exhibit."
+    },
+    {
+        "phrase": "Take the chair",
+        "meaning": "To preside over a meeting.",
+        "example": "Our professor took the chair at the conference."
+    },
+    {
+        "phrase": "She is no chicken",
+        "meaning": "She is older than she appears or claims.",
+        "example": "She is no chicken; she has plenty of experience."
+    },
+    {
+        "phrase": "Pick and choose",
+        "meaning": "To select carefully from among options.",
+        "example": "You can’t always pick and choose your assignments."
+    },
+    {
+        "phrase": "Square the circle",
+        "meaning": "To attempt the impossible.",
+        "example": "Trying to meet all those demands is like squaring the circle."
+    },
+    {
+        "phrase": "Every cloud has a silver lining",
+        "meaning": "Every difficult situation has some hope or good aspect.",
+        "example": "Losing the job hurt, but every cloud has a silver lining."
+    },
+    {
+        "phrase": "Close-fisted",
+        "meaning": "Stingy or not generous.",
+        "example": "He’s close-fisted with his money, never treating anyone."
+    },
+    {
+        "phrase": "Cut your cloth according to your coat",
+        "meaning": "To live within your means.",
+        "example": "We’ll have to cut our cloth according to our coat this year."
+    },
+    {
+        "phrase": "A cock and bull story",
+        "meaning": "A wildly unbelievable story.",
+        "example": "His excuse was a cock and bull story about aliens."
+    },
+    {
+        "phrase": "Cock sure",
+        "meaning": "Completely certain or confident.",
+        "example": "He’s cock sure he’ll win the contest."
+    },
+    {
+        "phrase": "Throw cold water on something",
+        "meaning": "To discourage or reduce enthusiasm.",
+        "example": "The expert threw cold water on our plan."
+    },
+    {
+        "phrase": "Off color",
+        "meaning": "Not in the usual or healthy form, or slightly inappropriate.",
+        "example": "He’s feeling off color and won’t come to work."
+    },
+    {
+        "phrase": "Commit to memory",
+        "meaning": "To memorize.",
+        "example": "Commit this poem to memory for tomorrow’s class."
+    },
+    {
+        "phrase": "Too many cooks spoil the broth",
+        "meaning": "Too many people involved causes problems.",
+        "example": "When everyone tries to direct, too many cooks spoil the broth."
+    },
+    {
+        "phrase": "Crocodile tears",
+        "meaning": "False expressions of emotion, usually sympathy.",
+        "example": "Don’t believe her crocodile tears—she doesn’t care."
+    },
+    {
+        "phrase": "By hook or by crook",
+        "meaning": "By any means necessary.",
+        "example": "He’ll finish the task by hook or by crook."
+    },
+    {
+        "phrase": "Cut and dried",
+        "meaning": "Simple, clear, and ready-made.",
+        "example": "The solution is cut and dried; no further debate needed."
+    },
+    {
+        "phrase": "Up to date",
+        "meaning": "Recent or current.",
+        "example": "Their knowledge is always up to date."
+    },
+    {
+        "phrase": "Evil days",
+        "meaning": "A period of misfortune or bad times.",
+        "example": "The family fell on evil days after the business failed."
+    },
+    {
+        "phrase": "Halcyon days",
+        "meaning": "Times of peace and happiness.",
+        "example": "Their childhood was full of halcyon days."
+    },
+    {
+        "phrase": "Step into dead man’s shoes",
+        "meaning": "To inherit or take someone’s place, often after their death.",
+        "example": "He stepped into dead man’s shoes as the company’s CEO."
+    },
+    {
+        "phrase": "Go to the devil",
+        "meaning": "To tell someone to leave angrily or go away.",
+        "example": "He was rude so I told him to go to the devil."
+    },
+    {
+        "phrase": "Devil’s bones",
+        "meaning": "Dice, used in gambling.",
+        "example": "They played with the devil’s bones all night."
+    },
+    {
+        "phrase": "Devil’s playthings",
+        "meaning": "Playing cards, often disapproved of.",
+        "example": "Some elders think poker is the devil’s playthings."
+    },
+    {
+        "phrase": "Give a dog a bad name and hang him",
+        "meaning": "Someone with a bad reputation is easily blamed.",
+        "example": "He was wrongly accused—give a dog a bad name and hang him."
+    },
+    {
+        "phrase": "Every dog has his day",
+        "meaning": "Everyone will have success or fair chance eventually.",
+        "example": "Don’t worry—every dog has his day."
+    },
+    {
+        "phrase": "Throw dust in someone’s eyes",
+        "meaning": "To mislead or deceive.",
+        "example": "The magician threw dust in the audience’s eyes."
+    },
+    {
+        "phrase": "A white elephant",
+        "meaning": "A costly and useless possession.",
+        "example": "The stadium turned out to be a white elephant for the city."
+    },
+    {
+        "phrase": "Set the Thames on fire",
+        "meaning": "To do something remarkable or sensational.",
+        "example": "She set the Thames on fire with her performance."
+    },
+    {
+        "phrase": "A burnt child dreads the fire",
+        "meaning": "Past bad experiences make one cautious.",
+        "example": "He won’t drive fast again—a burnt child dreads the fire."
+    },
+    {
+        "phrase": "A fish out of water",
+        "meaning": "Feeling uncomfortable or out of place.",
+        "example": "As an introvert at the party, I felt like a fish out of water."
+    },
+    {
+        "phrase": "Elbow grease",
+        "meaning": "Hard physical effort in cleaning or fixing something.",
+        "example": "The kitchen was spotless after a lot of elbow grease."
+    },
+    {
+        "phrase": "As cool as a cucumber",
+        "meaning": "Very calm and relaxed, especially under pressure.",
+        "example": "He was as cool as a cucumber during the speech."
+    },
+    {
+        "phrase": "Face the music",
+        "meaning": "To accept the unpleasant consequences of your actions.",
+        "example": "He had to face the music after breaking the rules."
+    },
+    {
+        "phrase": "Caught red-handed",
+        "meaning": "Discovered in the act of committing a crime or misdeed.",
+        "example": "The student was caught red-handed cheating on the test."
+    },
+    {
+        "phrase": "Cry wolf",
+        "meaning": "To give a false alarm, repeatedly ask for help when none is needed.",
+        "example": "If you cry wolf too often, people won’t believe you in an emergency."
+    },
+    {
+        "phrase": "Flogging a dead horse",
+        "meaning": "Wasting time on a futile effort.",
+        "example": "Trying to convince him is like flogging a dead horse."
+    },
+    {
+        "phrase": "Go against the grain",
+        "meaning": "To do something contrary to one's nature or the norm.",
+        "example": "Speaking in public goes against the grain for her."
+    },
+    {
+        "phrase": "Give someone the cold shoulder",
+        "meaning": "To intentionally ignore someone.",
+        "example": "After the argument, she gave him the cold shoulder all week."
+    },
+    {
+        "phrase": "In over your head",
+        "meaning": "Involved in something too difficult to handle.",
+        "example": "He was in over his head when he took the advanced class."
+    },
+    {
+        "phrase": "Jump the gun",
+        "meaning": "To start something prematurely before the proper time.",
+        "example": "We shouldn’t jump the gun – let’s wait for permission."
+    },
+    {
+        "phrase": "Keep your eyes peeled",
+        "meaning": "To stay alert and watch carefully.",
+        "example": "Keep your eyes peeled for the delivery truck."
+    },
+    {
+        "phrase": "Let sleeping dogs lie",
+        "meaning": "Avoid stirring up trouble or revisiting an old problem.",
+        "example": "Don’t ask about the argument—let sleeping dogs lie."
+    },
+    {
+        "phrase": "Off the beaten path",
+        "meaning": "Far away from usual routes or places.",
+        "example": "We found a cozy café off the beaten path."
+    },
+    {
+        "phrase": "On thin ice",
+        "meaning": "In a risky or dangerous situation.",
+        "example": "He’s on thin ice after missing two deadlines."
+    },
+    {
+        "phrase": "Play it by ear",
+        "meaning": "To improvise and adjust plans as you go.",
+        "example": "I’m not sure what we’ll do; let’s play it by ear."
+    },
+    {
+        "phrase": "Put your foot in your mouth",
+        "meaning": "To say something embarrassing or inappropriate.",
+        "example": "He put his foot in his mouth during the interview."
+    },
+    {
+        "phrase": "Read between the lines",
+        "meaning": "To understand the hidden meaning or implication.",
+        "example": "You have to read between the lines to grasp her true feelings."
+    },
+    {
+        "phrase": "Shoot the breeze",
+        "meaning": "To chat informally without a specific purpose.",
+        "example": "Let’s grab coffee and shoot the breeze this afternoon."
+    },
+    {
+        "phrase": "Sink or swim",
+        "meaning": "To face a challenging situation and either succeed or fail.",
+        "example": "New hires are left to sink or swim."
+    },
+    {
+        "phrase": "Spill your guts",
+        "meaning": "To confess everything or reveal sensitive information.",
+        "example": "He spilled his guts about the incident to the police."
+    },
+    {
+        "phrase": "Stick your neck out",
+        "meaning": "To take a risk.",
+        "example": "She stuck her neck out by backing the controversial project."
+    },
+    {
+        "phrase": "Swallow your pride",
+        "meaning": "To do something humiliating but necessary.",
+        "example": "He swallowed his pride and apologized."
+    },
+    {
+        "phrase": "Turn over a new leaf",
+        "meaning": "To make a fresh start or reform.",
+        "example": "She’s turning over a new leaf after moving cities."
+    },
+    {
+        "phrase": "Walk on eggshells",
+        "meaning": "To be very careful not to upset someone.",
+        "example": "Since the argument, they’ve been walking on eggshells at home."
+    },
+    {
+        "phrase": "Call the shots",
+        "meaning": "To be in charge or control decisions.",
+        "example": "She’s calling the shots in her department now."
+    },
+    {
+        "phrase": "Know the ropes",
+        "meaning": "To be familiar with the details of a job or task.",
+        "example": "It took a year to know the ropes at this job."
+    },
+    {
+        "phrase": "The grass is always greener",
+        "meaning": "Other situations always seem better than your own.",
+        "example": "He thinks life would be better elsewhere, but the grass is always greener."
+    },
+    {
+        "phrase": "Don’t put all your eggs in one basket",
+        "meaning": "Don’t risk everything on one endeavor.",
+        "example": "Diversify your investments—don’t put all your eggs in one basket."
+    },
+    {
+        "phrase": "A dime a dozen",
+        "meaning": "Very common and not valuable.",
+        "example": "Cheap souvenirs are a dime a dozen in tourist spots."
+    },
+    {
+        "phrase": "Cut to the chase",
+        "meaning": "To quickly get to the point.",
+        "example": "I’ll cut to the chase—your contract is ending soon."
+    },
+    {
+        "phrase": "Not your cup of tea",
+        "meaning": "Not something you like or prefer.",
+        "example": "Horror movies are not my cup of tea."
+    },
+    {
+        "phrase": "Out of the frying pan into the fire",
+        "meaning": "To move from one bad situation to another.",
+        "example": "She changed jobs but went out of the frying pan into the fire."
+    },
+    {
+        "phrase": "Burn the midnight oil",
+        "meaning": "To work late into the night.",
+        "example": "To meet deadlines, he burns the midnight oil regularly."
+    },
+    {
+        "phrase": "Bite off more than you can chew",
+        "meaning": "Take on a task that’s too big or challenging.",
+        "example": "Managing two teams is biting off more than you can chew."
+    },
+    {
+        "phrase": "Add insult to injury",
+        "meaning": "To make a bad situation even worse.",
+        "example": "After losing her wallet, she got fined—adding insult to injury."
+    },
+    {
+        "phrase": "Bark up the wrong tree",
+        "meaning": "To direct your efforts at the wrong place or person.",
+        "example": "She accused her friend but was barking up the wrong tree."
+    },
+    {
+        "phrase": "Don’t count your chickens before they hatch",
+        "meaning": "Don’t assume success too early.",
+        "example": "Don’t celebrate yet—don’t count your chickens before they hatch."
+    },
+    {
+        "phrase": "Leave no stone unturned",
+        "meaning": "To search everywhere or try every approach.",
+        "example": "They left no stone unturned in their search for evidence."
+    },
+    {
+        "phrase": "Draw the line",
+        "meaning": "To set a limit on what you’ll tolerate or accept.",
+        "example": "I draw the line at shouting in meetings."
+    },
+    {
+        "phrase": "Hit the nail on the head",
+        "meaning": "To be exactly right about something.",
+        "example": "Your solution hits the nail on the head."
+    },
+    {
+        "phrase": "Blow your own trumpet",
+        "meaning": "To boast about accomplishments.",
+        "example": "He loves to blow his own trumpet at meetings."
+    },
+    {
+        "phrase": "Take a leaf out of someone’s book",
+        "meaning": "To imitate someone's actions as a lesson or example.",
+        "example": "She took a leaf out of his book and started arriving early."
+    },
+    {
+        "phrase": "Be in the same boat",
+        "meaning": "To be in a similar situation (usually difficult) as someone else.",
+        "example": "We’re all in the same boat after the layoffs."
+    },
+    {
+        "phrase": "Beat the clock",
+        "meaning": "To finish something before the deadline or time runs out.",
+        "example": "She managed to beat the clock and submit her exam early."
+    },
+    {
+        "phrase": "Take a rain check",
+        "meaning": "To politely decline an invitation but suggest doing it another time.",
+        "example": "I’m busy tonight, but I’d love to take a rain check on dinner."
+    },
+    {
+        "phrase": "Full of the joys of spring",
+        "meaning": "Extremely happy or enthusiastic.",
+        "example": "After her promotion, she was full of the joys of spring."
+    },
+    {
+        "phrase": "Like death warmed up",
+        "meaning": "Looking extremely ill or tired.",
+        "example": "After pulling an all-nighter, I felt like death warmed up."
+    },
+    {
+        "phrase": "Speak of the devil",
+        "meaning": "Used when the person you were talking about appears.",
+        "example": "Speak of the devil—here comes Tom!"
+    },
+    {
+        "phrase": "That ship has sailed",
+        "meaning": "The opportunity has passed; it's too late.",
+        "example": "I wish I’d invested, but that ship has sailed."
+    },
+    {
+        "phrase": "On top of the world",
+        "meaning": "Feeling extremely pleased or successful.",
+        "example": "He felt on top of the world after winning the award."
+    },
+    {
+        "phrase": "Back against the wall",
+        "meaning": "In a difficult situation with few choices.",
+        "example": "With the deadline near, I’m really back against the wall."
+    },
+    {
+        "phrase": "Bottom line",
+        "meaning": "The most important fact in a situation.",
+        "example": "The bottom line is, we need more funding."
+    },
+    {
+        "phrase": "Go out on a limb",
+        "meaning": "To take a risk by stating something or supporting someone.",
+        "example": "She went out on a limb and defended her unpopular opinion."
+    },
+    {
+        "phrase": "Roll with the punches",
+        "meaning": "To adapt to difficult circumstances.",
+        "example": "Sometimes you just have to roll with the punches and keep working."
+    },
+    {
+        "phrase": "Take the bull by the horns",
+        "meaning": "To confront a difficult situation boldly.",
+        "example": "She took the bull by the horns and asked for a raise."
+    },
+    {
+        "phrase": "Hit the sack",
+        "meaning": "To go to bed.",
+        "example": "I’m exhausted—I’m going to hit the sack early tonight."
+    },
+    {
+        "phrase": "Off the rails",
+        "meaning": "Out of control or behaving unusually.",
+        "example": "After the breakup, he went off the rails for a few weeks."
+    },
+    {
+        "phrase": "On the same wavelength",
+        "meaning": "To have similar thoughts or understanding as someone else.",
+        "example": "The team worked efficiently because everyone was on the same wavelength."
+    },
+    {
+        "phrase": "Out of the woods",
+        "meaning": "No longer in danger or trouble.",
+        "example": "The doctor says he’s out of the woods and recovering well."
+    },
+    {
+        "phrase": "Pass the buck",
+        "meaning": "To avoid responsibility by giving it to someone else.",
+        "example": "The manager tried to pass the buck when questioned about the error."
+    },
+    {
+        "phrase": "Put out feelers",
+        "meaning": "To discreetly ask around or try to get information.",
+        "example": "The company has put out feelers about merging with a competitor."
+    },
+    {
+        "phrase": "Run the show",
+        "meaning": "To be in charge or control a project.",
+        "example": "She runs the show in her department."
+    },
+    {
+        "phrase": "Take the wind out of someone's sails",
+        "meaning": "To discourage or let the energy out of someone.",
+        "example": "His harsh criticism took the wind out of her sails."
+    },
+    {
+        "phrase": "Bury the hatchet",
+        "meaning": "To make peace and end a dispute.",
+        "example": "They decided to bury the hatchet and be friends again."
+    },
+    {
+        "phrase": "Jump on the bandwagon",
+        "meaning": "To join others in doing something that is currently popular.",
+        "example": "Many companies jumped on the bandwagon of remote work."
+    },
+    {
+        "phrase": "Level playing field",
+        "meaning": "Fair competition without advantage.",
+        "example": "The government created a level playing field for all competitors."
+    },
+    {
+        "phrase": "Let sleeping dogs lie",
+        "meaning": "To avoid reopening a settled issue.",
+        "example": "Don’t mention last year’s argument; let sleeping dogs lie."
+    },
+    {
+        "phrase": "Not see eye to eye",
+        "meaning": "To disagree.",
+        "example": "They don’t see eye to eye on the company’s expansion plans."
+    },
+    {
+        "phrase": "Paddle your own canoe",
+        "meaning": "To be independent and self-reliant.",
+        "example": "She prefers to paddle her own canoe rather than rely on help."
+    },
+    {
+        "phrase": "Peace of mind",
+        "meaning": "A feeling of being safe and without worries.",
+        "example": "I have peace of mind knowing my family is healthy."
+    },
+    {
+        "phrase": "Pick someone's brain",
+        "meaning": "To ask for advice or information.",
+        "example": "Can I pick your brain about starting a business?"
+    },
+    {
+        "phrase": "Play devil’s advocate",
+        "meaning": "To argue against something only for the sake of debate.",
+        "example": "Let me play devil’s advocate and challenge your assumptions."
+    },
+    {
+        "phrase": "Pour cold water on something",
+        "meaning": "To discourage or dampen enthusiasm.",
+        "example": "His negative feedback poured cold water on our excitement."
+    },
+    {
+        "phrase": "Raise the bar",
+        "meaning": "To increase standards or expectations.",
+        "example": "The new manager raised the bar for customer service."
+    },
+    {
+        "phrase": "Read the riot act",
+        "meaning": "To issue a strong warning or reprimand.",
+        "example": "The principal read the riot act to the noisy students."
+    },
+    {
+        "phrase": "Run into a brick wall",
+        "meaning": "To encounter an obstacle or resistance.",
+        "example": "Negotiations ran into a brick wall over pricing."
+    },
+    {
+        "phrase": "Save face",
+        "meaning": "To avoid embarrassment or keep reputation.",
+        "example": "He apologized to save face after the error."
+    },
+    {
+        "phrase": "Shake things up",
+        "meaning": "To make changes to improve or refresh.",
+        "example": "The new CEO plans to shake things up in the office."
+    },
+    {
+        "phrase": "Skeleton in the closet",
+        "meaning": "A hidden or embarrassing secret.",
+        "example": "Every family has a skeleton in the closet."
+    },
+    {
+        "phrase": "Smell a rat",
+        "meaning": "To suspect something suspicious or wrong.",
+        "example": "He smelled a rat when his colleague started acting nervously."
+    },
+    {
+        "phrase": "Spill the beans",
+        "meaning": "To reveal secret information.",
+        "example": "Don’t spill the beans about her birthday surprise."
+    },
+    {
+        "phrase": "Stick to your guns",
+        "meaning": "To refuse to change your beliefs.",
+        "example": "Despite the criticism, she stuck to her guns."
+    },
+    {
+        "phrase": "Sweep under the rug",
+        "meaning": "To hide a problem or ignore it.",
+        "example": "The company swept the scandal under the rug."
+    },
+    {
+        "phrase": "Take it with a pinch of salt",
+        "meaning": "To doubt the accuracy of something.",
+        "example": "Take his claims with a pinch of salt—he exaggerates a lot."
+    },
+    {
+        "phrase": "Throw in the towel",
+        "meaning": "To give up or surrender.",
+        "example": "After many failed attempts, they threw in the towel."
+    },
+    {
+        "phrase": "Toe the line",
+        "meaning": "To conform to the rules or expectations.",
+        "example": "Employees are expected to toe the line at work."
+    },
+    {
+        "phrase": "Turn the tables",
+        "meaning": "To reverse a situation so the advantage goes to the other side.",
+        "example": "The underdog team turned the tables in the second half."
+    },
+    {
+        "phrase": "Walk a mile in someone's shoes",
+        "meaning": "To try to understand someone by imagining their situation.",
+        "example": "Before judging her, try to walk a mile in her shoes."
+    },
+    {
+        "phrase": "Wash your hands of something",
+        "meaning": "To stop being involved or responsible.",
+        "example": "He washed his hands of the project after the dispute."
+    },
+    {
+        "phrase": "Bird in the hand is worth two in the bush",
+        "meaning": "It’s better to hold onto something you have than risk losing it for something uncertain.",
+        "example": "She decided not to change jobs and kept the bird in the hand."
+    },
+    {
+        "phrase": "Bite off more than you can chew",
+        "meaning": "To take on a task that is too big to handle.",
+        "example": "He bit off more than he could chew with five classes this semester."
+    },
+    {
+        "phrase": "Black and blue",
+        "meaning": "Badly bruised or injured.",
+        "example": "After the accident, his leg was black and blue."
+    },
+    {
+        "phrase": "Black and white",
+        "meaning": "Describing something in a very clear, simple way without nuance.",
+        "example": "The rules aren’t always black and white."
+    },
+    {
+        "phrase": "Black sheep",
+        "meaning": "An undesirable member of a group, often family.",
+        "example": "He’s the black sheep of the family, always in trouble."
+    },
+    {
+        "phrase": "Black out",
+        "meaning": "To faint or lose consciousness.",
+        "example": "He blacked out after running the marathon."
+    },
+    {
+        "phrase": "Blacklist",
+        "meaning": "To exclude someone officially or socially.",
+        "example": "They blacklisted him after he broke company rules."
+    },
+    {
+        "phrase": "Blackmail",
+        "meaning": "To obtain something by threatening someone.",
+        "example": "The celebrity was blackmailed with private photos."
+    },
+    {
+        "phrase": "Blind date",
+        "meaning": "A date with someone you’ve never met.",
+        "example": "She agreed to go on a blind date her friend set up."
+    },
+    {
+        "phrase": "Blood, sweat & tears",
+        "meaning": "Lots of hard work and effort.",
+        "example": "Building the business took blood, sweat & tears."
+    },
+    {
+        "phrase": "Blow a fuse",
+        "meaning": "Suddenly get very angry.",
+        "example": "He blew a fuse when he saw the mess."
+    },
+    {
+        "phrase": "Blow up in one's face",
+        "meaning": "A plan or project that fails suddenly and unexpectedly.",
+        "example": "His scheme blew up in his face."
+    },
+    {
+        "phrase": "Blue blood",
+        "meaning": "Of noble or wealthy descent.",
+        "example": "She comes from blue blood and has never worked a day."
+    },
+    {
+        "phrase": "Blue collar",
+        "meaning": "Related to manual labor jobs.",
+        "example": "The town’s economy relies mostly on blue collar workers."
+    },
+    {
+        "phrase": "Blue ribbon",
+        "meaning": "The best or first prize.",
+        "example": "Her apples won the blue ribbon at the fair."
+    },
+    {
+        "phrase": "Bookworm",
+        "meaning": "Someone who reads a lot.",
+        "example": "My daughter is a real bookworm—always reading."
+    },
+    {
+        "phrase": "Born with a silver spoon in one’s mouth",
+        "meaning": "Born into wealth and privilege.",
+        "example": "He never had to struggle; he was born with a silver spoon."
+    },
+    {
+        "phrase": "Pressed for time",
+        "meaning": "Rushed, not having enough time.",
+        "example": "Sorry, I’m pressed for time and must leave soon."
+    },
+    {
+        "phrase": "Proud as a peacock",
+        "meaning": "Extremely proud or boastful.",
+        "example": "He strutted into the room proud as a peacock."
+    },
+    {
+        "phrase": "Pull the plug",
+        "meaning": "To terminate or discontinue something.",
+        "example": "They pulled the plug on the project after the setback."
+    },
+    {
+        "phrase": "Pull wool over someone’s eyes",
+        "meaning": "To deceive someone.",
+        "example": "You can’t pull wool over my eyes—I know the truth."
+    },
+    {
+        "phrase": "Punch above one’s weight",
+        "meaning": "Perform beyond what is expected or one's ability.",
+        "example": "The inexperienced boxer punched above his weight and won."
+    },
+    {
+        "phrase": "Puppy love",
+        "meaning": "Young, temporary infatuation.",
+        "example": "Their relationship is just puppy love."
+    },
+    {
+        "phrase": "Put it in black and white",
+        "meaning": "To put something in writing for clarity or proof.",
+        "example": "Please put your complaint in black and white."
+    },
+    {
+        "phrase": "Put your thinking cap on",
+        "meaning": "To think seriously about something.",
+        "example": "We need to solve this—put your thinking cap on."
+    },
+    {
+        "phrase": "Rags to riches",
+        "meaning": "To go from poverty to wealth.",
+        "example": "It’s a famous rags-to-riches story."
+    },
+    {
+        "phrase": "Raise the white flag",
+        "meaning": "To surrender or admit defeat.",
+        "example": "They raised the white flag after the negotiations failed."
+    },
+    {
+        "phrase": "Raring to go",
+        "meaning": "Very eager or enthusiastic.",
+        "example": "The team was raring to go for the competition."
+    },
+    {
+        "phrase": "Rat race",
+        "meaning": "A stressful and repetitive routine, especially at work.",
+        "example": "He quit the rat race for a simpler life."
+    },
+    {
+        "phrase": "Red flag",
+        "meaning": "A warning sign that something is wrong.",
+        "example": "The missing paperwork was a red flag to the auditors."
+    },
+    {
+        "phrase": "Red herring",
+        "meaning": "Something that distracts or misleads from the main issue.",
+        "example": "His alibi was just a red herring."
+    },
+    {
+        "phrase": "Red hot",
+        "meaning": "Something new and exciting, with high demand.",
+        "example": "The latest smartphone is red hot right now."
+    },
+    {
+        "phrase": "Red in the face",
+        "meaning": "Embarrassed.",
+        "example": "She was red in the face when she tripped on stage."
+    },
+    {
+        "phrase": "Red tape",
+        "meaning": "Excessive bureaucracy or rules.",
+        "example": "The project was delayed by government red tape."
+    },
+    {
+        "phrase": "Red-eye",
+        "meaning": "A late-night flight arriving early morning.",
+        "example": "I caught the red-eye from New York to LA."
+    },
+    {
+        "phrase": "Road hog",
+        "meaning": "A driver who takes up too much space on the road.",
+        "example": "That road hog nearly caused an accident!"
+    },
+    {
+        "phrase": "Roll out the red carpet",
+        "meaning": "To give a big, warm welcome.",
+        "example": "They rolled out the red carpet for the guest speaker."
+    },
+    {
+        "phrase": "Sail through",
+        "meaning": "To succeed easily at something.",
+        "example": "He sailed through the exam without studying."
+    },
+    {
+        "phrase": "Save time",
+        "meaning": "To do something efficiently and quickly.",
+        "example": "Using shortcuts helps to save time."
+    },
+    {
+        "phrase": "School of hard knocks",
+        "meaning": "Learning through difficult experiences.",
+        "example": "She learned her lessons in the school of hard knocks."
+    },
+    {
+        "phrase": "Schoolboy error",
+        "meaning": "A very basic or foolish mistake.",
+        "example": "Forgetting to save my work was a schoolboy error."
+    },
+    {
+        "phrase": "See eye to eye",
+        "meaning": "To agree.",
+        "example": "They see eye to eye on everything."
+    },
+    {
+        "phrase": "Seeing red",
+        "meaning": "Reacting with uncontrollable anger.",
+        "example": "He was seeing red after being insulted."
+    },
+    {
+        "phrase": "A shot in the dark",
+        "meaning": "A wild guess or attempt with little chance of success.",
+        "example": "His solution was a shot in the dark, but it worked."
+    },
+    {
+        "phrase": "A skeleton in the closet",
+        "meaning": "A hidden or embarrassing secret.",
+        "example": "Every politician has a skeleton in the closet."
+    },
+    {
+        "phrase": "A slip of the tongue",
+        "meaning": "An accidental mistake in speech.",
+        "example": "Calling her by the wrong name was just a slip of the tongue."
+    },
+    {
+        "phrase": "A snowball’s chance in hell",
+        "meaning": "Very little or no chance at all.",
+        "example": "They have a snowball’s chance in hell of winning the championship."
+    },
+    {
+        "phrase": "A storm in a teacup",
+        "meaning": "Making a big deal out of a small problem.",
+        "example": "Their argument was just a storm in a teacup."
+    },
+    {
+        "phrase": "All ears",
+        "meaning": "Ready and eager to listen.",
+        "example": "Tell me what happened—I’m all ears."
+    },
+    {
+        "phrase": "All thumbs",
+        "meaning": "Clumsy or awkward with one’s hands.",
+        "example": "I’m all thumbs when it comes to wrapping gifts."
+    },
+    {
+        "phrase": "Against the clock",
+        "meaning": "Rushed to finish something in a limited time.",
+        "example": "We’re working against the clock to meet the deadline."
+    },
+    {
+        "phrase": "Ahead of time",
+        "meaning": "Earlier than expected or planned.",
+        "example": "She finished the report ahead of time."
+    },
+    {
+        "phrase": "At a loss for words",
+        "meaning": "Unable to think of anything to say.",
+        "example": "I was at a loss for words when I heard the news."
+    },
+    {
+        "phrase": "At the drop of a hat",
+        "meaning": "Immediately or without hesitation.",
+        "example": "He’s ready to travel at the drop of a hat."
+    },
+    {
+        "phrase": "Back to square one",
+        "meaning": "Returning to the beginning after failure.",
+        "example": "The project failed so we’re back to square one."
+    },
+    {
+        "phrase": "Barking up the wrong tree",
+        "meaning": "Pursuing a mistaken or misguided line of thought.",
+        "example": "You’re barking up the wrong tree blaming Tom."
+    },
+    {
+        "phrase": "Bend over backwards",
+        "meaning": "Do everything possible to help or accommodate.",
+        "example": "She’ll bend over backwards to help her students."
+    },
+    {
+        "phrase": "Between a rock and a hard place",
+        "meaning": "Faced with two difficult choices.",
+        "example": "They’re between a rock and a hard place with no solution."
+    },
+    {
+        "phrase": "Bide your time",
+        "meaning": "Wait patiently for the right moment.",
+        "example": "She’ll bide her time until the opportunity arises."
+    },
+    {
+        "phrase": "Bite your tongue",
+        "meaning": "Stop yourself from saying something.",
+        "example": "I had to bite my tongue to avoid arguing."
+    },
+    {
+        "phrase": "Break a leg",
+        "meaning": "Used to wish someone good luck, especially before a performance.",
+        "example": "Break a leg at your audition tonight!"
+    },
+    {
+        "phrase": "Break the ice",
+        "meaning": "Make people feel more comfortable in a social setting.",
+        "example": "His joke helped break the ice at the party."
+    },
+    {
+        "phrase": "Bring home the bacon",
+        "meaning": "To earn a living or provide for the family.",
+        "example": "She works hard to bring home the bacon."
+    },
+    {
+        "phrase": "By the book",
+        "meaning": "Strictly according to the rules.",
+        "example": "The accountant does everything by the book."
+    },
+    {
+        "phrase": "By word of mouth",
+        "meaning": "Communicated verbally rather than in writing.",
+        "example": "Most customers heard about us by word of mouth."
+    },
+    {
+        "phrase": "Call a spade a spade",
+        "meaning": "Speak honestly, even if it’s blunt or impolite.",
+        "example": "He calls a spade a spade and never sugarcoats the truth."
+    },
+    {
+        "phrase": "Change of heart",
+        "meaning": "A change in opinion or feeling.",
+        "example": "She had a sudden change of heart about the proposal."
+    },
+    {
+        "phrase": "Chew the fat",
+        "meaning": "To chat informally.",
+        "example": "They always chew the fat over coffee."
+    },
+    {
+        "phrase": "Clear as mud",
+        "meaning": "Very confusing or hard to understand.",
+        "example": "These instructions are clear as mud!"
+    },
+    {
+        "phrase": "Climb on the bandwagon",
+        "meaning": "Join others in doing something popular or fashionable.",
+        "example": "He climbed on the bandwagon and started investing in crypto."
+    },
+    {
+        "phrase": "Cold feet",
+        "meaning": "Sudden fear or hesitation before a major event.",
+        "example": "He got cold feet before the wedding."
+    },
+    {
+        "phrase": "Cut no ice",
+        "meaning": "Make no impression or have no effect.",
+        "example": "Her excuses cut no ice with the teacher."
+    },
+    {
+        "phrase": "Cut the mustard",
+        "meaning": "Perform well or meet expectations.",
+        "example": "He didn’t cut the mustard during training."
+    },
+    {
+        "phrase": "Dig one’s heels in",
+        "meaning": "Refuse to change or give in.",
+        "example": "She dug her heels in and wouldn’t compromise."
+    },
+    {
+        "phrase": "Don’t beat a dead horse",
+        "meaning": "Stop talking about a resolved issue.",
+        "example": "We’ve discussed the problem enough—don’t beat a dead horse."
+    },
+    {
+        "phrase": "Don’t put all your eggs in one basket",
+        "meaning": "Don’t risk everything on a single venture.",
+        "example": "Diversify investments—don’t put all your eggs in one basket."
+    },
+    {
+        "phrase": "Down-to-earth",
+        "meaning": "Practical and realistic.",
+        "example": "The new manager is very down-to-earth."
+    },
+    {
+        "phrase": "Drop a line",
+        "meaning": "Send a short letter, email, or message.",
+        "example": "Please drop me a line when you arrive."
+    },
+    {
+        "phrase": "Eat crow",
+        "meaning": "Admit you were wrong and apologize.",
+        "example": "He had to eat crow after the mistake."
+    },
+    {
+        "phrase": "Face value",
+        "meaning": "Taken as it appears, without deeper examination.",
+        "example": "Don’t take his words at face value."
+    },
+    {
+        "phrase": "Fish for compliments",
+        "meaning": "Try to get praise or admiration.",
+        "example": "She always fishes for compliments about her cooking."
+    },
+    {
+        "phrase": "Get cold feet",
+        "meaning": "Become nervous or uncertain about something planned.",
+        "example": "He got cold feet before the interview."
+    },
+    {
+        "phrase": "Get in touch",
+        "meaning": "Make contact or communicate.",
+        "example": "Get in touch if you need any help."
+    },
+    {
+        "phrase": "Give someone a taste of their own medicine",
+        "meaning": "Treat someone as they have treated others, usually badly.",
+        "example": "The bully got a taste of his own medicine."
+    },
+    {
+        "phrase": "Go down in flames",
+        "meaning": "Fail spectacularly.",
+        "example": "His business went down in flames after the scandal."
+    },
+    {
+        "phrase": "Go nuts",
+        "meaning": "Become extremely enthusiastic or angry.",
+        "example": "The crowd went nuts when the team scored."
+    },
+    {
+        "phrase": "Go out on a limb",
+        "meaning": "Act boldly or take a risk.",
+        "example": "She went out on a limb with her new idea."
+    },
+    {
+        "phrase": "Backseat driver",
+        "meaning": "Someone who gives unwanted advice, especially to the driver.",
+        "example": "He’s a real backseat driver and keeps telling me how to drive."
+    },
+    {
+        "phrase": "Bad apple",
+        "meaning": "A person who negatively influences a group.",
+        "example": "One bad apple can spoil the whole team’s morale."
+    },
+    {
+        "phrase": "Bag of tricks",
+        "meaning": "A collection of special techniques or resources.",
+        "example": "The coach has a bag of tricks for motivating the players."
+    },
+    {
+        "phrase": "Bail out",
+        "meaning": "To rescue someone from trouble.",
+        "example": "The bank bailed out the struggling company."
+    },
+    {
+        "phrase": "Ball and chain",
+        "meaning": "A burden or restriction, sometimes a spouse humorously.",
+        "example": "He jokes that his job is a ball and chain."
+    },
+    {
+        "phrase": "Ballpark figure",
+        "meaning": "An approximate or rough estimate.",
+        "example": "Can you give me a ballpark figure for the cost?"
+    },
+    {
+        "phrase": "Bang one’s head against a wall",
+        "meaning": "To try repeatedly to achieve something without success.",
+        "example": "She felt like she was banging her head against a wall with the new software."
+    },
+    {
+        "phrase": "Banner year",
+        "meaning": "A year of great success.",
+        "example": "The restaurant had a banner year after winning awards."
+    },
+    {
+        "phrase": "Baptism by fire",
+        "meaning": "A difficult first experience in a new role.",
+        "example": "His first week at work was a baptism by fire."
+    },
+    {
+        "phrase": "Barfly",
+        "meaning": "Someone who spends a lot of time in bars.",
+        "example": "After work, he became a regular barfly downtown."
+    },
+    {
+        "phrase": "Bare one’s heart/soul",
+        "meaning": "To share one’s deepest feelings or secrets.",
+        "example": "She bared her soul to her best friend after the breakup."
+    },
+    {
+        "phrase": "Bark up the wrong tree",
+        "meaning": "To misdirect one’s efforts.",
+        "example": "If you think Susan broke the vase, you’re barking up the wrong tree."
+    },
+    {
+        "phrase": "Be in the same boat",
+        "meaning": "Sharing the same situation or problem.",
+        "example": "Everyone’s in the same boat after the layoffs."
+    },
+    {
+        "phrase": "Bear with",
+        "meaning": "To be patient.",
+        "example": "Please bear with me while I sort out the documents."
+    },
+    {
+        "phrase": "Beat the drum",
+        "meaning": "To promote or publicize something enthusiastically.",
+        "example": "He beat the drum for his new book all over town."
+    },
+    {
+        "phrase": "Beauty is only skin deep",
+        "meaning": "Physical appearance doesn’t reflect true value or character.",
+        "example": "Remember, beauty is only skin deep."
+    },
+    {
+        "phrase": "Bee in one’s bonnet",
+        "meaning": "To be obsessed with an idea.",
+        "example": "She’s got a bee in her bonnet about cleanliness."
+    },
+    {
+        "phrase": "Beg to differ",
+        "meaning": "Politely disagreeing.",
+        "example": "I beg to differ—your plan isn’t practical."
+    },
+    {
+        "phrase": "Behind the scenes",
+        "meaning": "Secretly or acting out of public view.",
+        "example": "Most negotiations happen behind the scenes."
+    },
+    {
+        "phrase": "Below the belt",
+        "meaning": "Unfair or inappropriate.",
+        "example": "His criticism was below the belt during the meeting."
+    },
+    {
+        "phrase": "Bend over backwards",
+        "meaning": "To make extraordinary efforts to help.",
+        "example": "The manager bent over backwards to accommodate her staff’s schedule."
+    },
+    {
+        "phrase": "Best of both worlds",
+        "meaning": "Benefiting from two different situations.",
+        "example": "Working from home offers the best of both worlds."
+    },
+    {
+        "phrase": "Bet your bottom dollar",
+        "meaning": "To be very sure of something.",
+        "example": "You can bet your bottom dollar he’ll be late again."
+    },
+    {
+        "phrase": "Better half",
+        "meaning": "One’s spouse or partner.",
+        "example": "My better half is joining us for dinner."
+    },
+    {
+        "phrase": "Better late than never",
+        "meaning": "Doing something late is better than not at all.",
+        "example": "He finally finished his degree—better late than never."
+    },
+    {
+        "phrase": "Between a rock and a hard place",
+        "meaning": "Facing two difficult choices.",
+        "example": "She’s between a rock and a hard place with her job options."
+    },
+    {
+        "phrase": "Big cheese",
+        "meaning": "An important person.",
+        "example": "The CEO is the big cheese around here."
+    },
+    {
+        "phrase": "Big picture",
+        "meaning": "Overall perspective or outcome.",
+        "example": "Don’t focus on details—think of the big picture."
+    },
+    {
+        "phrase": "Bird’s eye view",
+        "meaning": "A broad perspective on a situation.",
+        "example": "The manager gave us a bird’s eye view of company objectives."
+    },
+    {
+        "phrase": "Bite the hand that feeds you",
+        "meaning": "To harm or be ungrateful to one’s benefactor.",
+        "example": "Don’t bite the hand that feeds you."
+    },
+    {
+        "phrase": "Bite your lip",
+        "meaning": "Stop yourself from speaking.",
+        "example": "He wanted to complain but bit his lip."
+    },
+    {
+        "phrase": "Black as night",
+        "meaning": "Very dark and hard to see.",
+        "example": "The street was black as night after the power cut."
+    },
+    {
+        "phrase": "Black eye",
+        "meaning": "A bruise around the eye, or a setback.",
+        "example": "The scandal was a black eye for the company."
+    },
+    {
+        "phrase": "Black market",
+        "meaning": "Place where illegal goods are bought and sold.",
+        "example": "The black market thrives during shortages."
+    },
+    {
+        "phrase": "Black out",
+        "meaning": "Lose consciousness or faint.",
+        "example": "She blacked out after hearing the bad news."
+    },
+    {
+        "phrase": "Blackball",
+        "meaning": "To exclude someone from a group.",
+        "example": "He was blackballed after criticizing management."
+    },
+    {
+        "phrase": "Blacklist",
+        "meaning": "To ban someone from a group or activity.",
+        "example": "The club blacklisted disruptive members."
+    },
+    {
+        "phrase": "Blackmail",
+        "meaning": "To extort by threatening to reveal secrets.",
+        "example": "The celebrity was a victim of blackmail."
+    },
+    {
+        "phrase": "Blind date",
+        "meaning": "A date with someone you’ve never met before.",
+        "example": "She went on a blind date set up by a friend."
+    },
+    {
+        "phrase": "Blood red",
+        "meaning": "Very deep red.",
+        "example": "The sunset was painted blood red across the sky."
+    },
+    {
+        "phrase": "Blow the whistle",
+        "meaning": "To report wrongdoing.",
+        "example": "She blew the whistle on corruption in the company."
+    },
+    {
+        "phrase": "Blow hot and cold",
+        "meaning": "To frequently change opinion or feelings.",
+        "example": "He blows hot and cold about every proposal."
+    },
+    {
+        "phrase": "Blow one’s own trumpet",
+        "meaning": "To brag.",
+        "example": "He loves to blow his own trumpet at meetings."
+    },
+    {
+        "phrase": "Blue in the face",
+        "meaning": "Exhausted from trying, often unsuccessfully.",
+        "example": "You can argue until you’re blue in the face, but he won’t listen."
+    },
+    {
+        "phrase": "Bolt from the blue",
+        "meaning": "Something unexpected or surprising.",
+        "example": "His resignation was a bolt from the blue."
+    },
+    {
+        "phrase": "Bone to pick",
+        "meaning": "An issue to discuss or argue about.",
+        "example": "I have a bone to pick with you about your report."
+    },
+    {
+        "phrase": "Break the mold",
+        "meaning": "To do something in a completely new way.",
+        "example": "Her ideas broke the mold and revolutionized the company’s strategy."
+    },
+    {
+        "phrase": "Bring down the house",
+        "meaning": "To receive enthusiastic applause or reaction.",
+        "example": "The comedian brought down the house with his jokes."
+    },
+    {
+        "phrase": "Brownie points",
+        "meaning": "Credit for doing something good.",
+        "example": "He earned brownie points by helping with the project."
+    },
+    {
+        "phrase": "Brush off",
+        "meaning": "To dismiss or ignore.",
+        "example": "She brushed off his rude remarks and stayed focused."
+    },
+    {
+        "phrase": "Buck the trend",
+        "meaning": "To go against what is generally expected.",
+        "example": "He bucked the trend and invested in local businesses."
+    },
+    {
+        "phrase": "Build bridges",
+        "meaning": "To improve relationships between organizations or people.",
+        "example": "The manager tried to build bridges between departments."
+    },
+    {
+        "phrase": "Burn bridges",
+        "meaning": "To damage relationships irreparably.",
+        "example": "He burned his bridges by insulting his former boss."
+    },
+    {
+        "phrase": "Burn one’s fingers",
+        "meaning": "To suffer negative consequences, especially financially.",
+        "example": "She burned her fingers in the stock market last year."
+    },
+    {
+        "phrase": "Buy time",
+        "meaning": "To delay or prolong something.",
+        "example": "They asked more questions just to buy time for the team."
+    },
+    {
+        "phrase": "By the skin of one’s teeth",
+        "meaning": "Only just barely.",
+        "example": "He passed the final exam by the skin of his teeth."
+    },
+    {
+        "phrase": "Call the shots",
+        "meaning": "To be in control or make decisions.",
+        "example": "In this company, the CEO calls the shots."
+    },
+    {
+        "phrase": "Call to arms",
+        "meaning": "A request for people to take action about something.",
+        "example": "The leader’s speech was a call to arms for the volunteers."
+    },
+    {
+        "phrase": "Carry weight",
+        "meaning": "To be influential or important.",
+        "example": "Her opinion carries a lot of weight in these meetings."
+    },
+    {
+        "phrase": "Cast in stone",
+        "meaning": "Permanent and unable to change.",
+        "example": "The policy is not cast in stone—there is still room for negotiation."
+    },
+    {
+        "phrase": "Cast sheep’s eyes",
+        "meaning": "To look at someone with admiration or longing.",
+        "example": "He cast sheep’s eyes at his crush in the cafeteria."
+    },
+    {
+        "phrase": "Catch someone off guard",
+        "meaning": "To surprise someone who is not prepared.",
+        "example": "The criticism caught her off guard."
+    },
+    {
+        "phrase": "Change horses in midstream",
+        "meaning": "To alter plans or choose a new leader in the middle of an activity.",
+        "example": "The company changed horses in midstream by hiring a new manager."
+    },
+    {
+        "phrase": "Chew someone out",
+        "meaning": "To scold someone harshly.",
+        "example": "The coach chewed him out for being late to practice."
+    },
+    {
+        "phrase": "Close ranks",
+        "meaning": "To unite and defend against outsiders.",
+        "example": "The team closed ranks after the criticism."
+    },
+    {
+        "phrase": "Come full circle",
+        "meaning": "To return to a situation or place where you began.",
+        "example": "She came full circle by rejoining her old company."
+    },
+    {
+        "phrase": "Come to grips",
+        "meaning": "To deal with or accept something difficult.",
+        "example": "He finally came to grips with the loss."
+    },
+    {
+        "phrase": "Come to terms",
+        "meaning": "To reach an agreement.",
+        "example": "The two parties came to terms after long negotiations."
+    },
+    {
+        "phrase": "Compare notes",
+        "meaning": "To share experiences or information with others.",
+        "example": "The students compared notes before the final exam."
+    },
+    {
+        "phrase": "Cook the books",
+        "meaning": "To falsify financial records.",
+        "example": "The accountant was caught cooking the books."
+    },
+    {
+        "phrase": "Cool someone’s heels",
+        "meaning": "To wait, often impatiently.",
+        "example": "He was cooling his heels in reception for an hour."
+    },
+    {
+        "phrase": "Cost an arm and a leg",
+        "meaning": "Very expensive.",
+        "example": "The repairs cost an arm and a leg."
+    },
+    {
+        "phrase": "Coup de grâce",
+        "meaning": "A final blow that ends something.",
+        "example": "The budget cuts were the coup de grâce for the department."
+    },
+    {
+        "phrase": "Crack the whip",
+        "meaning": "To use authority to make people work harder.",
+        "example": "The manager cracked the whip to meet the deadline."
+    },
+    {
+        "phrase": "Cross the Rubicon",
+        "meaning": "To make an irreversible decision.",
+        "example": "When he quit his job, he crossed the Rubicon."
+    },
+    {
+        "phrase": "Cry over spilled milk",
+        "meaning": "To be upset over something that can’t be changed.",
+        "example": "Don’t cry over spilled milk—solve the problem."
+    },
+    {
+        "phrase": "Cut and dried",
+        "meaning": "Physically or emotionally simple and clearly decided.",
+        "example": "The jury’s decision was cut and dried."
+    },
+    {
+        "phrase": "Cut corners",
+        "meaning": "To do something the cheapest or easiest way, often sacrificing quality.",
+        "example": "The builder cut corners and the roof leaked."
+    },
+    {
+        "phrase": "Cut someone some slack",
+        "meaning": "To relax expectations or be lenient.",
+        "example": "The teacher cut him some slack for being late."
+    },
+    {
+        "phrase": "Dance to someone's tune",
+        "meaning": "To do exactly what someone else wants.",
+        "example": "The team danced to the manager’s tune all year."
+    },
+    {
+        "phrase": "Dead ringer",
+        "meaning": "An exact lookalike.",
+        "example": "He’s a dead ringer for his uncle."
+    },
+    {
+        "phrase": "Die-hard",
+        "meaning": "Stubbornly loyal or resisting change.",
+        "example": "She’s a die-hard fan of that band."
+    },
+    {
+        "phrase": "Divide and conquer",
+        "meaning": "To split people up to make them easier to control.",
+        "example": "The supervisor used divide and conquer tactics."
+    },
+    {
+        "phrase": "Do a double take",
+        "meaning": "To look again in surprise.",
+        "example": "She did a double take when she saw her friend’s new haircut."
+    },
+    {
+        "phrase": "Dog days",
+        "meaning": "The hottest days of summer.",
+        "example": "We spent the dog days by the lake."
+    },
+    {
+        "phrase": "Don’t count your chickens before they hatch",
+        "meaning": "Don’t rely on something before it happens.",
+        "example": "Don’t count your chickens before they hatch—wait for the results."
+    },
+    {
+        "phrase": "Don’t let the grass grow under your feet",
+        "meaning": "Don’t be lazy or inactive; act quickly.",
+        "example": "He found a new job—he never lets the grass grow under his feet."
+    },
+    {
+        "phrase": "Down for the count",
+        "meaning": "Defeated or nearly finished.",
+        "example": "After his injury, he was down for the count for weeks."
+    },
+    {
+        "phrase": "Down in the dumps",
+        "meaning": "Feeling sad or depressed.",
+        "example": "She’s been down in the dumps since she moved away."
+    },
+    {
+        "phrase": "Draw a blank",
+        "meaning": "To fail to remember something.",
+        "example": "I drew a blank when asked about the details."
+    },
+    {
+        "phrase": "Draw the line",
+        "meaning": "To set a limit on what you’ll tolerate.",
+        "example": "I draw the line at working weekends."
+    },
+    {
+        "phrase": "Drop the ball",
+        "meaning": "To make a mistake or fail to do something important.",
+        "example": "He really dropped the ball on that assignment."
+    },
+    {
+        "phrase": "Dry run",
+        "meaning": "A practice or rehearsal.",
+        "example": "Let’s have a dry run before the actual event."
+    },
+    {
+        "phrase": "Ducks in a row",
+        "meaning": "To get things in order or properly organized.",
+        "example": "Make sure your ducks are in a row before submitting your application."
+    },
+    {
+        "phrase": "Dutch treat",
+        "meaning": "Each person pays for themselves.",
+        "example": "We went out for dinner, but it was a Dutch treat."
+    },
+    {
+        "phrase": "Dye in the wool",
+        "meaning": "Fixed in one’s beliefs or habits.",
+        "example": "He’s a dyed-in-the-wool optimist."
+    },
+    {
+        "phrase": "Eagle eye",
+        "meaning": "Close attention to detail or excellent observation.",
+        "example": "She spots mistakes with her eagle eye."
+    },
+    {
+        "phrase": "Early bird",
+        "meaning": "Someone who does things early or arrives first.",
+        "example": "As an early bird, she loves morning workouts."
+    },
+    {
+        "phrase": "Easier said than done",
+        "meaning": "Not as easy as it appears.",
+        "example": "Moving abroad is easier said than done."
+    },
+    {
+        "phrase": "Eat one’s words",
+        "meaning": "To admit that what you said was wrong.",
+        "example": "He had to eat his words after the prediction failed."
+    },
+    {
+        "phrase": "Eat out of someone’s hand",
+        "meaning": "To be easily controlled or influenced.",
+        "example": "The students were eating out of her hand by the end of the lecture."
+    },
+    {
+        "phrase": "Egg on your face",
+        "meaning": "Embarrassment from a mistake.",
+        "example": "He had egg on his face after the failed presentation."
+    },
+    {
+        "phrase": "Elephant in the room",
+        "meaning": "An obvious problem no one wants to discuss.",
+        "example": "The budget deficit is the elephant in the room."
+    },
+    {
+        "phrase": "Even keel",
+        "meaning": "Calm and steady.",
+        "example": "The project is finally on an even keel."
+    },
+    {
+        "phrase": "Every cloud has a silver lining",
+        "meaning": "Good can come from difficult circumstances.",
+        "example": "Losing that job was tough, but every cloud has a silver lining."
+    },
+    {
+        "phrase": "Face the music",
+        "meaning": "Accept consequences or criticism.",
+        "example": "He had to face the music about his poor decisions."
+    },
+    {
+        "phrase": "Fairy tale ending",
+        "meaning": "A happy or ideal conclusion.",
+        "example": "Their wedding was a fairy tale ending."
+    },
+    {
+        "phrase": "Fall on deaf ears",
+        "meaning": "Ignored or not responded to.",
+        "example": "The warnings fell on deaf ears."
+    },
+    {
+        "phrase": "Far cry from",
+        "meaning": "Very different from.",
+        "example": "Modern cars are a far cry from those made in the 1950s."
+    },
+    {
+        "phrase": "Fat chance",
+        "meaning": "Little or no possibility.",
+        "example": "Fat chance you’ll get tickets now."
+    },
+    {
+        "phrase": "Feather in one’s cap",
+        "meaning": "An achievement to be proud of.",
+        "example": "Winning the award is another feather in her cap."
+    },
+    {
+        "phrase": "Feel under the weather",
+        "meaning": "Feeling sick or unwell.",
+        "example": "I won’t come to work today because I feel under the weather."
+    },
+    {
+        "phrase": "Feet of clay",
+        "meaning": "A hidden weakness in a respected person.",
+        "example": "The politician turned out to have feet of clay."
+    },
+    {
+        "phrase": "Fight tooth and nail",
+        "meaning": "To fight fiercely.",
+        "example": "She fought tooth and nail to save her business."
+    },
+    {
+        "phrase": "Fish out of water",
+        "meaning": "Feeling out of place or uncomfortable.",
+        "example": "At the party, he felt like a fish out of water."
+    },
+    {
+        "phrase": "Fit as a fiddle",
+        "meaning": "In very good health.",
+        "example": "After recovering, she felt fit as a fiddle."
+    },
+    {
+        "phrase": "Flash in the pan",
+        "meaning": "A brief success.",
+        "example": "The new product was just a flash in the pan."
+    },
+    {
+        "phrase": "Flew off the handle",
+        "meaning": "Became very angry suddenly.",
+        "example": "He flew off the handle after the mistake."
+    },
+    {
+        "phrase": "Fly by the seat of your pants",
+        "meaning": "To do something without planning.",
+        "example": "She flew by the seat of her pants during the interview."
+    },
+    {
+        "phrase": "Fly in the ointment",
+        "meaning": "A minor problem that spoils something.",
+        "example": "The only fly in the ointment is the late delivery."
+    },
+    {
+        "phrase": "For the birds",
+        "meaning": "Worthless or not useful.",
+        "example": "That plan is for the birds—no one will approve it."
+    },
+    {
+        "phrase": "From the horse’s mouth",
+        "meaning": "Directly from the source.",
+        "example": "I heard the news straight from the horse’s mouth."
+    },
+    {
+        "phrase": "Full of beans",
+        "meaning": "Energetic or enthusiastic.",
+        "example": "The children are full of beans this morning."
+    },
+    {
+        "phrase": "Get a taste of your own medicine",
+        "meaning": "To experience the same unpleasant treatment you gave.",
+        "example": "The strict boss finally got a taste of his own medicine."
+    },
+    {
+        "phrase": "Get out of hand",
+        "meaning": "To become out of control.",
+        "example": "The negotiations got out of hand quickly."
+    },
+    {
+        "phrase": "Get your act together",
+        "meaning": "To start behaving or working efficiently.",
+        "example": "If you want the job, you’d better get your act together."
+    },
+    {
+        "phrase": "Get wind of",
+        "meaning": "To hear or learn about something unofficially.",
+        "example": "He got wind of the layoff before anyone else."
+    },
+    {
+        "phrase": "Go down the drain",
+        "meaning": "To be wasted or lost.",
+        "example": "All our hard work went down the drain."
+    },
+    {
+        "phrase": "Go the extra mile",
+        "meaning": "To do more than what’s required.",
+        "example": "She went the extra mile for her clients."
+    },
+    {
+        "phrase": "Go to bat for someone",
+        "meaning": "To support or help someone.",
+        "example": "I’ll go to bat for you if you apply for the promotion."
+    },
+    {
+        "phrase": "Golden opportunity",
+        "meaning": "A very good chance.",
+        "example": "This is a golden opportunity to expand the business."
+    },
+    {
+        "phrase": "Green with envy",
+        "meaning": "Jealous or envious.",
+        "example": "She was green with envy when her friend won the prize."
+    },
+    {
+        "phrase": "Hang by a thread",
+        "meaning": "In a very precarious situation.",
+        "example": "Their business is hanging by a thread."
+    },
+    {
+        "phrase": "Have a blast",
+        "meaning": "To have a great time.",
+        "example": "We had a blast at the concert."
+    },
+    {
+        "phrase": "Have a bone to pick",
+        "meaning": "To have a disagreement or complaint.",
+        "example": "I have a bone to pick with my landlord."
+    },
+    {
+        "phrase": "Have a chip on one’s shoulder",
+        "meaning": "To be angry or feel wronged.",
+        "example": "He has a chip on his shoulder about not being promoted."
+    },
+    {
+        "phrase": "Have a field day",
+        "meaning": "To enjoy an activity to excess, often one that you usually can't do.",
+        "example": "The media had a field day covering the scandal."
+    },
+    {
+        "phrase": "Have it made",
+        "meaning": "To be in a very good situation.",
+        "example": "With her new job, she has it made."
+    },
+    {
+        "phrase": "Head over heels",
+        "meaning": "Deeply in love.",
+        "example": "He’s head over heels for his new girlfriend."
+    },
+    {
+        "phrase": "Hit home",
+        "meaning": "To make a strong emotional impact.",
+        "example": "The warnings about health finally hit home when he got sick."
+    },
+    {
+        "phrase": "Hit the nail on the head",
+        "meaning": "To be exactly right about something.",
+        "example": "Her analysis hit the nail on the head."
+    },
+    {
+        "phrase": "Hit the road",
+        "meaning": "To leave a place or set out on a journey.",
+        "example": "It’s getting late, let’s hit the road."
+    },
+    {
+        "phrase": "Hold all the aces",
+        "meaning": "To have all the advantages.",
+        "example": "In negotiations, their company holds all the aces."
+    },
+    {
+        "phrase": "Hold one’s tongue",
+        "meaning": "To remain silent or not express an opinion.",
+        "example": "She wanted to complain, but held her tongue."
+    },
+    {
+        "phrase": "Hold water",
+        "meaning": "To be logical or valid.",
+        "example": "His argument doesn’t hold water."
+    },
+    {
+        "phrase": "Horse of a different color",
+        "meaning": "Something completely different or unrelated.",
+        "example": "Solving this issue is a horse of a different color."
+    },
+    {
+        "phrase": "Hot potato",
+        "meaning": "A controversial or difficult issue.",
+        "example": "The new policy is a hot potato for managers."
+    },
+    {
+        "phrase": "In a nutshell",
+        "meaning": "Summed up briefly.",
+        "example": "In a nutshell, the company needs more funding."
+    },
+    {
+        "phrase": "In black and white",
+        "meaning": "Written or printed, not just spoken.",
+        "example": "Get the agreement in black and white before signing."
+    },
+    {
+        "phrase": "In hot pursuit",
+        "meaning": "Following closely, usually in a chase.",
+        "example": "The police were in hot pursuit of the suspect."
+    },
+    {
+        "phrase": "In one ear and out the other",
+        "meaning": "Quickly forgotten.",
+        "example": "Instructions go in one ear and out the other with kids."
+    },
+    {
+        "phrase": "In the same boat",
+        "meaning": "In the same unpleasant situation.",
+        "example": "We’re all in the same boat after the layoffs."
+    },
+    {
+        "phrase": "In the spotlight",
+        "meaning": "Getting attention or focus.",
+        "example": "After the award, she was in the spotlight all week."
+    },
+    {
+        "phrase": "Keep a low profile",
+        "meaning": "To avoid attracting attention.",
+        "example": "He kept a low profile after the scandal."
+    },
+    {
+        "phrase": "Keep an eye out",
+        "meaning": "To watch for something.",
+        "example": "Keep an eye out for the delivery truck."
+    },
+    {
+        "phrase": "Keep fingers crossed",
+        "meaning": "To hope for a good result.",
+        "example": "I’m keeping my fingers crossed for your exam."
+    },
+    {
+        "phrase": "Keep one’s chin up",
+        "meaning": "To remain cheerful in tough situations.",
+        "example": "Keep your chin up during the job search."
+    },
+    {
+        "phrase": "Keep one’s cool",
+        "meaning": "To remain calm.",
+        "example": "She kept her cool during the argument."
+    },
+    {
+        "phrase": "Keep tabs on",
+        "meaning": "To monitor or watch closely.",
+        "example": "I keep tabs on my spending every month."
+    },
+    {
+        "phrase": "Know the ropes",
+        "meaning": "To understand job details.",
+        "example": "After training, he finally knows the ropes."
+    },
+    {
+        "phrase": "Lay one’s cards on the table",
+        "meaning": "To reveal intentions or plans honestly.",
+        "example": "It’s time to lay our cards on the table about the project."
+    },
+    {
+        "phrase": "Leave someone in the lurch",
+        "meaning": "To abandon someone at a time of need.",
+        "example": "She left her friend in the lurch during the crisis."
+    },
+    {
+        "phrase": "Let the cat out of the bag",
+        "meaning": "To reveal a secret.",
+        "example": "He let the cat out of the bag about the surprise party."
+    },
+    {
+        "phrase": "Like a bull in a china shop",
+        "meaning": "Clumsy or lacking finesse.",
+        "example": "He’s like a bull in a china shop during negotiations."
+    },
+    {
+        "phrase": "Like two peas in a pod",
+        "meaning": "Extremely similar or close.",
+        "example": "The twins are like two peas in a pod."
+    },
+    {
+        "phrase": "Lock horns",
+        "meaning": "To argue or clash.",
+        "example": "The two managers locked horns over the budget."
+    },
+    {
+        "phrase": "Lose one’s marbles",
+        "meaning": "To go crazy or act irrationally.",
+        "example": "I think he’s lost his marbles with that decision."
+    },
+    {
+        "phrase": "Make a mountain out of a molehill",
+        "meaning": "To exaggerate a small issue as a big one.",
+        "example": "Don’t make a mountain out of a molehill—it’s a minor mistake."
+    },
+    {
+        "phrase": "Make ends meet",
+        "meaning": "To manage expenses with limited income.",
+        "example": "Many families struggle to make ends meet."
+    },
+    {
+        "phrase": "Make hay while the sun shines",
+        "meaning": "To take advantage of favorable circumstances.",
+        "example": "While business is good, make hay while the sun shines."
+    },
+    {
+        "phrase": "Miss the boat",
+        "meaning": "To fail to take advantage of an opportunity.",
+        "example": "She missed the boat on buying those shares early."
+    },
+    {
+        "phrase": "Mum’s the word",
+        "meaning": "Stay silent about something.",
+        "example": "Mum’s the word about the promotion until it’s official."
+    },
+    {
+        "phrase": "Not playing with a full deck",
+        "meaning": "Not thinking rationally.",
+        "example": "Anyone who believes his story isn’t playing with a full deck."
+    },
+    {
+        "phrase": "Off the cuff",
+        "meaning": "Without preparation.",
+        "example": "His questions were off the cuff but insightful."
+    },
+    {
+        "phrase": "On cloud nine",
+        "meaning": "Extremely happy.",
+        "example": "She’s been on cloud nine since her graduation."
+    },
+    {
+        "phrase": "On pins and needles",
+        "meaning": "Anxious or nervous.",
+        "example": "I was on pins and needles waiting for the results."
+    },
+    {
+        "phrase": "On the ball",
+        "meaning": "Alert, efficient, quick to respond.",
+        "example": "She’s on the ball and rarely makes mistakes."
+    },
+    {
+        "phrase": "Out of the blue",
+        "meaning": "Unexpectedly.",
+        "example": "He called out of the blue after years of silence."
+    },
+    {
+        "phrase": "Out of the frying pan into the fire",
+        "meaning": "Going from a bad situation to a worse one.",
+        "example": "Leaving that job was out of the frying pan into the fire."
+    },
+    {
+        "phrase": "Out on a limb",
+        "meaning": "At risk or without support.",
+        "example": "He went out on a limb with his investment."
+    },
+    {
+        "phrase": "Pass the buck",
+        "meaning": "To assign responsibility to someone else.",
+        "example": "The manager tried to pass the buck for the error."
+    },
+    {
+        "phrase": "Picture paints a thousand words",
+        "meaning": "An image conveys meaning better than words.",
+        "example": "Her travel photos painted a thousand words."
+    },
+    {
+        "phrase": "Catch someone red-handed",
+        "meaning": "To catch someone in the act of wrongdoing.",
+        "example": "The manager caught the intern red-handed stealing supplies."
+    },
+    {
+        "phrase": "Chance one’s arm",
+        "meaning": "To take a risk despite slim odds.",
+        "example": "He chanced his arm by starting a business in a recession."
+    },
+    {
+        "phrase": "Chase rainbows",
+        "meaning": "To pursue unrealistic goals.",
+        "example": "She’s just chasing rainbows hoping to be a movie star."
+    },
+    {
+        "phrase": "Chase your tail",
+        "meaning": "To work hard but make no progress.",
+        "example": "We’re just chasing our tails with endless emails."
+    },
+    {
+        "phrase": "Cheesy",
+        "meaning": "Cheap, silly, or inauthentic.",
+        "example": "I thought his proposal was a bit cheesy."
+    },
+    {
+        "phrase": "Clock in/Clock out",
+        "meaning": "To record arrival and departure times.",
+        "example": "Employees must clock in and clock out for every shift."
+    },
+    {
+        "phrase": "Close to home",
+        "meaning": "True and uncomfortable, often emotionally.",
+        "example": "His remark about job loss was very close to home."
+    },
+    {
+        "phrase": "Cold shoulder",
+        "meaning": "To ignore or disregard.",
+        "example": "She gave him the cold shoulder after the argument."
+    },
+    {
+        "phrase": "Coming of age",
+        "meaning": "To reach maturity or adulthood.",
+        "example": "That movie is a coming of age story."
+    },
+    {
+        "phrase": "Cook someone’s goose",
+        "meaning": "To destroy someone’s chance of success.",
+        "example": "Her mistake cooked her goose for promotion."
+    },
+    {
+        "phrase": "Copycat",
+        "meaning": "Someone who copies others.",
+        "example": "The competitor is just a copycat."
+    },
+    {
+        "phrase": "Couch potato",
+        "meaning": "A lazy person who watches too much TV.",
+        "example": "He became a couch potato after retiring."
+    },
+    {
+        "phrase": "Cover a lot of ground",
+        "meaning": "To complete a lot of work or topics.",
+        "example": "We covered a lot of ground in today’s meeting."
+    },
+    {
+        "phrase": "Crack of dawn",
+        "meaning": "Very early morning.",
+        "example": "They left for the airport at the crack of dawn."
+    },
+    {
+        "phrase": "Cross that bridge when you come to it",
+        "meaning": "To deal with problems when they appear.",
+        "example": "Let’s cross that bridge when we come to it."
+    },
+    {
+        "phrase": "Cry wolf",
+        "meaning": "To give a false alarm, usually repeatedly.",
+        "example": "If you keep crying wolf, no one will believe you."
+    },
+    {
+        "phrase": "Cut the Gordian knot",
+        "meaning": "To solve a complex problem decisively.",
+        "example": "She cut the Gordian knot with her innovative plan."
+    },
+    {
+        "phrase": "Dead as a doornail",
+        "meaning": "Completely dead or unusable.",
+        "example": "The battery was dead as a doornail."
+    },
+    {
+        "phrase": "Devil’s advocate",
+        "meaning": "To argue the opposite point for debate's sake.",
+        "example": "I’m playing devil’s advocate here."
+    },
+    {
+        "phrase": "Don’t look a gift horse in the mouth",
+        "meaning": "Don’t be critical of a gift.",
+        "example": "Be grateful—don’t look a gift horse in the mouth."
+    },
+    {
+        "phrase": "Draw a blank",
+        "meaning": "To fail to recall or find information.",
+        "example": "I drew a blank when asked about her name."
+    },
+    {
+        "phrase": "Drop in",
+        "meaning": "To visit unexpectedly.",
+        "example": "I might drop in to see you after work."
+    },
+    {
+        "phrase": "Drop out of",
+        "meaning": "To withdraw from something, especially school.",
+        "example": "He dropped out of college last semester."
+    },
+    {
+        "phrase": "Eat into",
+        "meaning": "To use up or diminish.",
+        "example": "Unexpected costs are eating into our budget."
+    },
+    {
+        "phrase": "Fall back",
+        "meaning": "To retreat or withdraw.",
+        "example": "Troops were ordered to fall back at dawn."
+    },
+    {
+        "phrase": "Fall for",
+        "meaning": "To fall in love or be tricked.",
+        "example": "She fell for his sweet words."
+    },
+    {
+        "phrase": "Fall in with",
+        "meaning": "To agree with or follow others’ opinions.",
+        "example": "He quickly fell in with the new team’s methods."
+    },
+    {
+        "phrase": "Fall off",
+        "meaning": "To decrease.",
+        "example": "Sales fell off after the holiday season."
+    },
+    {
+        "phrase": "Fall on/upon someone",
+        "meaning": "To attack fiercely or unexpectedly.",
+        "example": "The dogs fell on the intruder without warning."
+    },
+    {
+        "phrase": "Fell out",
+        "meaning": "To have a disagreement.",
+        "example": "They fell out after a heated argument."
+    },
+    {
+        "phrase": "Fold up",
+        "meaning": "To collapse or fail.",
+        "example": "The company folded up after years of losses."
+    },
+    {
+        "phrase": "Hand over",
+        "meaning": "To give or transfer something.",
+        "example": "She handed over the documents to the lawyer."
+    },
+    {
+        "phrase": "Head off",
+        "meaning": "To prevent something.",
+        "example": "Quick action headed off a major crisis."
+    },
+    {
+        "phrase": "Hold out",
+        "meaning": "To resist or last.",
+        "example": "The team held out against the pressure."
+    },
+    {
+        "phrase": "Hold up",
+        "meaning": "To delay or rob.",
+        "example": "The storm held up the flight for hours."
+    },
+    {
+        "phrase": "Hype up",
+        "meaning": "To exaggerate or overly promote.",
+        "example": "The ad campaign hyped up the product’s benefits."
+    },
+    {
+        "phrase": "Join up",
+        "meaning": "To enlist in the military.",
+        "example": "He joined up right after graduation."
+    },
+    {
+        "phrase": "Keep at",
+        "meaning": "To continue working.",
+        "example": "Keep at the report—almost finished."
+    },
+    {
+        "phrase": "Keep down",
+        "meaning": "To repress or prevent something.",
+        "example": "Try to keep down the noise, please."
+    },
+    {
+        "phrase": "Keep in with",
+        "meaning": "To remain friendly with someone.",
+        "example": "She keeps in with management at all costs."
+    },
+    {
+        "phrase": "Keep on at",
+        "meaning": "To talk persistently in an annoying way.",
+        "example": "Stop keeping on at me about my grades."
+    },
+    {
+        "phrase": "Keep to",
+        "meaning": "To follow or stick to (rules or plans).",
+        "example": "Please keep to the agreed schedule."
+    },
+    {
+        "phrase": "Keep up with",
+        "meaning": "To move at the same speed or stay informed.",
+        "example": "It’s hard to keep up with technology."
+    },
+    {
+        "phrase": "Lay bare",
+        "meaning": "To reveal or expose.",
+        "example": "The audit laid bare the flaws in the system."
+    },
+    {
+        "phrase": "Lay low",
+        "meaning": "To avoid attention or stay out of sight.",
+        "example": "He’s laying low until the rumors pass."
+    },
+    {
+        "phrase": "Let slip",
+        "meaning": "To accidentally reveal something.",
+        "example": "She let slip my secret plans to the group."
+    },
+    {
+        "phrase": "Play hardball",
+        "meaning": "To use aggressive tactics to get what you want.",
+        "example": "The lawyer played hardball in the negotiations."
+    },
+    {
+        "phrase": "Play second fiddle",
+        "meaning": "To be in a subordinate position.",
+        "example": "He hated playing second fiddle to his rival."
+    },
+    {
+        "phrase": "Pour oil on troubled waters",
+        "meaning": "To calm a difficult situation.",
+        "example": "Her kind words poured oil on troubled waters."
+    },
+    {
+        "phrase": "Practice what you preach",
+        "meaning": "To act according to your stated beliefs.",
+        "example": "If he expects punctuality, he should practice what he preaches."
+    },
+    {
+        "phrase": "Pull a fast one",
+        "meaning": "To cheat or trick someone.",
+        "example": "The scammer tried to pull a fast one on customers."
+    },
+    {
+        "phrase": "Pull the rug out from under",
+        "meaning": "To suddenly take away support.",
+        "example": "His resignation pulled the rug out from under the team."
+    },
+    {
+        "phrase": "Put a sock in it",
+        "meaning": "To tell someone to be quiet.",
+        "example": "He was being loud, so I told him to put a sock in it."
+    },
+    {
+        "phrase": "Put your money where your mouth is",
+        "meaning": "Back up words with actions or investment.",
+        "example": "She finally put her money where her mouth is and volunteered."
+    },
+    {
+        "phrase": "Raise eyebrows",
+        "meaning": "To shock or surprise.",
+        "example": "His wild story raised eyebrows in the office."
+    },
+    {
+        "phrase": "Read the tea leaves",
+        "meaning": "To predict what will happen.",
+        "example": "Political analysts read the tea leaves after the speech."
+    },
+    {
+        "phrase": "Rest on laurels",
+        "meaning": "To stop trying after success.",
+        "example": "After winning, he rested on his laurels."
+    },
+    {
+        "phrase": "Ride out the storm",
+        "meaning": "To endure a difficult period.",
+        "example": "The company will ride out the storm and recover."
+    },
+    {
+        "phrase": "Rock the boat",
+        "meaning": "To upset the status quo.",
+        "example": "Don’t rock the boat with sudden changes."
+    },
+    {
+        "phrase": "Roll out the red carpet",
+        "meaning": "To give special treatment.",
+        "example": "The hotel rolled out the red carpet for celebrity guests."
+    },
+    {
+        "phrase": "Rub salt in the wound",
+        "meaning": "To make a bad situation worse.",
+        "example": "Losing the match rubbed salt in the wound."
+    },
+    {
+        "phrase": "Rule of thumb",
+        "meaning": "A general principle or guideline.",
+        "example": "A good rule of thumb is to save 10% of your income."
+    },
+    {
+        "phrase": "Run a tight ship",
+        "meaning": "To manage something strictly and efficiently.",
+        "example": "The coach runs a tight ship during training."
+    },
+    {
+        "phrase": "Run on empty",
+        "meaning": "To operate without resources or energy.",
+        "example": "She was running on empty after the long trip."
+    },
+    {
+        "phrase": "Save for a rainy day",
+        "meaning": "To save money for future difficulties.",
+        "example": "Always save for a rainy day."
+    },
+    {
+        "phrase": "Say uncle",
+        "meaning": "To admit defeat.",
+        "example": "After hours of wrestling, he finally said uncle."
+    },
+    {
+        "phrase": "Scale back",
+        "meaning": "To reduce the size or scope.",
+        "example": "We need to scale back the project’s budget."
+    },
+    {
+        "phrase": "Scratch the surface",
+        "meaning": "To deal with only a small part of something.",
+        "example": "We only scratched the surface of the problem."
+    },
+    {
+        "phrase": "Seal the deal",
+        "meaning": "To finalize an agreement.",
+        "example": "They shook hands to seal the deal."
+    },
+    {
+        "phrase": "See eye to eye",
+        "meaning": "To agree completely.",
+        "example": "We don’t always see eye to eye on management decisions."
+    },
+    {
+        "phrase": "Set in stone",
+        "meaning": "Fixed and unable to change.",
+        "example": "The deadline is set in stone—no extensions."
+    },
+    {
+        "phrase": "Set the bar",
+        "meaning": "To establish a standard or level.",
+        "example": "Her success set the bar for future employees."
+    },
+    {
+        "phrase": "Shake up",
+        "meaning": "To disrupt or make significant changes.",
+        "example": "The new manager plans to shake up the department."
+    },
+    {
+        "phrase": "Shoot from the hip",
+        "meaning": "To speak or act without thinking.",
+        "example": "He tends to shoot from the hip during meetings."
+    },
+    {
+        "phrase": "Show one’s true colors",
+        "meaning": "To reveal what someone is really like.",
+        "example": "He showed his true colors when he lied."
+    },
+    {
+        "phrase": "Sink one’s teeth into",
+        "meaning": "To get involved in something enthusiastically.",
+        "example": "She sank her teeth into the new project."
+    },
+    {
+        "phrase": "Sit on the fence",
+        "meaning": "To avoid making a decision.",
+        "example": "He’s still sitting on the fence about relocating."
+    },
+    {
+        "phrase": "Skeleton crew",
+        "meaning": "The minimum number of people needed for a task.",
+        "example": "We had a skeleton crew during the holidays."
+    },
+    {
+        "phrase": "Slice of the pie",
+        "meaning": "A share of something.",
+        "example": "He wants a slice of the pie from the new business."
+    },
+    {
+        "phrase": "Smell something fishy",
+        "meaning": "To suspect something is wrong.",
+        "example": "I smelled something fishy about the deal."
+    },
+    {
+        "phrase": "Snowed under",
+        "meaning": "Overwhelmed by work.",
+        "example": "I’m snowed under with emails today."
+    },
+    {
+        "phrase": "Sour grapes",
+        "meaning": "Pretending to not want something you can't have.",
+        "example": "She said the job was boring, but it’s just sour grapes."
+    },
+    {
+        "phrase": "Spill the beans",
+        "meaning": "To reveal a secret.",
+        "example": "Don’t spill the beans about his plans."
+    },
+    {
+        "phrase": "Split hairs",
+        "meaning": "To make fine or unnecessary distinctions.",
+        "example": "Let’s not split hairs over minor details."
+    },
+    {
+        "phrase": "Spread like wildfire",
+        "meaning": "To quickly become known or popular.",
+        "example": "The rumor spread like wildfire."
+    },
+    {
+        "phrase": "Stand the test of time",
+        "meaning": "To remain valuable or useful through the years.",
+        "example": "The classic novel has stood the test of time."
+    },
+    {
+        "phrase": "Start from scratch",
+        "meaning": "To begin again with nothing.",
+        "example": "After the fire, they started their business from scratch."
+    },
+    {
+        "phrase": "Steal the show",
+        "meaning": "To attract all the attention.",
+        "example": "Her performance stole the show."
+    },
+    {
+        "phrase": "Stick out like a sore thumb",
+        "meaning": "To be very noticeable.",
+        "example": "His neon shirt stuck out like a sore thumb."
+    },
+    {
+        "phrase": "Take a back seat",
+        "meaning": "To let someone else lead or be in control.",
+        "example": "She took a back seat in the new company."
+    },
+    {
+        "phrase": "Take sides",
+        "meaning": "To support one group in a dispute.",
+        "example": "I don’t want to take sides in their argument."
+    },
+    {
+        "phrase": "Talk turkey",
+        "meaning": "To discuss something realistically and directly.",
+        "example": "Let’s talk turkey about the budget."
+    },
+    {
+        "phrase": "Throw cold water",
+        "meaning": "To discourage enthusiasm.",
+        "example": "His criticism threw cold water on the idea."
+    },
+    {
+        "phrase": "Throw in the towel",
+        "meaning": "To give up or stop trying.",
+        "example": "After two failed attempts, she threw in the towel."
+    },
+    {
+        "phrase": "Tie the knot",
+        "meaning": "To get married.",
+        "example": "They finally decided to tie the knot last weekend."
+    },
+    {
+        "phrase": "Touch base",
+        "meaning": "To make contact and quickly communicate.",
+        "example": "Let’s touch base tomorrow about the project."
+    },
+    {
+        "phrase": "Turn a blind eye",
+        "meaning": "To ignore something intentionally.",
+        "example": "He turned a blind eye to the rule-breaking."
+    },
+    {
+        "phrase": "Turn over a new leaf",
+        "meaning": "To start behaving in a better way.",
+        "example": "After the holidays, she turned over a new leaf."
+    },
+    {
+        "phrase": "Up in arms",
+        "meaning": "To be very angry or actively protesting.",
+        "example": "Parents are up in arms about the school changes."
+    },
+    {
+        "phrase": "Up in the air",
+        "meaning": "Uncertain or undecided.",
+        "example": "Our travel plans are still up in the air."
+    },
+    {
+        "phrase": "Under one’s belt",
+        "meaning": "Acquired experience or achievement.",
+        "example": "With several awards under her belt, she was confident."
+    },
+    {
+        "phrase": "Under the table",
+        "meaning": "Secretly, usually dishonestly.",
+        "example": "He was paid under the table for extra work."
+    },
+    {
+        "phrase": "Up to scratch",
+        "meaning": "Meeting the required standard.",
+        "example": "Your report isn’t up to scratch."
+    },
+    {
+        "phrase": "Upset the apple cart",
+        "meaning": "To cause trouble and complicate things.",
+        "example": "Don’t upset the apple cart with new demands."
+    },
+    {
+        "phrase": "Variety is the spice of life",
+        "meaning": "Experiencing new things makes life more interesting.",
+        "example": "He loves trying new hobbies—variety is the spice of life."
+    },
+    {
+        "phrase": "Wait for the other shoe to drop",
+        "meaning": "Expecting another bad event to happen.",
+        "example": "After the layoffs, we’re waiting for the other shoe to drop."
+    },
+    {
+        "phrase": "Walk on air",
+        "meaning": "To feel extremely happy.",
+        "example": "She was walking on air after her promotion."
+    },
+    {
+        "phrase": "Walk the talk",
+        "meaning": "To support what you say with actions.",
+        "example": "If you want respect, walk the talk."
+    },
+    {
+        "phrase": "Wet blanket",
+        "meaning": "Someone who ruins others’ fun.",
+        "example": "Don’t be a wet blanket—join the party."
+    },
+    {
+        "phrase": "Wild goose chase",
+        "meaning": "Hopeless or meaningless pursuit.",
+        "example": "Looking for the old files was a wild goose chase."
+    },
+    {
+        "phrase": "Win hands down",
+        "meaning": "To win easily.",
+        "example": "Our team won hands down in the finals."
+    },
+    {
+        "phrase": "Word of mouth",
+        "meaning": "Reputation or information spread through conversation.",
+        "example": "Our restaurant is busy thanks to word of mouth."
+    },
+    {
+        "phrase": "Work against the clock",
+        "meaning": "To be pressed for time.",
+        "example": "We’re working against the clock to finish on time."
+    },
+    {
+        "phrase": "Work wonders",
+        "meaning": "To cause great improvements.",
+        "example": "The new manager worked wonders for morale."
+    },
+    {
+        "phrase": "Worth one’s salt",
+        "meaning": "Good at one’s job or deserving respect.",
+        "example": "Any teacher worth their salt prepares daily lessons."
+    },
+    {
+        "phrase": "Wouldn’t touch with a bargepole",
+        "meaning": "To refuse to associate with or get involved.",
+        "example": "I wouldn’t touch that deal with a bargepole."
+    },
+    {
+        "phrase": "You can’t judge a book by its cover",
+        "meaning": "Can’t judge someone by their appearance only.",
+        "example": "He may seem shy, but you can’t judge a book by its cover."
+    },
+    {
+        "phrase": "Zip your lip",
+        "meaning": "To stop talking or be quiet.",
+        "example": "Zip your lip about the secret meeting."
+    },
+    {
+        "phrase": "Zero hour",
+        "meaning": "The scheduled time to begin action.",
+        "example": "It’s zero hour for the big launch."
+    },
+    {
+        "phrase": "A blessing in disguise",
+        "meaning": "Something good that appears bad initially.",
+        "example": "Losing the job was a blessing in disguise."
+    },
+    {
+        "phrase": "A dime a dozen",
+        "meaning": "Very common and not special.",
+        "example": "Cheap souvenirs are a dime a dozen in tourist towns."
+    },
+    {
+        "phrase": "Above board",
+        "meaning": "Honest and open.",
+        "example": "All our business deals are above board."
+    },
+    {
+        "phrase": "Across the board",
+        "meaning": "Affecting everyone or everything.",
+        "example": "The company gave an across-the-board pay raise."
+    },
+    {
+        "phrase": "Add fuel to the fire",
+        "meaning": "To make a bad situation worse.",
+        "example": "Spreading gossip added fuel to the fire."
+    },
+    {
+        "phrase": "Against all odds",
+        "meaning": "Despite difficulty and near-impossibility.",
+        "example": "She succeeded against all odds."
+    },
+    {
+        "phrase": "All in the same boat",
+        "meaning": "Sharing the same situation.",
+        "example": "We’re all in the same boat after lost funding."
+    },
+    {
+        "phrase": "At the end of one’s rope",
+        "meaning": "Out of options or patience.",
+        "example": "She was at the end of her rope with the noisy neighbor."
+    },
+    {
+        "phrase": "Back to the drawing board",
+        "meaning": "Plan must be started over after failure.",
+        "example": "The solution didn’t work—back to the drawing board."
+    },
+    {
+        "phrase": "Bark up the wrong tree",
+        "meaning": "To pursue the wrong option or person.",
+        "example": "If you blame me, you’re barking up the wrong tree."
+    },
+    {
+        "phrase": "Beat around the bush",
+        "meaning": "To avoid talking about the main issue.",
+        "example": "Stop beating around the bush and tell me."
+    },
+    {
+        "phrase": "Behind closed doors",
+        "meaning": "In private or secretly.",
+        "example": "All decisions were made behind closed doors."
+    },
+    {
+        "phrase": "Better late than never",
+        "meaning": "Doing something late is better than not at all.",
+        "example": "He sent the application late, but it’s better late than never."
+    },
+    {
+        "phrase": "Bite your tongue",
+        "meaning": "To refrain from speaking.",
+        "example": "She bit her tongue to avoid an argument."
+    },
+    {
+        "phrase": "Call it a day",
+        "meaning": "To stop working for the day.",
+        "example": "Let’s call it a day and head home."
+    },
+    {
+        "phrase": "Pull someone’s leg",
+        "meaning": "To tease or joke with someone.",
+        "example": "He’s just pulling your leg; don’t take him seriously."
+    },
+    {
+        "phrase": "Put all your eggs in one basket",
+        "meaning": "To risk everything on one venture.",
+        "example": "Investing all your savings in one stock is putting all your eggs in one basket."
+    },
+    {
+        "phrase": "Put the cart before the horse",
+        "meaning": "To do things in the wrong order.",
+        "example": "Planning the party before booking a venue is putting the cart before the horse."
+    },
+    {
+        "phrase": "Put your foot in your mouth",
+        "meaning": "To say something embarrassing.",
+        "example": "He put his foot in his mouth at the meeting."
+    },
+    {
+        "phrase": "Rain on someone’s parade",
+        "meaning": "To spoil someone’s plans or fun.",
+        "example": "I don’t mean to rain on your parade, but your idea might not work."
+    },
+    {
+        "phrase": "Raise the roof",
+        "meaning": "To make a lot of noise or excitement.",
+        "example": "The crowd raised the roof at the concert."
+    },
+    {
+        "phrase": "Read between the lines",
+        "meaning": "To find the hidden meaning.",
+        "example": "Read between the lines in her message."
+    },
+    {
+        "phrase": "Red herring",
+        "meaning": "Information intended to mislead or distract.",
+        "example": "His excuse about traffic was a red herring."
+    },
+    {
+        "phrase": "Roll up one’s sleeves",
+        "meaning": "To prepare to work hard.",
+        "example": "Let’s roll up our sleeves and finish the task."
+    },
+    {
+        "phrase": "Rotten apple",
+        "meaning": "Someone who creates problems in a group.",
+        "example": "One rotten apple can spoil the whole team."
+    },
+    {
+        "phrase": "Rub elbows",
+        "meaning": "To associate with important people.",
+        "example": "She rubbed elbows with celebrities at the gala."
+    },
+    {
+        "phrase": "Rule of thumb",
+        "meaning": "A basic guideline or general principle.",
+        "example": "A good rule of thumb is to review your work twice."
+    },
+    {
+        "phrase": "Run in the family",
+        "meaning": "A trait or habit that is common among family members.",
+        "example": "Artistic talent runs in the family."
+    },
+    {
+        "phrase": "Salt of the earth",
+        "meaning": "A very good and honest person.",
+        "example": "The volunteers are the salt of the earth."
+    },
+    {
+        "phrase": "Save face",
+        "meaning": "To avoid embarrassment.",
+        "example": "He apologized to save face after the error."
+    },
+    {
+        "phrase": "See eye to eye",
+        "meaning": "To agree fully.",
+        "example": "We rarely see eye to eye at work."
+    },
+    {
+        "phrase": "Show one’s true colors",
+        "meaning": "To reveal what someone is really like.",
+        "example": "He showed his true colors under stress."
+    },
+    {
+        "phrase": "Sit tight",
+        "meaning": "To wait patiently without taking action.",
+        "example": "Sit tight until the results are announced."
+    },
+    {
+        "phrase": "Skeleton in the closet",
+        "meaning": "A hidden secret that could cause embarrassment.",
+        "example": "Most families have a skeleton in the closet."
+    },
+    {
+        "phrase": "Sleep on it",
+        "meaning": "To postpone making a decision until the next day.",
+        "example": "I need to sleep on it before deciding."
+    },
+    {
+        "phrase": "Smell a rat",
+        "meaning": "To suspect something is wrong or dishonest.",
+        "example": "She smelled a rat about his story."
+    },
+    {
+        "phrase": "Spill the beans",
+        "meaning": "To reveal secret information.",
+        "example": "Don’t spill the beans about the surprise."
+    },
+    {
+        "phrase": "Split hairs",
+        "meaning": "To make small and unnecessary distinctions.",
+        "example": "Stop splitting hairs and make a choice."
+    },
+    {
+        "phrase": "Stand one’s ground",
+        "meaning": "To refuse to move or compromise.",
+        "example": "She stood her ground during the debate."
+    },
+    {
+        "phrase": "Step up to the plate",
+        "meaning": "To take responsibility for something.",
+        "example": "Someone needs to step up to the plate and lead."
+    },
+    {
+        "phrase": "Stir up a hornet’s nest",
+        "meaning": "To create trouble or controversy.",
+        "example": "His comments stirred up a hornet’s nest."
+    },
+    {
+        "phrase": "Swallow one’s pride",
+        "meaning": "To do something humiliating but necessary.",
+        "example": "He swallowed his pride and asked for help."
+    },
+    {
+        "phrase": "Take a leaf out of someone’s book",
+        "meaning": "To imitate someone’s actions or methods.",
+        "example": "She took a leaf out of his book and started jogging."
+    },
+    {
+        "phrase": "Take the bull by the horns",
+        "meaning": "To face a difficult situation directly.",
+        "example": "Take the bull by the horns and solve the issue."
+    },
+    {
+        "phrase": "Take the cake",
+        "meaning": "To be the most remarkable or excellent.",
+        "example": "Her creative idea really takes the cake."
+    },
+    {
+        "phrase": "Taste of one’s own medicine",
+        "meaning": "Receiving the same treatment one has given others.",
+        "example": "The strict manager got a taste of his own medicine."
+    },
+    {
+        "phrase": "The ball is in your court",
+        "meaning": "It’s your turn to take action.",
+        "example": "The ball is in your court now—call back soon."
+    },
+    {
+        "phrase": "The elephant in the room",
+        "meaning": "An obvious problem no one discusses.",
+        "example": "The company’s losses are the elephant in the room."
+    },
+    {
+        "phrase": "Throw caution to the wind",
+        "meaning": "To act without worrying about risks.",
+        "example": "She threw caution to the wind and invested."
+    },
+    {
+        "phrase": "Throw in the towel",
+        "meaning": "To give up or admit defeat.",
+        "example": "He threw in the towel after repeated setbacks."
+    },
+    {
+        "phrase": "Tie up loose ends",
+        "meaning": "To finish any minor remaining tasks.",
+        "example": "Let’s tie up loose ends before the holidays."
+    },
+    {
+        "phrase": "Toe the line",
+        "meaning": "To follow the rules.",
+        "example": "Good employees toe the line."
+    },
+    {
+        "phrase": "Touch and go",
+        "meaning": "Uncertain or risky.",
+        "example": "The recovery was touch and go for a few days."
+    },
+    {
+        "phrase": "Turn a blind eye",
+        "meaning": "To ignore an issue deliberately.",
+        "example": "Management turned a blind eye to the complaints."
+    },
+    {
+        "phrase": "Turn the tables",
+        "meaning": "To reverse a situation to your advantage.",
+        "example": "He turned the tables in the negotiation."
+    },
+    {
+        "phrase": "Under the weather",
+        "meaning": "Feeling sick or unwell.",
+        "example": "I’m under the weather, so I’ll stay home."
+    },
+    {
+        "phrase": "Up in arms",
+        "meaning": "Protesting or angry.",
+        "example": "The neighborhood is up in arms about the noise."
+    },
+    {
+        "phrase": "Upset the apple cart",
+        "meaning": "To create trouble or disrupt plans.",
+        "example": "Don’t upset the apple cart with last-minute changes."
+    },
+    {
+        "phrase": "Variety is the spice of life",
+        "meaning": "Diversity makes life interesting.",
+        "example": "Trying new hobbies shows variety is the spice of life."
+    },
+    {
+        "phrase": "Game of chicken",
+        "meaning": "A contest to see who will back down first, usually describing risky behavior.",
+        "example": "Their negotiation turned into a game of chicken."
+    },
+    {
+        "phrase": "Get a charley horse",
+        "meaning": "To develop a cramp in a muscle.",
+        "example": "I got a charley horse during my run."
+    },
+    {
+        "phrase": "Get a word in edgewise",
+        "meaning": "To manage to speak while someone else is talking a lot.",
+        "example": "She talks non-stop—hard to get a word in edgewise."
+    },
+    {
+        "phrase": "Get bent out of shape",
+        "meaning": "Become angry or upset.",
+        "example": "Don’t get bent out of shape over a small mistake."
+    },
+    {
+        "phrase": "Get carried away",
+        "meaning": "To become overly enthusiastic.",
+        "example": "He got carried away during his speech and spoke for two hours."
+    },
+    {
+        "phrase": "Get in on the ground floor",
+        "meaning": "To join or invest at an early stage.",
+        "example": "She got in on the ground floor of that tech startup."
+    },
+    {
+        "phrase": "Get in shape",
+        "meaning": "To become physically fit through exercise.",
+        "example": "After months at the gym, he finally got in shape."
+    },
+    {
+        "phrase": "Get off scot-free",
+        "meaning": "To avoid punishment for a wrongdoing.",
+        "example": "They got off scot-free after breaking the rules."
+    },
+    {
+        "phrase": "Get one’s ducks in a row",
+        "meaning": "To organize things properly.",
+        "example": "Finish your applications and get your ducks in a row."
+    },
+    {
+        "phrase": "Go off the deep end",
+        "meaning": "To suddenly get very angry or act irrationally.",
+        "example": "He went off the deep end after hearing about the changes."
+    },
+    {
+        "phrase": "Go off the rails",
+        "meaning": "To behave strangely or fail at something.",
+        "example": "After losing his job, he went off the rails for a while."
+    },
+    {
+        "phrase": "Go out on a limb",
+        "meaning": "To do or say something risky.",
+        "example": "She went out on a limb to defend her unpopular opinion."
+    },
+    {
+        "phrase": "Go pear-shaped",
+        "meaning": "To go wrong or fail.",
+        "example": "The project went pear-shaped after the funding ended."
+    },
+    {
+        "phrase": "Go see a man about a dog",
+        "meaning": "To go to the bathroom, said as a euphemism.",
+        "example": "Excuse me, I need to go see a man about a dog."
+    },
+    {
+        "phrase": "Go to the dogs",
+        "meaning": "To decline or become disordered.",
+        "example": "The neighborhood went to the dogs after the factory closed."
+    },
+    {
+        "phrase": "Go to the mattresses",
+        "meaning": "To prepare for conflict or battle.",
+        "example": "The unions went to the mattresses during negotiations."
+    },
+    {
+        "phrase": "In the red",
+        "meaning": "Losing money or below a specified level.",
+        "example": "After the loss, the company is in the red."
+    },
+    {
+        "phrase": "Jump through hoops",
+        "meaning": "To go through many obstacles to achieve something.",
+        "example": "You have to jump through hoops to get a permit."
+    },
+    {
+        "phrase": "Love at first sight",
+        "meaning": "Instant romantic attraction.",
+        "example": "For them, it was love at first sight."
+    },
+    {
+        "phrase": "March to the beat of your own drum",
+        "meaning": "To do things in one’s own way, regardless of others.",
+        "example": "She always marched to the beat of her own drum at work."
+    },
+    {
+        "phrase": "Make a beeline for",
+        "meaning": "Head directly toward something or someone.",
+        "example": "He made a beeline for the food at the party."
+    },
+    {
+        "phrase": "Make waves",
+        "meaning": "Cause trouble or disturb the status quo.",
+        "example": "Her suggestions made waves in the department."
+    },
+    {
+        "phrase": "Needle in a haystack",
+        "meaning": "Something extremely difficult to find.",
+        "example": "Finding my keys in the sand was like a needle in a haystack."
+    },
+    {
+        "phrase": "New kid on the block",
+        "meaning": "Someone new to a place or organization.",
+        "example": "As the new kid on the block, he was eager to impress."
+    },
+    {
+        "phrase": "No strings attached",
+        "meaning": "Without conditions or restrictions.",
+        "example": "The donation came with no strings attached."
+    },
+    {
+        "phrase": "Not my cup of tea",
+        "meaning": "Not something one likes or is interested in.",
+        "example": "Watching horror movies is not my cup of tea."
+    },
+    {
+        "phrase": "Off one’s rocker",
+        "meaning": "Acting crazy or irrationally.",
+        "example": "You must be off your rocker to quit that job."
+    },
+    {
+        "phrase": "Off the record",
+        "meaning": "Not intended for public announcement.",
+        "example": "The reporter asked for details off the record."
+    },
+    {
+        "phrase": "On a roll",
+        "meaning": "Having a series of successes.",
+        "example": "The team is on a roll this season."
+    },
+    {
+        "phrase": "On thin ice",
+        "meaning": "In a risky or unstable position.",
+        "example": "After the mistake, he was on thin ice with his boss."
+    },
+    {
+        "phrase": "Out of left field",
+        "meaning": "Unexpected or surprising.",
+        "example": "Her idea was out of left field but interesting."
+    },
+    {
+        "phrase": "Out of one’s depth",
+        "meaning": "Engaged in something too difficult.",
+        "example": "He was out of his depth in the advanced class."
+    },
+    {
+        "phrase": "Paddle one’s own canoe",
+        "meaning": "To be independent.",
+        "example": "After college, she paddled her own canoe and moved abroad."
+    },
+    {
+        "phrase": "Pass the buck",
+        "meaning": "Shift responsibility to another person.",
+        "example": "He passed the buck to his assistant."
+    },
+    {
+        "phrase": "Play it by ear",
+        "meaning": "Adapt as circumstances change.",
+        "example": "With no plan, we’ll play it by ear."
+    },
+    {
+        "phrase": "Pull a rabbit out of the hat",
+        "meaning": "To produce a surprising or impressive solution.",
+        "example": "The manager pulled a rabbit out of the hat to save the deal."
+    },
+    {
+        "phrase": "Put a damper on",
+        "meaning": "To cause disappointment or lessen enthusiasm.",
+        "example": "The rain put a damper on our picnic plans."
+    },
+    {
+        "phrase": "Read someone the riot act",
+        "meaning": "To warn or reprimand strongly.",
+        "example": "The principal read the riot act to noisy students."
+    },
+    {
+        "phrase": "Shoot oneself in the foot",
+        "meaning": "To damage one’s own cause by a foolish action.",
+        "example": "By insulting the client, he shot himself in the foot."
+    },
+    {
+        "phrase": "Sift through",
+        "meaning": "To examine information or items carefully.",
+        "example": "The analyst sifted through data to find trends."
+    },
+    {
+        "phrase": "Smell blood",
+        "meaning": "To sense weakness and prepare to attack.",
+        "example": "The competitors smelled blood after our loss."
+    },
+    {
+        "phrase": "Spill one’s guts",
+        "meaning": "To reveal everything, especially secrets.",
+        "example": "He spilled his guts about the job troubles."
+    },
+    {
+        "phrase": "Sweep under the rug",
+        "meaning": "To hide something undesirable.",
+        "example": "The company swept the errors under the rug."
+    },
+    {
+        "phrase": "Take it with a grain of salt",
+        "meaning": "To view something with skepticism.",
+        "example": "Take his story with a grain of salt."
+    },
+    {
+        "phrase": "Throw in one’s lot with",
+        "meaning": "To join someone or a group for success or failure.",
+        "example": "She threw in her lot with the start-up."
+    },
+    {
+        "phrase": "Weather the storm",
+        "meaning": "To survive a difficult situation.",
+        "example": "The company weathered the storm of criticism."
+    },
+    {
+        "phrase": "Wear many hats",
+        "meaning": "To have several different roles or jobs.",
+        "example": "As a founder, she wears many hats every day."
+    },
+    {
+        "phrase": "Whistle in the dark",
+        "meaning": "To try to remain positive in a worrying situation.",
+        "example": "He’s whistling in the dark about the company’s future."
+    },
+    {
+        "phrase": "Whole nine yards",
+        "meaning": "Everything possible or available.",
+        "example": "She decorated the house with the whole nine yards for the party."
+    },
+    {
+        "phrase": "Wild card",
+        "meaning": "An unpredictable or unknown factor.",
+        "example": "The new hire is a wild card—no one knows her strengths yet."
+    },
+    {
+        "phrase": "Word on the street",
+        "meaning": "What people are saying informally or as gossip.",
+        "example": "The word on the street is we may get bonuses."
+    },
+    {
+        "phrase": "Work one’s fingers to the bone",
+        "meaning": "To work extremely hard.",
+        "example": "He worked his fingers to the bone to get promoted."
+    },
+    {
+        "phrase": "Work your way up",
+        "meaning": "To advance gradually in status or position.",
+        "example": "She worked her way up from intern to manager."
+    },
+    {
+        "phrase": "Worth its weight in gold",
+        "meaning": "Extremely valuable.",
+        "example": "Her advice is worth its weight in gold."
+    },
+    {
+        "phrase": "You scratch my back, I’ll scratch yours",
+        "meaning": "If you help me, I’ll help you.",
+        "example": "The deal is—you scratch my back, I’ll scratch yours."
+    },
+    {
+        "phrase": "Ace in the hole",
+        "meaning": "A hidden advantage or resource.",
+        "example": "His experience is his ace in the hole for the job."
+    },
+    {
+        "phrase": "Air your dirty laundry",
+        "meaning": "To talk about private issues publicly.",
+        "example": "Their argument aired a lot of dirty laundry."
+    },
+    {
+        "phrase": "All bark and no bite",
+        "meaning": "Threatening but not dangerous.",
+        "example": "He complains, but he’s all bark and no bite."
+    },
+    {
+        "phrase": "At wit’s end",
+        "meaning": "Completely puzzled or frustrated.",
+        "example": "After more problems, she was at her wit’s end."
+    },
+    {
+        "phrase": "Back to square one",
+        "meaning": "To start over again.",
+        "example": "The failed design means we’re back to square one."
+    },
+    {
+        "phrase": "Beat the odds",
+        "meaning": "To succeed despite difficulty or low probability.",
+        "example": "He beat the odds to recover from illness."
+    },
+    {
+        "phrase": "Beggars can’t be choosers",
+        "meaning": "When you don’t have much, you accept what’s offered.",
+        "example": "In this job market, beggars can’t be choosers."
+    },
+    {
+        "phrase": "Behind the eight ball",
+        "meaning": "In unlucky or difficult circumstances.",
+        "example": "Without help, he’s behind the eight ball."
+    },
+    {
+        "phrase": "Bend over backwards",
+        "meaning": "To make extra effort to help.",
+        "example": "She bent over backwards to give the team what they needed."
+    },
+    {
+        "phrase": "Better safe than sorry",
+        "meaning": "Caution is better than risk.",
+        "example": "Take your umbrella—better safe than sorry."
+    },
+    {
+        "phrase": "Big fish in a small pond",
+        "meaning": "Someone important in a small group.",
+        "example": "He’s a big fish in a small pond at that company."
+    },
+    {
+        "phrase": "Bite off more than you can chew",
+        "meaning": "Accepting more responsibility than can be handled.",
+        "example": "She bit off more than she could chew with five projects."
+    },
+    {
+        "phrase": "Bite your lip",
+        "meaning": "To stop yourself from speaking.",
+        "example": "He bit his lip to keep quiet."
+    },
+    {
+        "phrase": "Blood, sweat, and tears",
+        "meaning": "Great effort and sacrifice.",
+        "example": "This product took blood, sweat, and tears to create."
+    },
+    {
+        "phrase": "Blow off steam",
+        "meaning": "To release pent-up emotion or energy.",
+        "example": "Jogging helps me blow off steam after work."
+    },
+    {
+        "phrase": "Break the ice",
+        "meaning": "To relieve tension in a social setting.",
+        "example": "Her joke broke the ice at the meeting."
+    },
+    {
+        "phrase": "Bring home the bacon",
+        "meaning": "To earn a living.",
+        "example": "He’s bringing home the bacon as a freelance writer."
+    },
+    {
+        "phrase": "Burn the midnight oil",
+        "meaning": "To work late into the night.",
+        "example": "She burned the midnight oil to finish the thesis."
+    },
+    {
+        "phrase": "By the skin of your teeth",
+        "meaning": "Barely succeed.",
+        "example": "He passed the exam by the skin of his teeth."
+    },
+    {
+        "phrase": "Caught between a rock and a hard place",
+        "meaning": "Faced with two tough choices.",
+        "example": "She was caught between a rock and a hard place—change jobs or move cities."
+    },
+    {
+        "phrase": "Chase your tail",
+        "meaning": "Waste time doing lots without progress.",
+        "example": "I’ve been chasing my tail with paperwork all week."
+    },
+    {
+        "phrase": "Close but no cigar",
+        "meaning": "Almost succeeding, but not quite.",
+        "example": "Getting second place was close but no cigar."
+    },
+    {
+        "phrase": "Cold shoulder",
+        "meaning": "To ignore or show indifference.",
+        "example": "After the fight, he got the cold shoulder."
+    },
+    {
+        "phrase": "Come out swinging",
+        "meaning": "Begin strongly and aggressively.",
+        "example": "The team came out swinging in the first round."
+    },
+    {
+        "phrase": "Crack of dawn",
+        "meaning": "Very early in the morning.",
+        "example": "They left for the airport at the crack of dawn."
+    },
+    {
+        "phrase": "Cut to the chase",
+        "meaning": "Get to the point with no delay.",
+        "example": "Let’s cut to the chase: did we win the contract?"
+    },
+    {
+        "phrase": "Devil’s advocate",
+        "meaning": "To argue an opposing viewpoint.",
+        "example": "I’ll play devil’s advocate in this debate."
+    },
+    {
+        "phrase": "Down to the wire",
+        "meaning": "At the last possible moment.",
+        "example": "The project was finished down to the wire."
+    },
+    {
+        "phrase": "Draw a line in the sand",
+        "meaning": "To set a specific limit.",
+        "example": "The manager drew a line in the sand on overtime hours."
+    },
+    {
+        "phrase": "Face the music",
+        "meaning": "Accept consequences or criticism.",
+        "example": "He faced the music after missing deadlines."
+    },
+    {
+        "phrase": "For crying out loud",
+        "meaning": "An exclamation for frustration or disbelief.",
+        "example": "For crying out loud, finish your homework!"
+    },
+    {
+        "phrase": "Get your act together",
+        "meaning": "Become organized and effective.",
+        "example": "You need to get your act together to succeed."
+    },
+    {
+        "phrase": "Get the show on the road",
+        "meaning": "To begin an activity or journey.",
+        "example": "Let’s get the show on the road and start rehearsing."
+    },
+    {
+        "phrase": "Give someone the cold shoulder",
+        "meaning": "To ignore or treat someone unkindly.",
+        "example": "She gave him the cold shoulder at the party."
+    },
+    {
+        "phrase": "Go for broke",
+        "meaning": "To risk everything for a big reward.",
+        "example": "They went for broke and invested all their savings."
+    },
+    {
+        "phrase": "Go the extra mile",
+        "meaning": "To do more than what is necessary.",
+        "example": "The team always goes the extra mile to satisfy clients."
+    },
+    {
+        "phrase": "Grab the bull by the horns",
+        "meaning": "To face a problem directly and confidently.",
+        "example": "It’s time to grab the bull by the horns and solve the issue."
+    },
+    {
+        "phrase": "Hang in there",
+        "meaning": "To not give up despite difficulties.",
+        "example": "Hang in there, things will get better."
+    },
+    {
+        "phrase": "Have an axe to grind",
+        "meaning": "To have a personal complaint or ulterior motive.",
+        "example": "He’s criticizing the policy because he has an axe to grind."
+    },
+    {
+        "phrase": "Hit below the belt",
+        "meaning": "To act unfairly or cruelly, especially in an argument.",
+        "example": "His comment about her appearance was hitting below the belt."
+    },
+    {
+        "phrase": "Hit the nail on the head",
+        "meaning": "To say something exactly right.",
+        "example": "Your analysis hit the nail on the head."
+    },
+    {
+        "phrase": "In a pickle",
+        "meaning": "In a difficult or troublesome situation.",
+        "example": "I lost my ticket—now I’m in a pickle."
+    },
+    {
+        "phrase": "In the blink of an eye",
+        "meaning": "Very quickly or instantly.",
+        "example": "The car disappeared in the blink of an eye."
+    },
+    {
+        "phrase": "In the same boat",
+        "meaning": "In the same difficult situation as others.",
+        "example": "We’re all in the same boat after the layoffs."
+    },
+    {
+        "phrase": "Jump on the bandwagon",
+        "meaning": "To join others in something popular or successful.",
+        "example": "Many companies jumped on the remote work bandwagon."
+    },
+    {
+        "phrase": "Keep a straight face",
+        "meaning": "To not show emotion, especially when amusing or surprising.",
+        "example": "It was hard to keep a straight face during his joke."
+    },
+    {
+        "phrase": "Keep your chin up",
+        "meaning": "To remain cheerful and positive.",
+        "example": "Keep your chin up through tough times."
+    },
+    {
+        "phrase": "Know something inside out",
+        "meaning": "To know something extremely well.",
+        "example": "She knows the software inside out."
+    },
+    {
+        "phrase": "Lay down the law",
+        "meaning": "To assert authority by setting rules.",
+        "example": "The coach laid down the law about discipline."
+    },
+    {
+        "phrase": "Leave no stone unturned",
+        "meaning": "To try every possible way to achieve something.",
+        "example": "The detectives left no stone unturned looking for clues."
+    },
+    {
+        "phrase": "Let the cat out of the bag",
+        "meaning": "To reveal a secret by mistake.",
+        "example": "He let the cat out of the bag about the surprise party."
+    },
+    {
+        "phrase": "Miss the boat",
+        "meaning": "To miss an opportunity.",
+        "example": "If you don’t apply now, you’ll miss the boat."
+    },
+    {
+        "phrase": "Paint the town red",
+        "meaning": "To go out and celebrate.",
+        "example": "After graduation, they painted the town red."
+    },
+    {
+        "phrase": "Pass the buck",
+        "meaning": "To shift responsibility to someone else.",
+        "example": "The manager tried to pass the buck."
+    },
+    {
+        "phrase": "Pay the piper",
+        "meaning": "To face consequences of actions.",
+        "example": "After ignoring the warnings, it’s time to pay the piper."
+    },
+    {
+        "phrase": "Play it by ear",
+        "meaning": "To act without a plan, improvising as you go.",
+        "example": "We don’t know the details, so let’s play it by ear."
+    },
+    {
+        "phrase": "Put all your eggs in one basket",
+        "meaning": "To risk everything on one opportunity.",
+        "example": "Don’t put all your eggs in one basket with investments."
+    },
+    {
+        "phrase": "Read between the lines",
+        "meaning": "To understand something not stated directly.",
+        "example": "Read between the lines of the announcement."
+    },
+    {
+        "phrase": "Read the riot act",
+        "meaning": "To give a strong warning or reprimand.",
+        "example": "The teacher read the riot act to the noisy students."
+    },
+    {
+        "phrase": "Rock the boat",
+        "meaning": "To cause trouble or disturb a situation.",
+        "example": "He didn’t want to rock the boat at work."
+    },
+    {
+        "phrase": "Roll with the punches",
+        "meaning": "To adapt to adversity.",
+        "example": "We have to roll with the punches and move forward."
+    },
+    {
+        "phrase": "Scratch the surface",
+        "meaning": "To deal with only a small part of a problem.",
+        "example": "We’ve only scratched the surface with this data."
+    },
+    {
+        "phrase": "Shoot the breeze",
+        "meaning": "To talk informally or chat.",
+        "example": "Let’s have coffee and shoot the breeze."
+    },
+    {
+        "phrase": "Sink or swim",
+        "meaning": "To succeed or fail without help.",
+        "example": "New hires are left to sink or swim."
+    },
+    {
+        "phrase": "Sleep on it",
+        "meaning": "To wait before making a decision.",
+        "example": "Don’t decide now—sleep on it first."
+    },
+    {
+        "phrase": "Smell a rat",
+        "meaning": "To suspect something is wrong.",
+        "example": "If his story changes, I smell a rat."
+    },
+    {
+        "phrase": "Spill the beans",
+        "meaning": "To reveal secret information.",
+        "example": "She spilled the beans about my birthday plans."
+    },
+    {
+        "phrase": "Steal someone’s thunder",
+        "meaning": "To take credit for another’s idea.",
+        "example": "He stole my thunder by announcing my project."
+    },
+    {
+        "phrase": "Storm in a teacup",
+        "meaning": "An exaggerated small problem.",
+        "example": "Their argument was just a storm in a teacup."
+    },
+    {
+        "phrase": "Take someone under your wing",
+        "meaning": "To look after and mentor a person.",
+        "example": "The experienced worker took the intern under his wing."
+    },
+    {
+        "phrase": "The apple doesn’t fall far from the tree",
+        "meaning": "Children resemble their parents.",
+        "example": "Like her mother, the apple doesn’t fall far from the tree."
+    },
+    {
+        "phrase": "Throw caution to the wind",
+        "meaning": "To act without considering risk.",
+        "example": "He threw caution to the wind and quit his job."
+    },
+    {
+        "phrase": "Tighten one’s belt",
+        "meaning": "To live on less money or restrict spending.",
+        "example": "We’ll need to tighten our belts until the market improves."
+    },
+    {
+        "phrase": "Up in arms",
+        "meaning": "Angry or actively protesting.",
+        "example": "Teachers are up in arms over new testing."
+    },
+    {
+        "phrase": "With flying colors",
+        "meaning": "To do something extremely well.",
+        "example": "She passed the exam with flying colors."
+    }
+]
