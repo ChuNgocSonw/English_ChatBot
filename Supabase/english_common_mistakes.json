@@ -1,0 +1,3217 @@
+[
+    {
+        "Mistake": "Their going to the store",
+        "Correction": "They're going to the store",
+        "Example": "❌ Their going to the store. / ✅ They're going to the store."
+    },
+    {
+        "Mistake": "Your welcome",
+        "Correction": "You're welcome",
+        "Example": "❌ Your welcome! / ✅ You're welcome!"
+    },
+    {
+        "Mistake": "I could care less",
+        "Correction": "I couldn't care less",
+        "Example": "❌ I could care less about that. / ✅ I couldn't care less about that."
+    },
+    {
+        "Mistake": "Irregardless",
+        "Correction": "Regardless",
+        "Example": "❌ Irregardless of the weather, we will go. / ✅ Regardless of the weather, we will go."
+    },
+    {
+        "Mistake": "To vs Too",
+        "Correction": "To / Too",
+        "Example": "❌ I want too go. / ✅ I want to go."
+    },
+    {
+        "Mistake": "Then vs Than",
+        "Correction": "Then / Than",
+        "Example": "❌ She is taller then me. / ✅ She is taller than me."
+    },
+    {
+        "Mistake": "Less vs Fewer",
+        "Correction": "Less / Fewer",
+        "Example": "❌ There are less apples here. / ✅ There are fewer apples here."
+    },
+    {
+        "Mistake": "Could of",
+        "Correction": "Could have",
+        "Example": "❌ I could of done better. / ✅ I could have done better."
+    },
+    {
+        "Mistake": "Who vs Whom",
+        "Correction": "Who / Whom",
+        "Example": "❌ Whom is coming to dinner? / ✅ Who is coming to dinner?"
+    },
+    {
+        "Mistake": "Me vs I",
+        "Correction": "Me / I",
+        "Example": "❌ Me and him went to the park. / ✅ He and I went to the park."
+    },
+    {
+        "Mistake": "Affect vs Effect",
+        "Correction": "Affect / Effect",
+        "Example": "❌ The effect of the weather will affect us. / ✅ The effect of the weather will affect us."
+    },
+    {
+        "Mistake": "Lie vs Lay",
+        "Correction": "Lie / Lay",
+        "Example": "❌ I am going to lay down. / ✅ I am going to lie down."
+    },
+    {
+        "Mistake": "Between you and I",
+        "Correction": "Between you and me",
+        "Example": "❌ Between you and I, this is a secret. / ✅ Between you and me, this is a secret."
+    },
+    {
+        "Mistake": "Okay vs OK",
+        "Correction": "Okay / OK",
+        "Example": "❌ It's ok to be late. / ✅ It's OK to be late."
+    },
+    {
+        "Mistake": "Everybody vs Every body",
+        "Correction": "Everybody",
+        "Example": "❌ Every body enjoyed the party. / ✅ Everybody enjoyed the party."
+    },
+    {
+        "Mistake": "Good vs Well",
+        "Correction": "Good / Well",
+        "Example": "❌ She sings good. / ✅ She sings well."
+    },
+    {
+        "Mistake": "Should of",
+        "Correction": "Should have",
+        "Example": "❌ You should of called me. / ✅ You should have called me."
+    },
+    {
+        "Mistake": "Bring vs Take",
+        "Correction": "Bring / Take",
+        "Example": "❌ Please bring this to your house. / ✅ Please take this to your house."
+    },
+    {
+        "Mistake": "Farther vs Further",
+        "Correction": "Farther / Further",
+        "Example": "❌ We cannot discuss this any farther. / ✅ We cannot discuss this any further."
+    },
+    {
+        "Mistake": "Could care less",
+        "Correction": "Couldn't care less",
+        "Example": "❌ I could care less about the game. / ✅ I couldn't care less about the game."
+    },
+    {
+        "Mistake": "Less vs Least",
+        "Correction": "Less / Least",
+        "Example": "❌ This is less of a problem than before. / ✅ This is the least of our problems."
+    },
+    {
+        "Mistake": "Accept vs Except",
+        "Correction": "Accept / Except",
+        "Example": "❌ Everyone accept John was there. / ✅ Everyone except John was there."
+    },
+    {
+        "Mistake": "Then vs Than",
+        "Correction": "Then / Than",
+        "Example": "❌ She is better then me. / ✅ She is better than me."
+    },
+    {
+        "Mistake": "Alot vs A lot",
+        "Correction": "A lot",
+        "Example": "❌ I have alot of homework. / ✅ I have a lot of homework."
+    },
+    {
+        "Mistake": "He don’t vs He doesn’t",
+        "Correction": "He doesn’t",
+        "Example": "❌ He don’t like pizza. / ✅ He doesn’t like pizza."
+    },
+    {
+        "Mistake": "Could care less",
+        "Correction": "Couldn't care less",
+        "Example": "❌ I could care less about your opinion. / ✅ I couldn't care less about your opinion."
+    },
+    {
+        "Mistake": "I seen vs I saw",
+        "Correction": "I saw",
+        "Example": "❌ I seen the movie last night. / ✅ I saw the movie last night."
+    },
+    {
+        "Mistake": "Less vs Fewer",
+        "Correction": "Less / Fewer",
+        "Example": "❌ There’s less people here today. / ✅ There’s fewer people here today."
+    },
+    {
+        "Mistake": "Then vs Than",
+        "Correction": "Then / Than",
+        "Example": "❌ You’re taller then I am. / ✅ You’re taller than I am."
+    },
+    {
+        "Mistake": "Their vs There",
+        "Correction": "Their / There",
+        "Example": "❌ Their going over there later. / ✅ They're going over there later."
+    },
+    {
+        "Mistake": "Your vs You're",
+        "Correction": "Your / You're",
+        "Example": "❌ Your going to love this. / ✅ You're going to love this."
+    },
+    {
+        "Mistake": "Its vs It's",
+        "Correction": "Its / It's",
+        "Example": "❌ Its raining outside. / ✅ It's raining outside."
+    },
+    {
+        "Mistake": "Who vs Whom",
+        "Correction": "Who / Whom",
+        "Example": "❌ Whom is calling? / ✅ Who is calling?"
+    },
+    {
+        "Mistake": "Less vs Fewer",
+        "Correction": "Less / Fewer",
+        "Example": "❌ There are less cars in the parking lot. / ✅ There are fewer cars in the parking lot."
+    },
+    {
+        "Mistake": "Bring vs Take",
+        "Correction": "Bring / Take",
+        "Example": "❌ Bring that book to your house. / ✅ Take that book to your house."
+    },
+    {
+        "Mistake": "I did good vs I did well",
+        "Correction": "I did well",
+        "Example": "❌ I did good on the test. / ✅ I did well on the test."
+    },
+    {
+        "Mistake": "Less vs Fewer",
+        "Correction": "Less / Fewer",
+        "Example": "❌ I have less books than you. / ✅ I have fewer books than you."
+    },
+    {
+        "Mistake": "Could of vs Could have",
+        "Correction": "Could have",
+        "Example": "❌ I could of helped you. / ✅ I could have helped you."
+    },
+    {
+        "Mistake": "Lie vs Lay",
+        "Correction": "Lie / Lay",
+        "Example": "❌ I will lay down now. / ✅ I will lie down now."
+    },
+    {
+        "Mistake": "Alot vs A lot",
+        "Correction": "A lot",
+        "Example": "❌ She has alot of friends. / ✅ She has a lot of friends."
+    },
+    {
+        "Mistake": "Irregardless vs Regardless",
+        "Correction": "Regardless",
+        "Example": "❌ Irregardless of the weather, we will go. / ✅ Regardless of the weather, we will go."
+    },
+    {
+        "Mistake": "Me vs I",
+        "Correction": "Me / I",
+        "Example": "❌ Me and him went to the store. / ✅ He and I went to the store."
+    },
+    {
+        "Mistake": "He don’t vs He doesn’t",
+        "Correction": "He doesn’t",
+        "Example": "❌ He don’t want to go. / ✅ He doesn’t want to go."
+    },
+    {
+        "Mistake": "Should of vs Should have",
+        "Correction": "Should have",
+        "Example": "❌ You should of asked. / ✅ You should have asked."
+    },
+    {
+        "Mistake": "Effect vs Affect",
+        "Correction": "Effect / Affect",
+        "Example": "❌ How will this affect the effect? / ✅ How will this affect the outcome?"
+    },
+    {
+        "Mistake": "Less vs Fewer",
+        "Correction": "Less / Fewer",
+        "Example": "❌ I have less friends than him. / ✅ I have fewer friends than him."
+    },
+    {
+        "Mistake": "There vs Their",
+        "Correction": "There / Their",
+        "Example": "❌ Their going to the meeting. / ✅ They're going to the meeting."
+    },
+    {
+        "Mistake": "Farther vs Further",
+        "Correction": "Farther / Further",
+        "Example": "❌ We need to discuss this matter further. / ✅ We need to discuss this matter further."
+    },
+    {
+        "Mistake": "All together vs altogether",
+        "Correction": "All together / Altogether",
+        "Example": "❌ We were all together at the event. / ✅ We were altogether at the event."
+    },
+    {
+        "Mistake": "Complement vs Compliment",
+        "Correction": "Complement / Compliment",
+        "Example": "❌ Your skills complement the team. / ✅ Your skills are a compliment to the team."
+    },
+    {
+        "Mistake": "Lose vs Loose",
+        "Correction": "Lose / Loose",
+        "Example": "❌ Be careful not to loose your keys. / ✅ Be careful not to lose your keys."
+    },
+    {
+        "Mistake": "Quite vs Quiet",
+        "Correction": "Quite / Quiet",
+        "Example": "❌ The room is quite loud today. / ✅ The room is quiet today."
+    },
+    {
+        "Mistake": "Stationary vs Stationery",
+        "Correction": "Stationary / Stationery",
+        "Example": "❌ The car remained stationary. / ✅ I bought stationery for school."
+    },
+    {
+        "Mistake": "Discreet vs Discrete",
+        "Correction": "Discreet / Discrete",
+        "Example": "❌ She was very discreet about the matter. / ✅ She was very discrete about the matter."
+    },
+    {
+        "Mistake": "Elicit vs Illicit",
+        "Correction": "Elicit / Illicit",
+        "Example": "❌ The joke elicited laughter. / ✅ The drug is illicit."
+    },
+    {
+        "Mistake": "Faint vs Feint",
+        "Correction": "Faint / Feint",
+        "Example": "❌ I saw a faint outline. / ✅ He made a feint to the left."
+    },
+    {
+        "Mistake": "Principal vs Principle",
+        "Correction": "Principal / Principle",
+        "Example": "❌ The principal address is tomorrow. / ✅ The principle of honesty is important."
+    },
+    {
+        "Mistake": "Stationary vs Stationery",
+        "Correction": "Stationary / Stationery",
+        "Example": "❌ He stayed stationary during the race. / ✅ He bought stationery for his office."
+    },
+    {
+        "Mistake": "Sense vs Cents",
+        "Correction": "Sense / Cents",
+        "Example": "❌ It makes sense to save more money. / ✅ That costs fifty cents."
+    },
+    {
+        "Mistake": "Breath vs Breathe",
+        "Correction": "Breath / Breathe",
+        "Example": "❌ Take a deep breath before speaking. / ✅ You need to breathe more easily."
+    },
+    {
+        "Mistake": "Dual vs Duel",
+        "Correction": "Dual / Duel",
+        "Example": "❌ They have a dual purpose. / ✅ They fought a duel."
+    },
+    {
+        "Mistake": "Elicit vs Illicit",
+        "Correction": "Elicit / Illicit",
+        "Example": "❌ The survey elicited many responses. / ✅ The drug is illicit."
+    },
+    {
+        "Mistake": "Weather vs Whether",
+        "Correction": "Weather / Whether",
+        "Example": "❌ The weather is nice today. / ✅ I wonder whether it will rain."
+    },
+    {
+        "Mistake": "Accept vs Except",
+        "Correction": "Accept / Except",
+        "Example": "❌ Everyone accept John came to the party. / ✅ Everyone except John came."
+    },
+    {
+        "Mistake": "Compliment vs Complement",
+        "Correction": "Compliment / Complement",
+        "Example": "❌ She gave a compliment on my dress. / ✅ This will complement your skills."
+    },
+    {
+        "Mistake": "Do vs Due",
+        "Correction": "Do / Due",
+        "Example": "❌ My homework isn't do yet. / ✅ My homework isn't due yet."
+    },
+    {
+        "Mistake": "Fewer vs Less",
+        "Correction": "Fewer / Less",
+        "Example": "❌ There are fewer options available. / ✅ There is less water left."
+    },
+    {
+        "Mistake": "Knew vs New",
+        "Correction": "Knew / New",
+        "Example": "❌ I knew about the event. / ✅ I bought a new phone."
+    },
+    {
+        "Mistake": "Lead vs Led",
+        "Correction": "Lead / Led",
+        "Example": "❌ She will lead the team tomorrow. / ✅ She led the team yesterday."
+    },
+    {
+        "Mistake": "Loose vs Lose",
+        "Correction": "Loose / Lose",
+        "Example": "❌ My shirt is too loose. / ✅ I don't want to lose that document."
+    },
+    {
+        "Mistake": "Principal vs Principle",
+        "Correction": "Principal / Principle",
+        "Example": "❌ The principal of the school addressed the issue. / ✅ The principle of fairness is important."
+    },
+    {
+        "Mistake": "Stationary vs Stationery",
+        "Correction": "Stationery / Stationery",
+        "Example": "❌ I need new stationery supplies. / ✅ I stayed stationary during the game."
+    },
+    {
+        "Mistake": "Than vs Then",
+        "Correction": "Than / Then",
+        "Example": "❌ She is taller then her brother. / ✅ She is taller than her brother."
+    },
+    {
+        "Mistake": "Their vs There",
+        "Correction": "Their / There",
+        "Example": "❌ There going to be a delay. / ✅ They're going to be late."
+    },
+    {
+        "Mistake": "You're vs Your",
+        "Correction": "You're / Your",
+        "Example": "❌ Your going to love this. / ✅ You're going to love this."
+    },
+    {
+        "Mistake": "Weather vs Whether",
+        "Correction": "Weather / Whether",
+        "Example": "❌ We should check the weather forecast. / ✅ I can't decide whether to stay or go."
+    },
+    {
+        "Mistake": "Your vs You're",
+        "Correction": "Your / You're",
+        "Example": "❌ Your late for the appointment. / ✅ You're late for the appointment."
+    },
+    {
+        "Mistake": "Brakes vs Breaks",
+        "Correction": "Brakes / Breaks",
+        "Example": "❌ The car's brakes need repair. / ✅ He took a break from work."
+    },
+    {
+        "Mistake": "Overdue vs Overdo",
+        "Correction": "Overdue / Overdo",
+        "Example": "❌ The library book is overdue. / ✅ Don't overdo it at the gym."
+    },
+    {
+        "Mistake": "Site vs Sight",
+        "Correction": "Site / Sight",
+        "Example": "❌ The construction site is busy today. / ✅ The view is a beautiful sight."
+    },
+    {
+        "Mistake": "Peace vs Piece",
+        "Correction": "Peace / Piece",
+        "Example": "❌ I wish for peace in the world. / ✅ Can I have a piece of cake?"
+    },
+    {
+        "Mistake": "Practice vs Practise",
+        "Correction": "Practice / Practise",
+        "Example": "❌ I need more practice. / ✅ I will practises my piano tonight."
+    },
+    {
+        "Mistake": "Effect vs Affect",
+        "Correction": "Effect / Affect",
+        "Example": "❌ The medicine had an immediate effect. / ✅ The news affected him deeply."
+    },
+    {
+        "Mistake": "Their vs They're",
+        "Correction": "Their / They're",
+        "Example": "❌ Their coming to the party. / ✅ They're coming to the party."
+    },
+    {
+        "Mistake": "Complement vs Compliment",
+        "Correction": "Complement / Compliment",
+        "Example": "❌ His skills complement the team well. / ✅ She paid him a compliment."
+    },
+    {
+        "Mistake": "I have went",
+        "Correction": "I have gone",
+        "Example": "❌ I have went to the store. / ✅ I have gone to the store."
+    },
+    {
+        "Mistake": "Could care less",
+        "Correction": "Couldn't care less",
+        "Example": "❌ I could care less about that. / ✅ I couldn't care less about that."
+    },
+    {
+        "Mistake": "Who vs That",
+        "Correction": "Who / That",
+        "Example": "❌ She is the person that helped me. / ✅ She is the person who helped me."
+    },
+    {
+        "Mistake": "Between you and I",
+        "Correction": "Between you and me",
+        "Example": "❌ Between you and I, this is a secret. / ✅ Between you and me, this is a secret."
+    },
+    {
+        "Mistake": "Hanged vs Hung",
+        "Correction": "Hung / Hanged",
+        "Example": "❌ The man was hung for his crimes. / ✅ The man was hanged for his crimes."
+    },
+    {
+        "Mistake": "Less vs Least",
+        "Correction": "Less / Least",
+        "Example": "❌ This is less important. / ✅ This is the least important."
+    },
+    {
+        "Mistake": "Could of",
+        "Correction": "Could have",
+        "Example": "❌ He could of gone earlier. / ✅ He could have gone earlier."
+    },
+    {
+        "Mistake": "I could of done it",
+        "Correction": "I could have done it",
+        "Example": "❌ I could of done better. / ✅ I could have done better."
+    },
+    {
+        "Mistake": "Besides vs Beside",
+        "Correction": "Besides / Beside",
+        "Example": "❌ Besides the point, your idea is good. / ✅ Beside the point, your idea is good."
+    },
+    {
+        "Mistake": "Lead vs Led",
+        "Correction": "Lead / Led",
+        "Example": "❌ He lead the team yesterday. / ✅ He led the team yesterday."
+    },
+    {
+        "Mistake": "Try and vs Try to",
+        "Correction": "Try to",
+        "Example": "❌ I will try and call you. / ✅ I will try to call you."
+    },
+    {
+        "Mistake": "Wanna vs Want to",
+        "Correction": "Want to",
+        "Example": "❌ I wanna go now. / ✅ I want to go now."
+    },
+    {
+        "Mistake": "Amount vs Number",
+        "Correction": "Amount / Number",
+        "Example": "❌ The amount of people was large. / ✅ The number of people was large."
+    },
+    {
+        "Mistake": "Loose vs Lose",
+        "Correction": "Loose / Lose",
+        "Example": "❌ Don't loose your keys. / ✅ Don't lose your keys."
+    },
+    {
+        "Mistake": "Less vs Fewer",
+        "Correction": "Less / Fewer",
+        "Example": "❌ There are less chairs than before. / ✅ There are fewer chairs than before."
+    },
+    {
+        "Mistake": "Irregardless",
+        "Correction": "Regardless",
+        "Example": "❌ Irregardless of the rules, do it. / ✅ Regardless of the rules, do it."
+    },
+    {
+        "Mistake": "Them vs Those",
+        "Correction": "Them / Those",
+        "Example": "❌ Them books are mine. / ✅ Those books are mine."
+    },
+    {
+        "Mistake": "Ain't vs Isn't",
+        "Correction": "Isn't",
+        "Example": "❌ She ain't here. / ✅ She isn't here."
+    },
+    {
+        "Mistake": "Should of",
+        "Correction": "Should have",
+        "Example": "❌ You should of told me. / ✅ You should have told me."
+    },
+    {
+        "Mistake": "Good vs Well",
+        "Correction": "Good / Well",
+        "Example": "❌ She did good on the test. / ✅ She did well on the test."
+    },
+    {
+        "Mistake": "Where vs Were",
+        "Correction": "Where / Were",
+        "Example": "❌ They where late. / ✅ They were late."
+    },
+    {
+        "Mistake": "Their vs There",
+        "Correction": "Their / There",
+        "Example": "❌ Their is my book. / ✅ There is my book."
+    },
+    {
+        "Mistake": "Me vs I",
+        "Correction": "Me / I",
+        "Example": "❌ Me and her went to the market. / ✅ She and I went to the market."
+    },
+    {
+        "Mistake": "Whose vs Who's",
+        "Correction": "Whose / Who's",
+        "Example": "❌ Whose coming to dinner? / ✅ Who's coming to dinner?"
+    },
+    {
+        "Mistake": "Lay vs Lie",
+        "Correction": "Lay / Lie",
+        "Example": "❌ I need to lay down. / ✅ I need to lie down."
+    },
+    {
+        "Mistake": "Bring vs Take",
+        "Correction": "Bring / Take",
+        "Example": "❌ Please bring this to your house. / ✅ Please take this to your house."
+    },
+    {
+        "Mistake": "Amount vs Number",
+        "Correction": "Amount / Number",
+        "Example": "❌ The amount of apples is high. / ✅ The number of apples is high."
+    },
+    {
+        "Mistake": "Compliment vs Complement",
+        "Correction": "Compliment / Complement",
+        "Example": "❌ That hat complements your outfit. / ✅ That hat complements your outfit."
+    },
+    {
+        "Mistake": "Everyday vs Every day",
+        "Correction": "Everyday / Every day",
+        "Example": "❌ I wear this shirt everyday. / ✅ I wear this shirt every day."
+    },
+    {
+        "Mistake": "Then vs Than",
+        "Correction": "Then / Than",
+        "Example": "❌ I am taller then you. / ✅ I am taller than you."
+    },
+    {
+        "Mistake": "Passed vs Past",
+        "Correction": "Passed / Past",
+        "Example": "❌ He past the exam. / ✅ He passed the exam."
+    },
+    {
+        "Mistake": "Personal vs Personnel",
+        "Correction": "Personal / Personnel",
+        "Example": "❌ Personal files are confidential. / ✅ Personnel files are sensitive."
+    },
+    {
+        "Mistake": "Principal vs Principle",
+        "Correction": "Principal / Principle",
+        "Example": "❌ The principle of the school spoke today. / ✅ The principal of the school spoke today."
+    },
+    {
+        "Mistake": "Allusion vs Illusion",
+        "Correction": "Allusion / Illusion",
+        "Example": "❌ The movie gave an illusion to Shakespeare. / ✅ The movie gave an allusion to Shakespeare."
+    },
+    {
+        "Mistake": "Assure vs Ensure vs Insure",
+        "Correction": "Assure / Ensure / Insure",
+        "Example": "❌ I will insure you that it's safe. / ✅ I will assure you that it's safe."
+    },
+    {
+        "Mistake": "Among vs Between",
+        "Correction": "Among / Between",
+        "Example": "❌ Choose among the two options. / ✅ Choose between the two options."
+    },
+    {
+        "Mistake": "Continual vs Continuous",
+        "Correction": "Continual / Continuous",
+        "Example": "❌ The noise was continual. / ✅ The noise was continuous."
+    },
+    {
+        "Mistake": "Defuse vs Diffuse",
+        "Correction": "Defuse / Diffuse",
+        "Example": "❌ We need to diffuse the situation. / ✅ We need to defuse the situation."
+    },
+    {
+        "Mistake": "Economic vs Economical",
+        "Correction": "Economic / Economical",
+        "Example": "❌ It's more economic to buy in bulk. / ✅ It's more economical to buy in bulk."
+    },
+    {
+        "Mistake": "Farther vs Further",
+        "Correction": "Farther / Further",
+        "Example": "❌ We need to walk further. / ✅ We need to walk farther."
+    },
+    {
+        "Mistake": "Imply vs Infer",
+        "Correction": "Imply / Infer",
+        "Example": "❌ I infer from her statement that she is upset. / ✅ I imply that she is upset."
+    },
+    {
+        "Mistake": "It's vs Its",
+        "Correction": "It's / Its",
+        "Example": "❌ Its a great day. / ✅ It's a great day."
+    },
+    {
+        "Mistake": "Lead vs Led",
+        "Correction": "Lead / Led",
+        "Example": "❌ They will led the project. / ✅ They will lead the project."
+    },
+    {
+        "Mistake": "Moral vs Morale",
+        "Correction": "Moral / Morale",
+        "Example": "❌ The moral of the story was clear. / ✅ The team's morale was high."
+    },
+    {
+        "Mistake": "Raise vs Rise",
+        "Correction": "Raise / Rise",
+        "Example": "❌ The sun will raise soon. / ✅ The sun will rise soon."
+    },
+    {
+        "Mistake": "Stationary vs Stationery",
+        "Correction": "Stationary / Stationery",
+        "Example": "❌ The stationery bike is broken. / ✅ The stationary bike is broken."
+    },
+    {
+        "Mistake": "Waive vs Wave",
+        "Correction": "Waive / Wave",
+        "Example": "❌ I will wave my rights. / ✅ I will waive my rights."
+    },
+    {
+        "Mistake": "Your vs You're",
+        "Correction": "Your / You're",
+        "Example": "❌ Your late again. / ✅ You're late again."
+    },
+    {
+        "Mistake": "Could of vs Could have",
+        "Correction": "Could have",
+        "Example": "❌ I could of helped you. / ✅ I could have helped you."
+    },
+    {
+        "Mistake": "Lead vs Led",
+        "Correction": "Lead / Led",
+        "Example": "❌ Yesterday, she lead the meeting. / ✅ Yesterday, she led the meeting."
+    },
+    {
+        "Mistake": "Literally vs Figuratively",
+        "Correction": "Literally / Figuratively",
+        "Example": "❌ I literally died laughing. / ✅ I figuratively died laughing."
+    },
+    {
+        "Mistake": "Myself vs Me",
+        "Correction": "Myself / Me",
+        "Example": "❌ Please contact John or myself. / ✅ Please contact John or me."
+    },
+    {
+        "Mistake": "Different from vs Different than",
+        "Correction": "Different from / Different than",
+        "Example": "❌ This is different than I expected. / ✅ This is different from what I expected."
+    },
+    {
+        "Mistake": "Whatever vs What ever",
+        "Correction": "Whatever",
+        "Example": "❌ You can do what ever you want. / ✅ You can do whatever you want."
+    },
+    {
+        "Mistake": "Assume vs Presume",
+        "Correction": "Assume / Presume",
+        "Example": "❌ I assume he is at home. / ✅ I presume he is at home."
+    },
+    {
+        "Mistake": "Between you and I",
+        "Correction": "Between you and me",
+        "Example": "❌ Between you and I, it’s a secret. / ✅ Between you and me, it’s a secret."
+    },
+    {
+        "Mistake": "Envy vs Jealous",
+        "Correction": "Envy / Jealous",
+        "Example": "❌ I am jealous of her success. / ✅ I envy her success."
+    },
+    {
+        "Mistake": "Amount vs Number",
+        "Correction": "Amount / Number",
+        "Example": "❌ The amount of students is large. / ✅ The number of students is large."
+    },
+    {
+        "Mistake": "All right vs Alright",
+        "Correction": "All right / Alright",
+        "Example": "❌ That's alright with me. / ✅ That's all right with me."
+    },
+    {
+        "Mistake": "Between vs Among",
+        "Correction": "Between / Among",
+        "Example": "❌ Choose among two options. / ✅ Choose between two options."
+    },
+    {
+        "Mistake": "Bring vs Take",
+        "Correction": "Bring / Take",
+        "Example": "❌ Please bring the book to your house. / ✅ Please take the book to your house."
+    },
+    {
+        "Mistake": "Confident vs Confidant",
+        "Correction": "Confident / Confidant",
+        "Example": "❌ She is my confident. / ✅ She is my confidant."
+    },
+    {
+        "Mistake": "Could of vs Could have",
+        "Correction": "Could have",
+        "Example": "❌ You could of helped. / ✅ You could have helped."
+    },
+    {
+        "Mistake": "Each other vs One another",
+        "Correction": "Each other / One another",
+        "Example": "❌ They looked at one another’s eyes. / ✅ They looked into each other's eyes."
+    },
+    {
+        "Mistake": "Everyday vs Every day",
+        "Correction": "Everyday / Every day",
+        "Example": "❌ I wear this shirt everyday. / ✅ I wear this shirt every day."
+    },
+    {
+        "Mistake": "Farther vs Further",
+        "Correction": "Farther / Further",
+        "Example": "❌ We can talk further about this. / ✅ We can talk further about this."
+    },
+    {
+        "Mistake": "Good vs Well",
+        "Correction": "Good / Well",
+        "Example": "❌ She plays good. / ✅ She plays well."
+    },
+    {
+        "Mistake": "Its vs It's",
+        "Correction": "Its / It's",
+        "Example": "❌ Its raining outside. / ✅ It's raining outside."
+    },
+    {
+        "Mistake": "Lay vs Lie",
+        "Correction": "Lay / Lie",
+        "Example": "❌ I will lay down now. / ✅ I will lie down now."
+    },
+    {
+        "Mistake": "Like vs As",
+        "Correction": "Like / As",
+        "Example": "❌ She sings like a professional. / ✅ She sings as a professional."
+    },
+    {
+        "Mistake": "Me vs I",
+        "Correction": "Me / I",
+        "Example": "❌ Me and him are coming. / ✅ He and I are coming."
+    },
+    {
+        "Mistake": "Of vs Have",
+        "Correction": "Of / Have",
+        "Example": "❌ I should of called you. / ✅ I should have called you."
+    },
+    {
+        "Mistake": "Or vs Nor",
+        "Correction": "Or / Nor",
+        "Example": "❌ I don’t want coffee or tea. / ✅ I don’t want coffee nor tea."
+    },
+    {
+        "Mistake": "Passed vs Past",
+        "Correction": "Passed / Past",
+        "Example": "❌ We walked passed the house. / ✅ We walked past the house."
+    },
+    {
+        "Mistake": "Principal vs Principle",
+        "Correction": "Principal / Principle",
+        "Example": "❌ The principle of the school is strict. / ✅ The principal of the school is strict."
+    },
+    {
+        "Mistake": "Than vs Then",
+        "Correction": "Than / Then",
+        "Example": "❌ She is taller then me. / ✅ She is taller than me."
+    },
+    {
+        "Mistake": "Their vs There",
+        "Correction": "Their / There",
+        "Example": "❌ Their going home. / ✅ They’re going home."
+    },
+    {
+        "Mistake": "To vs Too",
+        "Correction": "To / Too",
+        "Example": "❌ I want to come too. / ✅ I want to come too."
+    },
+    {
+        "Mistake": "Weather vs Whether",
+        "Correction": "Weather / Whether",
+        "Example": "❌ We don’t know weather he will come. / ✅ We don’t know whether he will come."
+    },
+    {
+        "Mistake": "Who vs Whom",
+        "Correction": "Who / Whom",
+        "Example": "❌ Whom is calling me? / ✅ Who is calling me?"
+    },
+    {
+        "Mistake": "Your vs You're",
+        "Correction": "Your / You're",
+        "Example": "❌ Your the best! / ✅ You're the best!"
+    },
+    {
+        "Mistake": "Accept vs Except",
+        "Correction": "Accept / Except",
+        "Example": "❌ Everyone accept John was there. / ✅ Everyone except John was there."
+    },
+    {
+        "Mistake": "Affect vs Effect",
+        "Correction": "Affect / Effect",
+        "Example": "❌ The effect of the news affected me. / ✅ The effect of the news was clear."
+    },
+    {
+        "Mistake": "Already vs All ready",
+        "Correction": "Already / All ready",
+        "Example": "❌ We are all ready to go. / ✅ We are already going."
+    },
+    {
+        "Mistake": "Any more vs Anymore",
+        "Correction": "Any more / Anymore",
+        "Example": "❌ I don’t want any more trouble. / ✅ I don’t want any more trouble."
+    },
+    {
+        "Mistake": "Bad vs Badly",
+        "Correction": "Bad / Badly",
+        "Example": "❌ He did bad on the test. / ✅ He did badly on the test."
+    },
+    {
+        "Mistake": "Bring vs Take",
+        "Correction": "Bring / Take",
+        "Example": "❌ Bring this to the party. / ✅ Take this to the party."
+    },
+    {
+        "Mistake": "Could of vs Could have",
+        "Correction": "Could have",
+        "Example": "❌ She could of helped. / ✅ She could have helped."
+    },
+    {
+        "Mistake": "Different from vs Different than",
+        "Correction": "Different from / Different than",
+        "Example": "❌ It’s different than I thought. / ✅ It’s different from what I thought."
+    },
+    {
+        "Mistake": "Discreet vs Discrete",
+        "Correction": "Discreet / Discrete",
+        "Example": "❌ Be discreet about the plans. / ✅ Be discreet about the plans."
+    },
+    {
+        "Mistake": "Either vs Neither",
+        "Correction": "Either / Neither",
+        "Example": "❌ Neither of the options are good. / ✅ Neither of the options is good."
+    },
+    {
+        "Mistake": "Each other vs One another",
+        "Correction": "Each other / One another",
+        "Example": "❌ They spoke to one another. / ✅ They spoke to each other."
+    },
+    {
+        "Mistake": "Farther vs Further",
+        "Correction": "Farther / Further",
+        "Example": "❌ He ran farther than me. / ✅ He ran further than me."
+    },
+    {
+        "Mistake": "Good vs Well",
+        "Correction": "Good / Well",
+        "Example": "❌ She dances good. / ✅ She dances well."
+    },
+    {
+        "Mistake": "Have vs Of",
+        "Correction": "Have / Of",
+        "Example": "❌ I should of known better. / ✅ I should have known better."
+    },
+    {
+        "Mistake": "Historic vs Historical",
+        "Correction": "Historic / Historical",
+        "Example": "❌ It was a historical event. / ✅ It was a historic event."
+    },
+    {
+        "Mistake": "Imply vs Infer",
+        "Correction": "Imply / Infer",
+        "Example": "❌ I infer that you’re leaving. / ✅ I imply that you’re leaving."
+    },
+    {
+        "Mistake": "Irregardless vs Regardless",
+        "Correction": "Irregardless / Regardless",
+        "Example": "❌ Irregardless of the cost... / ✅ Regardless of the cost..."
+    },
+    {
+        "Mistake": "Its vs It’s",
+        "Correction": "Its / It’s",
+        "Example": "❌ Its going to rain. / ✅ It’s going to rain."
+    },
+    {
+        "Mistake": "Lay vs Lie",
+        "Correction": "Lay / Lie",
+        "Example": "❌ I need to lay down now. / ✅ I need to lie down now."
+    },
+    {
+        "Mistake": "Lead vs Led",
+        "Correction": "Lead / Led",
+        "Example": "❌ She lead the team yesterday. / ✅ She led the team yesterday."
+    },
+    {
+        "Mistake": "Less vs Fewer",
+        "Correction": "Less / Fewer",
+        "Example": "❌ There are less cars here. / ✅ There are fewer cars here."
+    },
+    {
+        "Mistake": "All ready vs Already",
+        "Correction": "All ready / Already",
+        "Example": "❌ They are already to leave. / ✅ They are all ready to leave."
+    },
+    {
+        "Mistake": "As good as vs Like",
+        "Correction": "As good as / Like",
+        "Example": "❌ She sings like a professional. / ✅ She sings as good as a professional."
+    },
+    {
+        "Mistake": "Bad vs Badly",
+        "Correction": "Bad / Badly",
+        "Example": "❌ He feels bad today. / ✅ He feels badly today."
+    },
+    {
+        "Mistake": "Bring vs Take",
+        "Correction": "Bring / Take",
+        "Example": "❌ Can you bring this to the office? / ✅ Can you take this to the office?"
+    },
+    {
+        "Mistake": "Could of vs Could have",
+        "Correction": "Could have",
+        "Example": "❌ They could of helped us. / ✅ They could have helped us."
+    },
+    {
+        "Mistake": "Different than vs Different from",
+        "Correction": "Different from / Different than",
+        "Example": "❌ This is different than I expected. / ✅ This is different from what I expected."
+    },
+    {
+        "Mistake": "Discreet vs Discrete",
+        "Correction": "Discreet / Discrete",
+        "Example": "❌ Be discreet when talking. / ✅ Be discreet when talking."
+    },
+    {
+        "Mistake": "Effect vs Affect",
+        "Correction": "Effect / Affect",
+        "Example": "❌ How will the news affect the effect? / ✅ How will the news affect the outcome?"
+    },
+    {
+        "Mistake": "Emigrate vs Immigrate",
+        "Correction": "Emigrate / Immigrate",
+        "Example": "❌ She emigrated to the USA last year. / ✅ She immigrated to the USA last year."
+    },
+    {
+        "Mistake": "Farther vs Further",
+        "Correction": "Farther / Further",
+        "Example": "❌ We need to think farther about this. / ✅ We need to think further about this."
+    },
+    {
+        "Mistake": "Fewer vs Less",
+        "Correction": "Fewer / Less",
+        "Example": "❌ There are less cars than before. / ✅ There are fewer cars than before."
+    },
+    {
+        "Mistake": "Good vs Well",
+        "Correction": "Good / Well",
+        "Example": "❌ She did good on the test. / ✅ She did well on the test."
+    },
+    {
+        "Mistake": "Hanged vs Hung",
+        "Correction": "Hanged / Hung",
+        "Example": "❌ The picture was hung on the wall. / ✅ The picture was hung on the wall."
+    },
+    {
+        "Mistake": "I.e. vs E.g.",
+        "Correction": "i.e. / e.g.",
+        "Example": "❌ Bring something to eat, i.e. a sandwich or salad. / ✅ Bring something to eat, e.g., a sandwich or salad."
+    },
+    {
+        "Mistake": "Its vs It's",
+        "Correction": "Its / It's",
+        "Example": "❌ Its a beautiful day. / ✅ It's a beautiful day."
+    },
+    {
+        "Mistake": "Lay vs Lie",
+        "Correction": "Lay / Lie",
+        "Example": "❌ I need to lay down for a while. / ✅ I need to lie down for a while."
+    },
+    {
+        "Mistake": "Less vs Fewer",
+        "Correction": "Less / Fewer",
+        "Example": "❌ Use less cups. / ✅ Use fewer cups."
+    },
+    {
+        "Mistake": "Loose vs Lose",
+        "Correction": "Loose / Lose",
+        "Example": "❌ Don’t loose your keys. / ✅ Don’t lose your keys."
+    },
+    {
+        "Mistake": "Me vs I",
+        "Correction": "Me / I",
+        "Example": "❌ Me and John went shopping. / ✅ John and I went shopping."
+    },
+    {
+        "Mistake": "Moral vs Morale",
+        "Correction": "Moral / Morale",
+        "Example": "❌ The moral of the story is clear. / ✅ The team's morale is high."
+    },
+    {
+        "Mistake": "Passed vs Past",
+        "Correction": "Passed / Past",
+        "Example": "❌ She passed by my house yesterday. / ✅ She passed the exam yesterday."
+    },
+    {
+        "Mistake": "Persecute vs Prosecute",
+        "Correction": "Persecute / Prosecute",
+        "Example": "❌ He was prosecuted for his faith. / ✅ He was persecuted for his faith."
+    },
+    {
+        "Mistake": "Principal vs Principle",
+        "Correction": "Principal / Principle",
+        "Example": "❌ The principle of the school retired. / ✅ The principal of the school retired."
+    },
+    {
+        "Mistake": "Quiet vs Quite",
+        "Correction": "Quiet / Quite",
+        "Example": "❌ It was quite in the room. / ✅ It was quiet in the room."
+    },
+    {
+        "Mistake": "Raise vs Rise",
+        "Correction": "Raise / Rise",
+        "Example": "❌ The sun will raise at 6 a.m. / ✅ The sun will rise at 6 a.m."
+    },
+    {
+        "Mistake": "Respectfully vs Respectively",
+        "Correction": "Respectfully / Respectively",
+        "Example": "❌ They are John and Mike, respectfully. / ✅ They are John and Mike, respectively."
+    },
+    {
+        "Mistake": "Stationary vs Stationery",
+        "Correction": "Stationary / Stationery",
+        "Example": "❌ I bought stationeries today. / ✅ I bought stationery today."
+    },
+    {
+        "Mistake": "Than vs Then",
+        "Correction": "Than / Then",
+        "Example": "❌ I would rather go then stay. / ✅ I would rather go than stay."
+    },
+    {
+        "Mistake": "Their vs There",
+        "Correction": "Their / There",
+        "Example": "❌ Their is a problem with that. / ✅ There is a problem with that."
+    },
+    {
+        "Mistake": "To vs Too",
+        "Correction": "To / Too",
+        "Example": "❌ I want to go too. / ✅ I want to go too."
+    },
+    {
+        "Mistake": "Weather vs Whether",
+        "Correction": "Weather / Whether",
+        "Example": "❌ I don’t know weather to go or stay. / ✅ I don’t know whether to go or stay."
+    },
+    {
+        "Mistake": "Who vs Whom",
+        "Correction": "Who / Whom",
+        "Example": "❌ Whom is at the door? / ✅ Who is at the door?"
+    },
+    {
+        "Mistake": "Your vs You're",
+        "Correction": "Your / You're",
+        "Example": "❌ Your going to love this. / ✅ You're going to love this."
+    },
+    {
+        "Mistake": "You’re vs Your",
+        "Correction": "You're / Your",
+        "Example": "❌ Your the best friend ever. / ✅ You're the best friend ever."
+    },
+    {
+        "Mistake": "A lot vs Alot",
+        "Correction": "A lot / Alot",
+        "Example": "❌ She likes him alot. / ✅ She likes him a lot."
+    },
+    {
+        "Mistake": "Accept vs Except",
+        "Correction": "Accept / Except",
+        "Example": "❌ Everyone accept him was there. / ✅ Everyone except him was there."
+    },
+    {
+        "Mistake": "Advice vs Advise",
+        "Correction": "Advice / Advise",
+        "Example": "❌ Please advice me on this matter. / ✅ Please advise me on this matter."
+    },
+    {
+        "Mistake": "Affect vs Effect",
+        "Correction": "Affect / Effect",
+        "Example": "❌ How will the effect affect us? / ✅ How will the effect affect us?"
+    },
+    {
+        "Mistake": "Allusion vs Illusion",
+        "Correction": "Allusion / Illusion",
+        "Example": "❌ The book made an illusion to history. / ✅ The book made an allusion to history."
+    },
+    {
+        "Mistake": "Always vs All ways",
+        "Correction": "Always / All ways",
+        "Example": "❌ He always takes the same route. / ✅ He takes all ways to the destination."
+    },
+    {
+        "Mistake": "Among vs Between",
+        "Correction": "Among / Between",
+        "Example": "❌ Choose between the group. / ✅ Choose among the group."
+    },
+    {
+        "Mistake": "Amount vs Number",
+        "Correction": "Amount / Number",
+        "Example": "❌ The amount of people is large. / ✅ The number of people is large."
+    },
+    {
+        "Mistake": "Anyway vs Any way",
+        "Correction": "Anyway / Any way",
+        "Example": "❌ I did it anyway I could. / ✅ I did it any way I could."
+    },
+    {
+        "Mistake": "Assure vs Ensure",
+        "Correction": "Assure / Ensure",
+        "Example": "❌ I assure you that it will happen. / ✅ I ensure that it will happen."
+    },
+    {
+        "Mistake": "Bring vs Take",
+        "Correction": "Bring / Take",
+        "Example": "❌ Bring this with you to my place. / ✅ Take this with you to my place."
+    },
+    {
+        "Mistake": "Can't hardly vs Can hardly",
+        "Correction": "Can hardly",
+        "Example": "❌ I can't hardly wait. / ✅ I can hardly wait."
+    },
+    {
+        "Mistake": "Compliment vs Complement",
+        "Correction": "Compliment / Complement",
+        "Example": "❌ That shirt compliments your eyes. / ✅ That shirt complements your eyes."
+    },
+    {
+        "Mistake": "Continual vs Continuous",
+        "Correction": "Continual / Continuous",
+        "Example": "❌ There was a continual noise. / ✅ There was a continuous noise."
+    },
+    {
+        "Mistake": "Adverse vs Averse",
+        "Correction": "Adverse / Averse",
+        "Example": "❌ She is adverse to change. / ✅ She is averse to change."
+    },
+    {
+        "Mistake": "All together vs Altogether",
+        "Correction": "All together / Altogether",
+        "Example": "❌ Let's do this altogether. / ✅ Let's do this all together."
+    },
+    {
+        "Mistake": "Allusion vs Illusion",
+        "Correction": "Allusion / Illusion",
+        "Example": "❌ The movie created an illusion to history. / ✅ The movie created an allusion to history."
+    },
+    {
+        "Mistake": "Bare vs Bear",
+        "Correction": "Bare / Bear",
+        "Example": "❌ Don't bare with me. / ✅ Don't bear with me."
+    },
+    {
+        "Mistake": "Breath vs Breathe",
+        "Correction": "Breath / Breathe",
+        "Example": "❌ Take a deep breathe. / ✅ Take a deep breath."
+    },
+    {
+        "Mistake": "Capital vs Capitol",
+        "Correction": "Capital / Capitol",
+        "Example": "❌ Washington is the capital building. / ✅ Washington is the Capitol building."
+    },
+    {
+        "Mistake": "Cite vs Site",
+        "Correction": "Cite / Site",
+        "Example": "❌ Please cite your sources. / ✅ Please cite your sources."
+    },
+    {
+        "Mistake": "Complement vs Compliment",
+        "Correction": "Complement / Compliment",
+        "Example": "❌ That color compliments you. / ✅ That color complements you."
+    },
+    {
+        "Mistake": "Continual vs Continuous",
+        "Correction": "Continual / Continuous",
+        "Example": "❌ The noise was continual all night. / ✅ The noise was continuous all night."
+    },
+    {
+        "Mistake": "Convince vs Persuade",
+        "Correction": "Convince / Persuade",
+        "Example": "❌ I persuaded her to come. / ✅ I convinced her to come."
+    },
+    {
+        "Mistake": "Council vs Counsel",
+        "Correction": "Council / Counsel",
+        "Example": "❌ We need to counsel the mayor. / ✅ We need to council the mayor."
+    },
+    {
+        "Mistake": "Discreet vs Discrete",
+        "Correction": "Discreet / Discrete",
+        "Example": "❌ Be discrete about this. / ✅ Be discreet about this."
+    },
+    {
+        "Mistake": "Elicit vs Illicit",
+        "Correction": "Elicit / Illicit",
+        "Example": "❌ The law prohibits elicit drugs. / ✅ The law prohibits illicit drugs."
+    },
+    {
+        "Mistake": "Eminent vs Imminent",
+        "Correction": "Eminent / Imminent",
+        "Example": "❌ There is an eminent danger. / ✅ There is an imminent danger."
+    },
+    {
+        "Mistake": "Envelop vs Envelope",
+        "Correction": "Envelop / Envelope",
+        "Example": "❌ Please envelop this letter. / ✅ Please envelope this letter."
+    },
+    {
+        "Mistake": "Fewer vs Less",
+        "Correction": "Fewer / Less",
+        "Example": "❌ There are less apples. / ✅ There are fewer apples."
+    },
+    {
+        "Mistake": "Flaunt vs Flout",
+        "Correction": "Flaunt / Flout",
+        "Example": "❌ He likes to flout his wealth. / ✅ He likes to flaunt his wealth."
+    },
+    {
+        "Mistake": "For vs Four",
+        "Correction": "For / Four",
+        "Example": "❌ I need for apples. / ✅ I need four apples."
+    },
+    {
+        "Mistake": "Gambit vs Gamut",
+        "Correction": "Gambit / Gamut",
+        "Example": "❌ The artist showed a wide gambit of colors. / ✅ The artist showed a wide gamut of colors."
+    },
+    {
+        "Mistake": "Imply vs Infer",
+        "Correction": "Imply / Infer",
+        "Example": "❌ I infer from your comment. / ✅ I imply from your comment."
+    },
+    {
+        "Mistake": "Ingenious vs Ingenuous",
+        "Correction": "Ingenious / Ingenuous",
+        "Example": "❌ She had an ingenuous plan. / ✅ She had an ingenious plan."
+    },
+    {
+        "Mistake": "Later vs Latter",
+        "Correction": "Later / Latter",
+        "Example": "❌ I will attend the latter session. / ✅ I will attend the latter session."
+    },
+    {
+        "Mistake": "Lay vs Lie",
+        "Correction": "Lay / Lie",
+        "Example": "❌ I lay down now. / ✅ I lie down now."
+    },
+    {
+        "Mistake": "Lead vs Led",
+        "Correction": "Lead / Led",
+        "Example": "❌ She led the meeting yesterday. / ✅ She led the meeting yesterday."
+    },
+    {
+        "Mistake": "Loathe vs Loath",
+        "Correction": "Loathe / Loath",
+        "Example": "❌ I am loath to leave. / ✅ I loathe violence."
+    },
+    {
+        "Mistake": "Loose vs Lose",
+        "Correction": "Loose / Lose",
+        "Example": "❌ Don't lose your keys. / ✅ Don't lose your keys."
+    },
+    {
+        "Mistake": "Nauseous vs Nauseated",
+        "Correction": "Nauseous / Nauseated",
+        "Example": "❌ I feel nauseous. / ✅ I feel nauseated."
+    },
+    {
+        "Mistake": "Passed vs Past",
+        "Correction": "Passed / Past",
+        "Example": "❌ He past by my house. / ✅ He passed by my house."
+    },
+    {
+        "Mistake": "Peace vs Piece",
+        "Correction": "Peace / Piece",
+        "Example": "❌ I need a peace of cake. / ✅ I need a piece of cake."
+    },
+    {
+        "Mistake": "Pedal vs Peddle",
+        "Correction": "Pedal / Peddle",
+        "Example": "❌ He peddled his bike. / ✅ He pedaled his bike."
+    },
+    {
+        "Mistake": "Persecute vs Prosecute",
+        "Correction": "Persecute / Prosecute",
+        "Example": "❌ He was prosecuted for beliefs. / ✅ He was persecuted for beliefs."
+    },
+    {
+        "Mistake": "Personal vs Personnel",
+        "Correction": "Personal / Personnel",
+        "Example": "❌ Our personal files are secure. / ✅ Our personnel files are secure."
+    },
+    {
+        "Mistake": "Perquisite vs Prerequisite",
+        "Correction": "Perquisite / Prerequisite",
+        "Example": "❌ A perquisite for the job is experience. / ✅ A prerequisite for the job is experience."
+    },
+    {
+        "Mistake": "Prescribe vs Proscribe",
+        "Correction": "Prescribe / Proscribe",
+        "Example": "❌ The doctor proscribed medicine. / ✅ The doctor prescribed medicine."
+    },
+    {
+        "Mistake": "Precede vs Proceed",
+        "Correction": "Precede / Proceed",
+        "Example": "❌ The ceremony will proceed the speech. / ✅ The ceremony will precede the speech."
+    },
+    {
+        "Mistake": "Quiet vs Quite",
+        "Correction": "Quiet / Quite",
+        "Example": "❌ The room is quite loud. / ✅ The room is quiet."
+    },
+    {
+        "Mistake": "Raise vs Rise",
+        "Correction": "Raise / Rise",
+        "Example": "❌ Prices will raise soon. / ✅ Prices will rise soon."
+    },
+    {
+        "Mistake": "Reign vs Rein",
+        "Correction": "Reign / Rein",
+        "Example": "❌ The king will rein for 20 years. / ✅ The king will reign for 20 years."
+    },
+    {
+        "Mistake": "Reluctant vs Reticent",
+        "Correction": "Reluctant / Reticent",
+        "Example": "❌ She was reluctant to speak. / ✅ She was reticent to speak."
+    },
+    {
+        "Mistake": "Respectfully vs Respectively",
+        "Correction": "Respectfully / Respectively",
+        "Example": "❌ The brothers, John and Joe, arrived respectfully. / ✅ The brothers, John and Joe, arrived respectively."
+    },
+    {
+        "Mistake": "Stationary vs Stationery",
+        "Correction": "Stationary / Stationery",
+        "Example": "❌ The stationary store is nearby. / ✅ The stationery store is nearby."
+    },
+    {
+        "Mistake": "Than vs Then",
+        "Correction": "Than / Then",
+        "Example": "❌ I will eat than leave. / ✅ I will eat then leave."
+    },
+    {
+        "Mistake": "Their vs There",
+        "Correction": "Their / There",
+        "Example": "❌ Their house is big. / ✅ Their house is big."
+    },
+    {
+        "Mistake": "Too vs To",
+        "Correction": "Too / To",
+        "Example": "❌ I want to go too. / ✅ I want to go too."
+    },
+    {
+        "Mistake": "Waist vs Waste",
+        "Correction": "Waist / Waste",
+        "Example": "❌ She tied a belt around her waste. / ✅ She tied a belt around her waist."
+    },
+    {
+        "Mistake": "Weather vs Whether",
+        "Correction": "Weather / Whether",
+        "Example": "❌ Whether you come or not, I'll go. / ✅ Whether you come or not, I'll go."
+    },
+    {
+        "Mistake": "Whose vs Who's",
+        "Correction": "Whose / Who's",
+        "Example": "❌ Whose coming to the party? / ✅ Who's coming to the party?"
+    },
+    {
+        "Mistake": "Wrong vs Wring",
+        "Correction": "Wrong / Wring",
+        "Example": "❌ Don’t wring the towels. / ✅ Don’t wring the towels."
+    },
+    {
+        "Mistake": "Your vs You're",
+        "Correction": "Your / You're",
+        "Example": "❌ Your right about that. / ✅ You're right about that."
+    },
+    {
+        "Mistake": "Accept vs Except",
+        "Correction": "Accept / Except",
+        "Example": "❌ Everyone accept John was there. / ✅ Everyone except John was there."
+    },
+    {
+        "Mistake": "Amount vs Number",
+        "Correction": "Amount / Number",
+        "Example": "❌ The amount of students is high. / ✅ The number of students is high."
+    },
+    {
+        "Mistake": "Breath vs Breathe",
+        "Correction": "Breath / Breathe",
+        "Example": "❌ Take a deep breathe. / ✅ Take a deep breath."
+    },
+    {
+        "Mistake": "Choose vs Chose",
+        "Correction": "Choose / Chose",
+        "Example": "❌ I chose the red one yesterday. / ✅ I choose the red one every time."
+    },
+    {
+        "Mistake": "Different than vs Different from",
+        "Correction": "Different from / Different than",
+        "Example": "❌ This is different than I thought. / ✅ This is different from what I thought."
+    },
+    {
+        "Mistake": "Farther vs Further",
+        "Correction": "Farther / Further",
+        "Example": "❌ We walked further than them. / ✅ We walked farther than them."
+    },
+    {
+        "Mistake": "Good vs Well",
+        "Correction": "Good / Well",
+        "Example": "❌ She sings good. / ✅ She sings well."
+    },
+    {
+        "Mistake": "Its vs It's",
+        "Correction": "Its / It's",
+        "Example": "❌ Its a nice day. / ✅ It's a nice day."
+    },
+    {
+        "Mistake": "Lay vs Lie",
+        "Correction": "Lay / Lie",
+        "Example": "❌ I need to lay down for a while. / ✅ I need to lie down for a while."
+    },
+    {
+        "Mistake": "Less vs Fewer",
+        "Correction": "Less / Fewer",
+        "Example": "❌ There are less apples today. / ✅ There are fewer apples today."
+    },
+    {
+        "Mistake": "Loose vs Lose",
+        "Correction": "Loose / Lose",
+        "Example": "❌ Don’t loose your keys. / ✅ Don’t lose your keys."
+    },
+    {
+        "Mistake": "Me vs I",
+        "Correction": "Me / I",
+        "Example": "❌ Me and him went to the store. / ✅ He and I went to the store."
+    },
+    {
+        "Mistake": "Passed vs Past",
+        "Correction": "Passed / Past",
+        "Example": "❌ He past the ball. / ✅ He passed the ball."
+    },
+    {
+        "Mistake": "Passed vs Past",
+        "Correction": "Passed / Past",
+        "Example": "❌ In the past year, something happened. / ✅ In the past year, something happened."
+    },
+    {
+        "Mistake": "Personal vs Personnel",
+        "Correction": "Personal / Personnel",
+        "Example": "❌ All personnel files are confidential. / ✅ All personnel files are confidential."
+    },
+    {
+        "Mistake": "Principal vs Principle",
+        "Correction": "Principal / Principle",
+        "Example": "❌ The principle of the school spoke. / ✅ The principal of the school spoke."
+    },
+    {
+        "Mistake": "Quiet vs Quite",
+        "Correction": "Quiet / Quite",
+        "Example": "❌ It was quite in the library. / ✅ It was quiet in the library."
+    },
+    {
+        "Mistake": "Raise vs Rise",
+        "Correction": "Raise / Rise",
+        "Example": "❌ The sun will raise soon. / ✅ The sun will rise soon."
+    },
+    {
+        "Mistake": "Than vs Then",
+        "Correction": "Than / Then",
+        "Example": "❌ I will do that then. / ✅ I will do that then."
+    },
+    {
+        "Mistake": "There vs Their",
+        "Correction": "There / Their",
+        "Example": "❌ Their is no way to know. / ✅ There is no way to know."
+    },
+    {
+        "Mistake": "Too vs To",
+        "Correction": "Too / To",
+        "Example": "❌ She is going to the store too. / ✅ She is going to the store too."
+    },
+    {
+        "Mistake": "Weather vs Whether",
+        "Correction": "Weather / Whether",
+        "Example": "❌ I don’t know weather he will come. / ✅ I don’t know whether he will come."
+    },
+    {
+        "Mistake": "Who vs Whom",
+        "Correction": "Who / Whom",
+        "Example": "❌ Whom should I call? / ✅ Who should I call?"
+    },
+    {
+        "Mistake": "Your vs You're",
+        "Correction": "Your / You're",
+        "Example": "❌ Your the best. / ✅ You're the best."
+    },
+    {
+        "Mistake": "Would of vs Would have",
+        "Correction": "Would have",
+        "Example": "❌ I would of helped you. / ✅ I would have helped you."
+    },
+    {
+        "Mistake": "Amount vs Number",
+        "Correction": "Amount / Number",
+        "Example": "❌ The amount of money is high. / ✅ The number of coins is high."
+    },
+    {
+        "Mistake": "Bad vs Badly",
+        "Correction": "Bad / Badly",
+        "Example": "❌ He did bad on the test. / ✅ He did badly on the test."
+    },
+    {
+        "Mistake": "Capital vs Capitol",
+        "Correction": "Capital / Capitol",
+        "Example": "❌ The Capitol is in Washington, D.C. / ✅ The Capitol is in Washington, D.C."
+    },
+    {
+        "Mistake": "Compliment vs Complement",
+        "Correction": "Compliment / Complement",
+        "Example": "❌ She gave me a complement. / ✅ She gave me a compliment."
+    },
+    {
+        "Mistake": "Discreet vs Discrete",
+        "Correction": "Discreet / Discrete",
+        "Example": "❌ Be discrete about the plan. / ✅ Be discreet about the plan."
+    },
+    {
+        "Mistake": "Emigrate vs Immigrate",
+        "Correction": "Emigrate / Immigrate",
+        "Example": "❌ He emigrated to Canada. / ✅ He immigrated to Canada."
+    },
+    {
+        "Mistake": "Envelop vs Envelope",
+        "Correction": "Envelop / Envelope",
+        "Example": "❌ Please envelop the letter. / ✅ Please envelope the letter."
+    },
+    {
+        "Mistake": "Fewer vs Less",
+        "Correction": "Fewer / Less",
+        "Example": "❌ There was less people at the event. / ✅ There were fewer people at the event."
+    },
+    {
+        "Mistake": "Good vs Well",
+        "Correction": "Good / Well",
+        "Example": "❌ She plays good. / ✅ She plays well."
+    },
+    {
+        "Mistake": "Hanged vs Hung",
+        "Correction": "Hanged / Hung",
+        "Example": "❌ The picture was hanged. / ✅ The picture was hung."
+    },
+    {
+        "Mistake": "Lay vs Lie",
+        "Correction": "Lay / Lie",
+        "Example": "❌ I laid down for a bit. / ✅ I lay down for a bit."
+    },
+    {
+        "Mistake": "Lie vs Lay",
+        "Correction": "Lie / Lay",
+        "Example": "❌ I am going to lay down now. / ✅ I am going to lie down now."
+    },
+    {
+        "Mistake": "Loose vs Lose",
+        "Correction": "Loose / Lose",
+        "Example": "❌ His loose clothes were uncomfortable. / ✅ His loose clothes were uncomfortable."
+    },
+    {
+        "Mistake": "Passed vs Past",
+        "Correction": "Passed / Past",
+        "Example": "❌ We walked passed the park. / ✅ We walked past the park."
+    },
+    {
+        "Mistake": "Passed vs Past",
+        "Correction": "Passed / Past",
+        "Example": "❌ In the past we had more rain. / ✅ In the past we had more rain."
+    },
+    {
+        "Mistake": "Principal vs Principle",
+        "Correction": "Principal / Principle",
+        "Example": "❌ The school principle is strict. / ✅ The school principal is strict."
+    },
+    {
+        "Mistake": "Than vs Then",
+        "Correction": "Than / Then",
+        "Example": "❌ She is taller then me. / ✅ She is taller than me."
+    },
+    {
+        "Mistake": "Their vs There",
+        "Correction": "Their / There",
+        "Example": "❌ Their going home. / ✅ They’re going home."
+    },
+    {
+        "Mistake": "To vs Too",
+        "Correction": "To / Too",
+        "Example": "❌ I want to go too. / ✅ I want to go too."
+    },
+    {
+        "Mistake": "Weather vs Whether",
+        "Correction": "Weather / Whether",
+        "Example": "❌ I’m unsure weather he will come. / ✅ I’m unsure whether he will come."
+    },
+    {
+        "Mistake": "Aggravate vs Irritate",
+        "Correction": "Aggravate / Irritate",
+        "Example": "❌ His comments aggravated me. / ✅ His comments irritated me."
+    },
+    {
+        "Mistake": "All right vs Alright",
+        "Correction": "All right / Alright",
+        "Example": "❌ Everything is alright. / ✅ Everything is all right."
+    },
+    {
+        "Mistake": "Altar vs Alter",
+        "Correction": "Altar / Alter",
+        "Example": "❌ They went to the alter. / ✅ They went to the altar."
+    },
+    {
+        "Mistake": "Among vs Between",
+        "Correction": "Among / Between",
+        "Example": "❌ Share the money between three people. / ✅ Share the money among three people."
+    },
+    {
+        "Mistake": "Amount vs Number",
+        "Correction": "Amount / Number",
+        "Example": "❌ The amount of cars is high. / ✅ The number of cars is high."
+    },
+    {
+        "Mistake": "Antidote vs Anecdote",
+        "Correction": "Antidote / Anecdote",
+        "Example": "❌ He told a funny antidote. / ✅ He told a funny anecdote."
+    },
+    {
+        "Mistake": "Ascent vs Assent",
+        "Correction": "Ascent / Assent",
+        "Example": "❌ They gave assent to the plan. / ✅ They gave assent to the plan."
+    },
+    {
+        "Mistake": "At vs In",
+        "Correction": "At / In",
+        "Example": "❌ She's in the door. / ✅ She's at the door."
+    },
+    {
+        "Mistake": "Birth vs Birthed",
+        "Correction": "Birth / Birthed",
+        "Example": "❌ She birthed a baby last night. / ✅ She gave birth last night."
+    },
+    {
+        "Mistake": "Breath vs Breathe",
+        "Correction": "Breath / Breathe",
+        "Example": "❌ Take a deep breath. / ✅ Take a deep breath."
+    },
+    {
+        "Mistake": "Capital vs Capitol",
+        "Correction": "Capital / Capitol",
+        "Example": "❌ The Capitol is large. / ✅ The Capitol is large."
+    },
+    {
+        "Mistake": "Cite vs Site",
+        "Correction": "Cite / Site",
+        "Example": "❌ Make sure to site your sources. / ✅ Make sure to cite your sources."
+    },
+    {
+        "Mistake": "Complement vs Compliment",
+        "Correction": "Complement / Compliment",
+        "Example": "❌ Your dress compliments your eyes. / ✅ Your dress complements your eyes."
+    },
+    {
+        "Mistake": "Defuse vs Diffuse",
+        "Correction": "Defuse / Diffuse",
+        "Example": "❌ They need to diffuse the conflict. / ✅ They need to defuse the conflict."
+    },
+    {
+        "Mistake": "Desert vs Dessert",
+        "Correction": "Desert / Dessert",
+        "Example": "❌ I love chocolate desert. / ✅ I love chocolate dessert."
+    },
+    {
+        "Mistake": "Discreet vs Discrete",
+        "Correction": "Discreet / Discrete",
+        "Example": "❌ Please be discrete with this information. / ✅ Please be discreet with this information."
+    },
+    {
+        "Mistake": "Ensure vs Insure",
+        "Correction": "Ensure / Insure",
+        "Example": "❌ Please insure your belongings. / ✅ Please ensure your belongings."
+    },
+    {
+        "Mistake": "Everyday vs Every day",
+        "Correction": "Everyday / Every day",
+        "Example": "❌ This is an everyday occurrence. / ✅ This happens every day."
+    },
+    {
+        "Mistake": "Fewer vs Less",
+        "Correction": "Fewer / Less",
+        "Example": "❌ There were less people at the event. / ✅ There were fewer people at the event."
+    },
+    {
+        "Mistake": "Flaunt vs Flout",
+        "Correction": "Flaunt / Flout",
+        "Example": "❌ He flouted his wealth. / ✅ He flaunted his wealth."
+    },
+    {
+        "Mistake": "Gambit vs Gamut",
+        "Correction": "Gambit / Gamut",
+        "Example": "❌ The artist displayed a wide gambit of colors. / ✅ The artist displayed a wide gamut of colors."
+    },
+    {
+        "Mistake": "Hanged vs Hung",
+        "Correction": "Hanged / Hung",
+        "Example": "❌ The picture was hanged on the wall. / ✅ The picture was hung on the wall."
+    },
+    {
+        "Mistake": "Imply vs Infer",
+        "Correction": "Imply / Infer",
+        "Example": "❌ I infer that you’re upset. / ✅ I imply that you’re upset."
+    },
+    {
+        "Mistake": "Ingenious vs Ingenuous",
+        "Correction": "Ingenious / Ingenuous",
+        "Example": "❌ She was ingenuous in her ideas. / ✅ She was ingenious in her ideas."
+    },
+    {
+        "Mistake": "It's vs Its",
+        "Correction": "It's / Its",
+        "Example": "❌ Its raining today. / ✅ It's raining today."
+    },
+    {
+        "Mistake": "Lay vs Lie",
+        "Correction": "Lay / Lie",
+        "Example": "❌ I am going to lay down now. / ✅ I am going to lie down now."
+    },
+    {
+        "Mistake": "Lead vs Led",
+        "Correction": "Lead / Led",
+        "Example": "❌ She lead the team yesterday. / ✅ She led the team yesterday."
+    },
+    {
+        "Mistake": "Lightning vs Lightening",
+        "Correction": "Lightning / Lightening",
+        "Example": "❌ The lightening struck the tree. / ✅ The lightning struck the tree."
+    },
+    {
+        "Mistake": "Loose vs Lose",
+        "Correction": "Loose / Lose",
+        "Example": "❌ Don’t loose your ticket. / ✅ Don’t lose your ticket."
+    },
+    {
+        "Mistake": "Moral vs Morale",
+        "Correction": "Moral / Morale",
+        "Example": "❌ The team’s moral was high. / ✅ The team’s morale was high."
+    },
+    {
+        "Mistake": "Passed vs Past",
+        "Correction": "Passed / Past",
+        "Example": "❌ She passed me in the street yesterday. / ✅ She passed me in the street yesterday."
+    },
+    {
+        "Mistake": "Pedal vs Peddle",
+        "Correction": "Pedal / Peddle",
+        "Example": "❌ He peddled his bike fast. / ✅ He pedaled his bike fast."
+    },
+    {
+        "Mistake": "Persecute vs Prosecute",
+        "Correction": "Persecute / Prosecute",
+        "Example": "❌ They persecuted the criminal. / ✅ They prosecuted the criminal."
+    },
+    {
+        "Mistake": "Personal vs Personnel",
+        "Correction": "Personal / Personnel",
+        "Example": "❌ Personal files need updating. / ✅ Personnel files need updating."
+    },
+    {
+        "Mistake": "Principal vs Principle",
+        "Correction": "Principal / Principle",
+        "Example": "❌ He learned an important principal. / ✅ He learned an important principle."
+    },
+    {
+        "Mistake": "Quiet vs Quite",
+        "Correction": "Quiet / Quite",
+        "Example": "❌ The room was quite noisy. / ✅ The room was quiet."
+    },
+    {
+        "Mistake": "Raise vs Rise",
+        "Correction": "Raise / Rise",
+        "Example": "❌ They raised rapidly. / ✅ They rose rapidly."
+    },
+    {
+        "Mistake": "Respectfully vs Respectively",
+        "Correction": "Respectfully / Respectively",
+        "Example": "❌ They arrived respectfully at 9 and 10 a.m. / ✅ They arrived respectively at 9 and 10 a.m."
+    },
+    {
+        "Mistake": "Stationary vs Stationery",
+        "Correction": "Stationary / Stationery",
+        "Example": "❌ I bought stationary today. / ✅ I bought stationery today."
+    },
+    {
+        "Mistake": "Than vs Then",
+        "Correction": "Than / Then",
+        "Example": "❌ I like pizza then pasta. / ✅ I like pizza more than pasta."
+    },
+    {
+        "Mistake": "Their vs There",
+        "Correction": "Their / There",
+        "Example": "❌ There books are on the table. / ✅ Their books are on the table."
+    },
+    {
+        "Mistake": "To vs Too",
+        "Correction": "To / Too",
+        "Example": "❌ I want to come to. / ✅ I want to come too."
+    },
+    {
+        "Mistake": "Weather vs Whether",
+        "Correction": "Weather / Whether",
+        "Example": "❌ I don’t know the weather he will come. / ✅ I don’t know whether he will come."
+    },
+    {
+        "Mistake": "Who vs Whom",
+        "Correction": "Who / Whom",
+        "Example": "❌ Whom is coming to the party? / ✅ Who is coming to the party?"
+    },
+    {
+        "Mistake": "Your vs You're",
+        "Correction": "Your / You're",
+        "Example": "❌ Your very kind. / ✅ You're very kind."
+    },
+    {
+        "Mistake": "Accept vs Except",
+        "Correction": "Accept / Except",
+        "Example": "❌ Everyone accept Tom was invited. / ✅ Everyone except Tom was invited."
+    },
+    {
+        "Mistake": "Affect vs Effect",
+        "Correction": "Affect / Effect",
+        "Example": "❌ This will effect the outcome. / ✅ This will affect the outcome."
+    },
+    {
+        "Mistake": "Allusion vs Illusion",
+        "Correction": "Allusion / Illusion",
+        "Example": "❌ The story contains an illusion to Greek mythology. / ✅ The story contains an allusion to Greek mythology."
+    },
+    {
+        "Mistake": "Altar vs Alter",
+        "Correction": "Altar / Alter",
+        "Example": "❌ They married at the alter. / ✅ They married at the altar."
+    },
+    {
+        "Mistake": "Among vs Between",
+        "Correction": "Among / Between",
+        "Example": "❌ Share the cake between five people. / ✅ Share the cake among five people."
+    },
+    {
+        "Mistake": "Amount vs Number",
+        "Correction": "Amount / Number",
+        "Example": "❌ The amount of chairs is limited. / ✅ The number of chairs is limited."
+    },
+    {
+        "Mistake": "Assure vs Ensure",
+        "Correction": "Assure / Ensure",
+        "Example": "❌ I assure you the project will succeed. / ✅ I ensure the project will succeed."
+    },
+    {
+        "Mistake": "Breath vs Breathe",
+        "Correction": "Breath / Breathe",
+        "Example": "❌ Take a deep breathe before speaking. / ✅ Take a deep breath before speaking."
+    },
+    {
+        "Mistake": "Bring vs Take",
+        "Correction": "Bring / Take",
+        "Example": "❌ Bring the documents to my office. / ✅ Take the documents to my office."
+    },
+    {
+        "Mistake": "Capital vs Capitol",
+        "Correction": "Capital / Capitol",
+        "Example": "❌ The capital building is historic. / ✅ The Capitol building is historic."
+    },
+    {
+        "Mistake": "Cite vs Site",
+        "Correction": "Cite / Site",
+        "Example": "❌ Please site your sources correctly. / ✅ Please cite your sources correctly."
+    },
+    {
+        "Mistake": "Complement vs Compliment",
+        "Correction": "Complement / Compliment",
+        "Example": "❌ The wine complements the meal. / ✅ The wine complements the meal."
+    },
+    {
+        "Mistake": "Continual vs Continuous",
+        "Correction": "Continual / Continuous",
+        "Example": "❌ There were continual interruptions. / ✅ There were continuous interruptions."
+    },
+    {
+        "Mistake": "Counsel vs Council",
+        "Correction": "Counsel / Council",
+        "Example": "❌ The counsel will meet tomorrow. / ✅ The council will meet tomorrow."
+    },
+    {
+        "Mistake": "Defuse vs Diffuse",
+        "Correction": "Defuse / Diffuse",
+        "Example": "❌ We need to diffuse the tension. / ✅ We need to defuse the tension."
+    },
+    {
+        "Mistake": "Desert vs Dessert",
+        "Correction": "Desert / Dessert",
+        "Example": "❌ Would you like dessert or desert? / ✅ Would you like dessert or desert?"
+    },
+    {
+        "Mistake": "Discreet vs Discrete",
+        "Correction": "Discreet / Discrete",
+        "Example": "❌ The data is discreet. / ✅ The data is discrete."
+    },
+    {
+        "Mistake": "Elicit vs Illicit",
+        "Correction": "Elicit / Illicit",
+        "Example": "❌ His behavior was illicit a strong reaction. / ✅ His behavior elicited a strong reaction."
+    },
+    {
+        "Mistake": "Emigrate vs Immigrate",
+        "Correction": "Emigrate / Immigrate",
+        "Example": "❌ They immigrated from Ireland last year. / ✅ They emigrated from Ireland last year."
+    },
+    {
+        "Mistake": "Ensure vs Insure",
+        "Correction": "Ensure / Insure",
+        "Example": "❌ Please insure your belongings before traveling. / ✅ Please ensure your belongings before traveling."
+    },
+    {
+        "Mistake": "Fewer vs Less",
+        "Correction": "Fewer / Less",
+        "Example": "❌ There are less cars on the road today. / ✅ There are fewer cars on the road today."
+    },
+    {
+        "Mistake": "Flaunt vs Flout",
+        "Correction": "Flaunt / Flout",
+        "Example": "❌ He likes to flout his success. / ✅ He likes to flaunt his success."
+    },
+    {
+        "Mistake": "Hanged vs Hung",
+        "Correction": "Hanged / Hung",
+        "Example": "❌ The picture was hanged on the wall. / ✅ The picture was hung on the wall."
+    },
+    {
+        "Mistake": "Imply vs Infer",
+        "Correction": "Imply / Infer",
+        "Example": "❌ I inferred from his tone that he was upset. / ✅ I implied from his tone that he was upset."
+    },
+    {
+        "Mistake": "Ingenious vs Ingenuous",
+        "Correction": "Ingenious / Ingenuous",
+        "Example": "❌ She had an ingenuous idea. / ✅ She had an ingenious idea."
+    },
+    {
+        "Mistake": "Its vs It's",
+        "Correction": "Its / It's",
+        "Example": "❌ Its raining outside. / ✅ It's raining outside."
+    },
+    {
+        "Mistake": "Lay vs Lie",
+        "Correction": "Lay / Lie",
+        "Example": "❌ I will lay down for a rest. / ✅ I will lie down for a rest."
+    },
+    {
+        "Mistake": "Lead vs Led",
+        "Correction": "Lead / Led",
+        "Example": "❌ She has lead the team to victory. / ✅ She has led the team to victory."
+    },
+    {
+        "Mistake": "Loose vs Lose",
+        "Correction": "Loose / Lose",
+        "Example": "❌ Watch out or you will loose your wallet. / ✅ Watch out or you will lose your wallet."
+    },
+    {
+        "Mistake": "Moral vs Morale",
+        "Correction": "Moral / Morale",
+        "Example": "❌ The moral of the story was inspiring. / ✅ The team's morale was high."
+    },
+    {
+        "Mistake": "Passed vs Past",
+        "Correction": "Passed / Past",
+        "Example": "❌ He passed by the store yesterday. / ✅ He passed by the store yesterday."
+    },
+    {
+        "Mistake": "Pedal vs Peddle",
+        "Correction": "Pedal / Peddle",
+        "Example": "❌ They peddled their goods on the street corner. / ✅ They pedaled their bikes to school."
+    },
+    {
+        "Mistake": "Persecute vs Prosecute",
+        "Correction": "Persecute / Prosecute",
+        "Example": "❌ The government prosecuted the group unjustly. / ✅ The government persecuted the group unjustly."
+    },
+    {
+        "Mistake": "Personal vs Personnel",
+        "Correction": "Personal / Personnel",
+        "Example": "❌ Personal changes affect us all. / ✅ Personnel changes affect us all."
+    },
+    {
+        "Mistake": "Principal vs Principle",
+        "Correction": "Principal / Principle",
+        "Example": "❌ The school principle attended the event. / ✅ The school principal attended the event."
+    },
+    {
+        "Mistake": "Quiet vs Quite",
+        "Correction": "Quiet / Quite",
+        "Example": "❌ The room is quite noisy. / ✅ The room is quiet."
+    },
+    {
+        "Mistake": "Raise vs Rise",
+        "Correction": "Raise / Rise",
+        "Example": "❌ They will rise the prices next month. / ✅ They will raise the prices next month."
+    },
+    {
+        "Mistake": "Respectfully vs Respectively",
+        "Correction": "Respectfully / Respectively",
+        "Example": "❌ They arrived respectfully at 8 and 9. / ✅ They arrived respectively at 8 and 9."
+    },
+    {
+        "Mistake": "Stationary vs Stationery",
+        "Correction": "Stationary / Stationery",
+        "Example": "❌ The bike remained stationery. / ✅ The bike remained stationary."
+    },
+    {
+        "Mistake": "Than vs Then",
+        "Correction": "Than / Then",
+        "Example": "❌ Finish your work than go home. / ✅ Finish your work then go home."
+    },
+    {
+        "Mistake": "Their vs There",
+        "Correction": "Their / There",
+        "Example": "❌ Their is no answer yet. / ✅ There is no answer yet."
+    },
+    {
+        "Mistake": "To vs Too",
+        "Correction": "To / Too",
+        "Example": "❌ I want too go home. / ✅ I want to go home."
+    },
+    {
+        "Mistake": "Weather vs Whether",
+        "Correction": "Weather / Whether",
+        "Example": "❌ I don’t know weather she will come. / ✅ I don’t know whether she will come."
+    },
+    {
+        "Mistake": "Who vs Whom",
+        "Correction": "Who / Whom",
+        "Example": "❌ Whom will take the lead? / ✅ Who will take the lead?"
+    },
+    {
+        "Mistake": "Your vs You're",
+        "Correction": "Your / You're",
+        "Example": "❌ Your going to love this movie. / ✅ You're going to love this movie."
+    },
+    {
+        "Mistake": "Abbreviate vs Abridge",
+        "Correction": "Abbreviate / Abridge",
+        "Example": "❌ The author abbreviated the novel. / ✅ The author abridged the novel."
+    },
+    {
+        "Mistake": "Accept vs Except",
+        "Correction": "Accept / Except",
+        "Example": "❌ I accept everyone except him. / ✅ I accept everyone except him."
+    },
+    {
+        "Mistake": "Adapt vs Adopt",
+        "Correction": "Adapt / Adopt",
+        "Example": "❌ She adapted a new policy. / ✅ She adopted a new policy."
+    },
+    {
+        "Mistake": "Allusion vs Illusion",
+        "Correction": "Allusion / Illusion",
+        "Example": "❌ The magician created an allusion of flying. / ✅ The magician created an illusion of flying."
+    },
+    {
+        "Mistake": "Alumna vs Alumni",
+        "Correction": "Alumna / Alumni",
+        "Example": "❌ The group consists of several alumna. / ✅ The group consists of several alumni."
+    },
+    {
+        "Mistake": "Amoral vs Immoral",
+        "Correction": "Amoral / Immoral",
+        "Example": "❌ His actions were amoral. / ✅ His actions were immoral."
+    },
+    {
+        "Mistake": "Assure vs Ensure vs Insure",
+        "Correction": "Assure / Ensure / Insure",
+        "Example": "❌ I will ensure you it’s safe. / ✅ I will assure you it’s safe."
+    },
+    {
+        "Mistake": "Capital vs Capitol",
+        "Correction": "Capital / Capitol",
+        "Example": "❌ The capital building is beautiful. / ✅ The Capitol building is beautiful."
+    },
+    {
+        "Mistake": "Cite vs Site",
+        "Correction": "Cite / Site",
+        "Example": "❌ Please site your sources carefully. / ✅ Please cite your sources carefully."
+    },
+    {
+        "Mistake": "Complement vs Compliment",
+        "Correction": "Complement / Compliment",
+        "Example": "❌ Your scarf complements your outfit. / ✅ Your scarf complements your outfit."
+    },
+    {
+        "Mistake": "Continual vs Continuous",
+        "Correction": "Continual / Continuous",
+        "Example": "❌ There was continual noise. / ✅ There was continuous noise."
+    },
+    {
+        "Mistake": "Counsel vs Council",
+        "Correction": "Counsel / Council",
+        "Example": "❌ He sought counsel about the issue. / ✅ He sought council about the issue."
+    },
+    {
+        "Mistake": "Defuse vs Diffuse",
+        "Correction": "Defuse / Diffuse",
+        "Example": "❌ We must diffuse the bomb carefully. / ✅ We must defuse the bomb carefully."
+    },
+    {
+        "Mistake": "Discreet vs Discrete",
+        "Correction": "Discreet / Discrete",
+        "Example": "❌ Be discrete about this matter. / ✅ Be discreet about this matter."
+    },
+    {
+        "Mistake": "Elicit vs Illicit",
+        "Correction": "Elicit / Illicit",
+        "Example": "❌ His joke was illicit a laugh. / ✅ His joke elicited a laugh."
+    },
+    {
+        "Mistake": "Emigrate vs Immigrate",
+        "Correction": "Emigrate / Immigrate",
+        "Example": "❌ She will emigrate to Canada. / ✅ She will immigrate to Canada."
+    },
+    {
+        "Mistake": "Envelop vs Envelope",
+        "Correction": "Envelop / Envelope",
+        "Example": "❌ Please envelop the letter. / ✅ Please envelope the letter."
+    },
+    {
+        "Mistake": "Farther vs Further",
+        "Correction": "Farther / Further",
+        "Example": "❌ I can’t go any further. / ✅ I can’t go any farther."
+    },
+    {
+        "Mistake": "Flair vs Flare",
+        "Correction": "Flair / Flare",
+        "Example": "❌ He showed great flare in his performance. / ✅ He showed great flair in his performance."
+    },
+    {
+        "Mistake": "Flaunt vs Flout",
+        "Correction": "Flaunt / Flout",
+        "Example": "❌ Don’t flout your wealth. / ✅ Don’t flaunt your wealth."
+    },
+    {
+        "Mistake": "For all intensive purposes",
+        "Correction": "For all intents and purposes",
+        "Example": "❌ For all intensive purposes, it’s done. / ✅ For all intents and purposes, it’s done."
+    },
+    {
+        "Mistake": "Imply vs Infer",
+        "Correction": "Imply / Infer",
+        "Example": "❌ I inferred he was lying. / ✅ I implied he was lying."
+    },
+    {
+        "Mistake": "Ingenious vs Ingenuous",
+        "Correction": "Ingenious / Ingenuous",
+        "Example": "❌ That was an ingenuous idea. / ✅ That was an ingenious idea."
+    },
+    {
+        "Mistake": "Its vs It's",
+        "Correction": "Its / It's",
+        "Example": "❌ Its raining outside. / ✅ It's raining outside."
+    },
+    {
+        "Mistake": "Lay vs Lie",
+        "Correction": "Lay / Lie",
+        "Example": "❌ I will lay down now. / ✅ I will lie down now."
+    },
+    {
+        "Mistake": "Lead vs Led",
+        "Correction": "Lead / Led",
+        "Example": "❌ She lead the project. / ✅ She led the project."
+    },
+    {
+        "Mistake": "Leech vs Leach",
+        "Correction": "Leech / Leach",
+        "Example": "❌ Don’t leech off others. / ✅ Don’t leech off others."
+    },
+    {
+        "Mistake": "Lightning vs Lightening",
+        "Correction": "Lightning / Lightening",
+        "Example": "❌ Lightening struck the tree. / ✅ Lightning struck the tree."
+    },
+    {
+        "Mistake": "Loose vs Lose",
+        "Correction": "Loose / Lose",
+        "Example": "❌ She might loose her keys. / ✅ She might lose her keys."
+    },
+    {
+        "Mistake": "Moral vs Morale",
+        "Correction": "Moral / Morale",
+        "Example": "❌ The moral of the story was clear. / ✅ The team's morale was high."
+    },
+    {
+        "Mistake": "Passed vs Past",
+        "Correction": "Passed / Past",
+        "Example": "❌ He walked past the park. / ✅ He walked past the park."
+    },
+    {
+        "Mistake": "Pedal vs Peddle",
+        "Correction": "Pedal / Peddle",
+        "Example": "❌ She peddled vegetables on the street. / ✅ She pedaled her bicycle."
+    },
+    {
+        "Mistake": "Persecute vs Prosecute",
+        "Correction": "Persecute / Prosecute",
+        "Example": "❌ The innocent were prosecuted. / ✅ The innocent were persecuted."
+    },
+    {
+        "Mistake": "Personal vs Personnel",
+        "Correction": "Personal / Personnel",
+        "Example": "❌ Personnel issues are confidential. / ✅ Personnel issues are confidential."
+    },
+    {
+        "Mistake": "Principal vs Principle",
+        "Correction": "Principal / Principle",
+        "Example": "❌ She explained the school principle. / ✅ She explained the school principal."
+    },
+    {
+        "Mistake": "Quiet vs Quite",
+        "Correction": "Quiet / Quite",
+        "Example": "❌ It was quite loud outside. / ✅ It was quiet outside."
+    },
+    {
+        "Mistake": "Raise vs Rise",
+        "Correction": "Raise / Rise",
+        "Example": "❌ The sun will raise in the east. / ✅ The sun will rise in the east."
+    },
+    {
+        "Mistake": "Respectfully vs Respectively",
+        "Correction": "Respectfully / Respectively",
+        "Example": "❌ They arrived respectfully at 9 and 10 a.m. / ✅ They arrived respectively at 9 and 10 a.m."
+    },
+    {
+        "Mistake": "Stationary vs Stationery",
+        "Correction": "Stationary / Stationery",
+        "Example": "❌ The bike is stationery. / ✅ The bike is stationary."
+    },
+    {
+        "Mistake": "Than vs Then",
+        "Correction": "Than / Then",
+        "Example": "❌ I will eat than go. / ✅ I will eat then go."
+    },
+    {
+        "Mistake": "Their vs There",
+        "Correction": "Their / There",
+        "Example": "❌ Their is no answer yet. / ✅ There is no answer yet."
+    },
+    {
+        "Mistake": "To vs Too",
+        "Correction": "To / Too",
+        "Example": "❌ I want too go. / ✅ I want to go."
+    },
+    {
+        "Mistake": "Trail vs Trial",
+        "Correction": "Trail / Trial",
+        "Example": "❌ The court will start a trail. / ✅ The court will start a trial."
+    },
+    {
+        "Mistake": "Weather vs Whether",
+        "Correction": "Weather / Whether",
+        "Example": "❌ I’m not sure weather he will come. / ✅ I’m not sure whether he will come."
+    },
+    {
+        "Mistake": "Who vs Whom",
+        "Correction": "Who / Whom",
+        "Example": "❌ Whom is calling? / ✅ Who is calling?"
+    },
+    {
+        "Mistake": "Your vs You're",
+        "Correction": "Your / You're",
+        "Example": "❌ Your welcome. / ✅ You're welcome."
+    },
+    {
+        "Mistake": "Accept vs Except",
+        "Correction": "Accept / Except",
+        "Example": "❌ Everyone accept him was invited. / ✅ Everyone except him was invited."
+    },
+    {
+        "Mistake": "Affect vs Effect",
+        "Correction": "Affect / Effect",
+        "Example": "❌ This will effect the results. / ✅ This will affect the results."
+    },
+    {
+        "Mistake": "Allusion vs Illusion",
+        "Correction": "Allusion / Illusion",
+        "Example": "❌ The magician created an allusion of ghosts. / ✅ The magician created an illusion of ghosts."
+    },
+    {
+        "Mistake": "Altar vs Alter",
+        "Correction": "Altar / Alter",
+        "Example": "❌ They changed the altar to the plan. / ✅ They altered the plan."
+    },
+    {
+        "Mistake": "Among vs Between",
+        "Correction": "Among / Between",
+        "Example": "❌ Distribute the gifts between the children. / ✅ Distribute the gifts among the children."
+    },
+    {
+        "Mistake": "Amount vs Number",
+        "Correction": "Amount / Number",
+        "Example": "❌ The amount of participants was large. / ✅ The number of participants was large."
+    },
+    {
+        "Mistake": "Assure vs Ensure",
+        "Correction": "Assure / Ensure",
+        "Example": "❌ I assure that the task will be done. / ✅ I ensure that the task will be done."
+    },
+    {
+        "Mistake": "Breath vs Breathe",
+        "Correction": "Breath / Breathe",
+        "Example": "❌ Take a deep breathe before you speak. / ✅ Take a deep breath before you speak."
+    },
+    {
+        "Mistake": "Capital vs Capitol",
+        "Correction": "Capital / Capitol",
+        "Example": "❌ The capital building is impressive. / ✅ The Capitol building is impressive."
+    },
+    {
+        "Mistake": "Cite vs Site",
+        "Correction": "Cite / Site",
+        "Example": "❌ Always site your sources. / ✅ Always cite your sources."
+    },
+    {
+        "Mistake": "Complement vs Compliment",
+        "Correction": "Complement / Compliment",
+        "Example": "❌ This wine compliments the meal. / ✅ This wine complements the meal."
+    },
+    {
+        "Mistake": "Continual vs Continuous",
+        "Correction": "Continual / Continuous",
+        "Example": "❌ There were continual interruptions. / ✅ There were continuous interruptions."
+    },
+    {
+        "Mistake": "Counsel vs Council",
+        "Correction": "Counsel / Council",
+        "Example": "❌ He needed counsel from the experts. / ✅ He sought counsel from the experts."
+    },
+    {
+        "Mistake": "Defuse vs Diffuse",
+        "Correction": "Defuse / Diffuse",
+        "Example": "❌ We need to diffuse the bomb. / ✅ We need to defuse the bomb."
+    },
+    {
+        "Mistake": "Desert vs Dessert",
+        "Correction": "Desert / Dessert",
+        "Example": "❌ I love eating desert after dinner. / ✅ I love eating dessert after dinner."
+    },
+    {
+        "Mistake": "Discreet vs Discrete",
+        "Correction": "Discreet / Discrete",
+        "Example": "❌ Please be discrete with this information. / ✅ Please be discreet with this information."
+    },
+    {
+        "Mistake": "Elicit vs Illicit",
+        "Correction": "Elicit / Illicit",
+        "Example": "❌ The law prohibits elicit drugs. / ✅ The law prohibits illicit drugs."
+    },
+    {
+        "Mistake": "Emigrate vs Immigrate",
+        "Correction": "Emigrate / Immigrate",
+        "Example": "❌ My family immigrated from Italy. / ✅ My family emigrated from Italy."
+    },
+    {
+        "Mistake": "Envelop vs Envelope",
+        "Correction": "Envelop / Envelope",
+        "Example": "❌ Please envelop the letter. / ✅ Please envelope the letter."
+    },
+    {
+        "Mistake": "Farther vs Further",
+        "Correction": "Farther / Further",
+        "Example": "❌ We can’t go any further. / ✅ We can’t go any farther."
+    },
+    {
+        "Mistake": "Flair vs Flare",
+        "Correction": "Flair / Flare",
+        "Example": "❌ He has a flair for music. / ✅ He has a flair for music."
+    },
+    {
+        "Mistake": "Flaunt vs Flout",
+        "Correction": "Flaunt / Flout",
+        "Example": "❌ She flouts her designer bags. / ✅ She flaunts her designer bags."
+    },
+    {
+        "Mistake": "Gambit vs Gamut",
+        "Correction": "Gambit / Gamut",
+        "Example": "❌ The artist used a wide gambit of colors. / ✅ The artist used a wide gamut of colors."
+    },
+    {
+        "Mistake": "Hanged vs Hung",
+        "Correction": "Hanged / Hung",
+        "Example": "❌ The man was hung for his crimes. / ✅ The man was hanged for his crimes."
+    },
+    {
+        "Mistake": "Imply vs Infer",
+        "Correction": "Imply / Infer",
+        "Example": "❌ I infer you are unhappy. / ✅ I imply you are unhappy."
+    },
+    {
+        "Mistake": "Ingenious vs Ingenuous",
+        "Correction": "Ingenious / Ingenuous",
+        "Example": "❌ She had an ingenuous plan. / ✅ She had an ingenious plan."
+    },
+    {
+        "Mistake": "Its vs It's",
+        "Correction": "Its / It's",
+        "Example": "❌ Its cold outside. / ✅ It's cold outside."
+    },
+    {
+        "Mistake": "Lay vs Lie",
+        "Correction": "Lay / Lie",
+        "Example": "❌ I will lay down now. / ✅ I will lie down now."
+    },
+    {
+        "Mistake": "Lead vs Led",
+        "Correction": "Lead / Led",
+        "Example": "❌ She lead the team well. / ✅ She led the team well."
+    },
+    {
+        "Mistake": "Loose vs Lose",
+        "Correction": "Loose / Lose",
+        "Example": "❌ Don’t loose your phone. / ✅ Don’t lose your phone."
+    },
+    {
+        "Mistake": "Moral vs Morale",
+        "Correction": "Moral / Morale",
+        "Example": "❌ The moral of the story was uplifting. / ✅ The team’s morale was high."
+    },
+    {
+        "Mistake": "Passed vs Past",
+        "Correction": "Passed / Past",
+        "Example": "❌ He passed through the city last week. / ✅ He passed through the city last week."
+    },
+    {
+        "Mistake": "Pedal vs Peddle",
+        "Correction": "Pedal / Peddle",
+        "Example": "❌ She peddled her bike furiously. / ✅ She pedaled her bike furiously."
+    },
+    {
+        "Mistake": "Persecute vs Prosecute",
+        "Correction": "Persecute / Prosecute",
+        "Example": "❌ Many were prosecuted for their beliefs. / ✅ Many were persecuted for their beliefs."
+    },
+    {
+        "Mistake": "Personal vs Personnel",
+        "Correction": "Personal / Personnel",
+        "Example": "❌ Personal decisions affect productivity. / ✅ Personnel decisions affect productivity."
+    },
+    {
+        "Mistake": "Principal vs Principle",
+        "Correction": "Principal / Principle",
+        "Example": "❌ The school’s principal taught math. / ✅ The school’s principal taught math."
+    },
+    {
+        "Mistake": "Quiet vs Quite",
+        "Correction": "Quiet / Quite",
+        "Example": "❌ The library was quite. / ✅ The library was quiet."
+    },
+    {
+        "Mistake": "Raise vs Rise",
+        "Correction": "Raise / Rise",
+        "Example": "❌ They will raise tomorrow. / ✅ They will rise tomorrow."
+    },
+    {
+        "Mistake": "Respectfully vs Respectively",
+        "Correction": "Respectfully / Respectively",
+        "Example": "❌ They arrived respectfully at 9 and 10 a.m. / ✅ They arrived respectively at 9 and 10 a.m."
+    },
+    {
+        "Mistake": "Stationary vs Stationery",
+        "Correction": "Stationary / Stationery",
+        "Example": "❌ The cyclist remained stationery. / ✅ The cyclist remained stationary."
+    },
+    {
+        "Mistake": "Than vs Then",
+        "Correction": "Than / Then",
+        "Example": "❌ I’ll eat than leave. / ✅ I’ll eat then leave."
+    },
+    {
+        "Mistake": "Their vs There",
+        "Correction": "Their / There",
+        "Example": "❌ Their is a problem. / ✅ There is a problem."
+    },
+    {
+        "Mistake": "To vs Too",
+        "Correction": "To / Too",
+        "Example": "❌ I want too go. / ✅ I want to go."
+    },
+    {
+        "Mistake": "Weather vs Whether",
+        "Correction": "Weather / Whether",
+        "Example": "❌ I don’t know weather he will come. / ✅ I don’t know whether he will come."
+    },
+    {
+        "Mistake": "Who vs Whom",
+        "Correction": "Who / Whom",
+        "Example": "❌ Whom is at the door? / ✅ Who is at the door?"
+    },
+    {
+        "Mistake": "Your vs You're",
+        "Correction": "Your / You're",
+        "Example": "❌ Your going too fast. / ✅ You're going too fast."
+    },
+    {
+        "Mistake": "All together vs Altogether",
+        "Correction": "All together / Altogether",
+        "Example": "❌ We’re altogether ready. / ✅ We’re all together ready."
+    },
+    {
+        "Mistake": "Amount vs Number",
+        "Correction": "Amount / Number",
+        "Example": "❌ The amount of books is huge. / ✅ The number of books is huge."
+    },
+    {
+        "Mistake": "Assure vs Ensure",
+        "Correction": "Assure / Ensure",
+        "Example": "❌ I assure you it will be fine. / ✅ I ensure you it will be fine."
+    },
+    {
+        "Mistake": "Breath vs Breathe",
+        "Correction": "Breath / Breathe",
+        "Example": "❌ Take a deep breathe. / ✅ Take a deep breath."
+    },
+    {
+        "Mistake": "Complement vs Compliment",
+        "Correction": "Complement / Compliment",
+        "Example": "❌ Your tie compliments your shirt. / ✅ Your tie complements your shirt."
+    },
+    {
+        "Mistake": "Continual vs Continuous",
+        "Correction": "Continual / Continuous",
+        "Example": "❌ There were continual interruptions. / ✅ There were continuous interruptions."
+    },
+    {
+        "Mistake": "Counsel vs Council",
+        "Correction": "Counsel / Council",
+        "Example": "❌ The council advised him. / ✅ The counsel advised him."
+    },
+    {
+        "Mistake": "Defuse vs Diffuse",
+        "Correction": "Defuse / Diffuse",
+        "Example": "❌ We need to diffuse the conflict. / ✅ We need to defuse the conflict."
+    },
+    {
+        "Mistake": "Discreet vs Discrete",
+        "Correction": "Discreet / Discrete",
+        "Example": "❌ The numbers are discreet. / ✅ The numbers are discrete."
+    },
+    {
+        "Mistake": "Emigrate vs Immigrate",
+        "Correction": "Emigrate / Immigrate",
+        "Example": "❌ They immigrated from Canada last year. / ✅ They emigrated from Canada last year."
+    },
+    {
+        "Mistake": "Envelop vs Envelope",
+        "Correction": "Envelop / Envelope",
+        "Example": "❌ Please envelop the letter carefully. / ✅ Please envelope the letter carefully."
+    },
+    {
+        "Mistake": "Farther vs Further",
+        "Correction": "Farther / Further",
+        "Example": "❌ We drove farther than expected. / ✅ We drove further than expected."
+    },
+    {
+        "Mistake": "Flair vs Flare",
+        "Correction": "Flair / Flare",
+        "Example": "❌ She has great flare for drama. / ✅ She has great flair for drama."
+    },
+    {
+        "Mistake": "Flaunt vs Flout",
+        "Correction": "Flaunt / Flout",
+        "Example": "❌ Don’t flout the rules. / ✅ Don’t flaunt the rules."
+    },
+    {
+        "Mistake": "Household vs House hold",
+        "Correction": "Household / House hold",
+        "Example": "❌ There are ten people in the house hold. / ✅ There are ten people in the household."
+    },
+    {
+        "Mistake": "Imply vs Infer",
+        "Correction": "Imply / Infer",
+        "Example": "❌ I implied she was upset. / ✅ I inferred she was upset."
+    },
+    {
+        "Mistake": "Ingenious vs Ingenuous",
+        "Correction": "Ingenious / Ingenuous",
+        "Example": "❌ That was an ingenuous idea. / ✅ That was an ingenious idea."
+    },
+    {
+        "Mistake": "Its vs It’s",
+        "Correction": "Its / It’s",
+        "Example": "❌ Its my car. / ✅ It’s my car."
+    },
+    {
+        "Mistake": "Lay vs Lie",
+        "Correction": "Lay / Lie",
+        "Example": "❌ I will lay down now. / ✅ I will lie down now."
+    },
+    {
+        "Mistake": "Lead vs Led",
+        "Correction": "Lead / Led",
+        "Example": "❌ She lead the team. / ✅ She led the team."
+    },
+    {
+        "Mistake": "Lightening vs Lightning",
+        "Correction": "Lightning / Lightening",
+        "Example": "❌ The lightening struck the tree. / ✅ The lightning struck the tree."
+    },
+    {
+        "Mistake": "Loose vs Lose",
+        "Correction": "Loose / Lose",
+        "Example": "❌ I don’t want to loose the game. / ✅ I don’t want to lose the game."
+    },
+    {
+        "Mistake": "Moral vs Morale",
+        "Correction": "Moral / Morale",
+        "Example": "❌ The team had good moral. / ✅ The team had good morale."
+    },
+    {
+        "Mistake": "Passed vs Past",
+        "Correction": "Passed / Past",
+        "Example": "❌ He passed me on the street. / ✅ He passed me on the street."
+    },
+    {
+        "Mistake": "Pedal vs Peddle",
+        "Correction": "Pedal / Peddle",
+        "Example": "❌ She peddled her bike fast. / ✅ She pedaled her bike fast."
+    },
+    {
+        "Mistake": "Personal vs Personnel",
+        "Correction": "Personal / Personnel",
+        "Example": "❌ Personal file needs updating. / ✅ Personnel file needs updating."
+    },
+    {
+        "Mistake": "Persecute vs Prosecute",
+        "Correction": "Persecute / Prosecute",
+        "Example": "❌ Many were prosecuted for beliefs. / ✅ Many were persecuted for beliefs."
+    },
+    {
+        "Mistake": "Principal vs Principle",
+        "Correction": "Principal / Principle",
+        "Example": "❌ The principle of the school retired. / ✅ The principal of the school retired."
+    },
+    {
+        "Mistake": "Quiet vs Quite",
+        "Correction": "Quiet / Quite",
+        "Example": "❌ The place was quite. / ✅ The place was quiet."
+    },
+    {
+        "Mistake": "Raise vs Rise",
+        "Correction": "Raise / Rise",
+        "Example": "❌ The sun will raise soon. / ✅ The sun will rise soon."
+    },
+    {
+        "Mistake": "Respectfully vs Respectively",
+        "Correction": "Respectfully / Respectively",
+        "Example": "❌ They spoke respectfully at the meeting. / ✅ They arrived respectively by train and bus."
+    },
+    {
+        "Mistake": "Stationary vs Stationery",
+        "Correction": "Stationary / Stationery",
+        "Example": "❌ I need to buy stationary. / ✅ I need to buy stationery."
+    },
+    {
+        "Mistake": "Than vs Then",
+        "Correction": "Than / Then",
+        "Example": "❌ I’d rather wait then leave. / ✅ I’d rather wait than leave."
+    },
+    {
+        "Mistake": "Their vs There",
+        "Correction": "Their / There",
+        "Example": "❌ Their going to be late. / ✅ They’re going to be late."
+    },
+    {
+        "Mistake": "To vs Too",
+        "Correction": "To / Too",
+        "Example": "❌ I want too eat now. / ✅ I want to eat now."
+    },
+    {
+        "Mistake": "Weather vs Whether",
+        "Correction": "Weather / Whether",
+        "Example": "❌ I don’t know weather it will rain. / ✅ I don’t know whether it will rain."
+    },
+    {
+        "Mistake": "Who vs Whom",
+        "Correction": "Who / Whom",
+        "Example": "❌ Whom should I ask? / ✅ Who should I ask?"
+    },
+    {
+        "Mistake": "Your vs You’re",
+        "Correction": "Your / You’re",
+        "Example": "❌ Your late again. / ✅ You’re late again."
+    },
+    {
+        "Mistake": "Accept vs Except",
+        "Correction": "Accept / Except",
+        "Example": "❌ Everyone accept John agreed. / ✅ Everyone except John agreed."
+    },
+    {
+        "Mistake": "Affect vs Effect",
+        "Correction": "Affect / Effect",
+        "Example": "❌ This will effect your progress. / ✅ This will affect your progress."
+    },
+    {
+        "Mistake": "Allusion vs Illusion",
+        "Correction": "Allusion / Illusion",
+        "Example": "❌ The story had an illusion to history. / ✅ The story had an allusion to history."
+    },
+    {
+        "Mistake": "Altar vs Alter",
+        "Correction": "Altar / Alter",
+        "Example": "❌ They married at the alter. / ✅ They married at the altar."
+    },
+    {
+        "Mistake": "Among vs Between",
+        "Correction": "Among / Between",
+        "Example": "❌ Distribute between the three friends. / ✅ Distribute among the three friends."
+    },
+    {
+        "Mistake": "Amount vs Number",
+        "Correction": "Amount / Number",
+        "Example": "❌ The amount of cars increased. / ✅ The number of cars increased."
+    },
+    {
+        "Mistake": "Assure vs Ensure",
+        "Correction": "Assure / Ensure",
+        "Example": "❌ I assure you it’s safe. / ✅ I ensure you it’s safe."
+    },
+    {
+        "Mistake": "Breath vs Breathe",
+        "Correction": "Breath / Breathe",
+        "Example": "❌ Take a deep breath. / ✅ Take a deep breath."
+    },
+    {
+        "Mistake": "Capital vs Capitol",
+        "Correction": "Capital / Capitol",
+        "Example": "❌ The capital building is historic. / ✅ The Capitol building is historic."
+    },
+    {
+        "Mistake": "Cite vs Site",
+        "Correction": "Cite / Site",
+        "Example": "❌ Always site your sources. / ✅ Always cite your sources."
+    },
+    {
+        "Mistake": "Complement vs Compliment",
+        "Correction": "Complement / Compliment",
+        "Example": "❌ Your scarf compliments your outfit. / ✅ Your scarf complements your outfit."
+    },
+    {
+        "Mistake": "Continual vs Continuous",
+        "Correction": "Continual / Continuous",
+        "Example": "❌ The noise was continual. / ✅ The noise was continuous."
+    },
+    {
+        "Mistake": "Counsel vs Council",
+        "Correction": "Counsel / Council",
+        "Example": "❌ She sought council from a lawyer. / ✅ She sought counsel from a lawyer."
+    },
+    {
+        "Mistake": "Defuse vs Diffuse",
+        "Correction": "Defuse / Diffuse",
+        "Example": "❌ We need to diffuse the bomb. / ✅ We need to defuse the bomb."
+    },
+    {
+        "Mistake": "Desert vs Dessert",
+        "Correction": "Desert / Dessert",
+        "Example": "❌ I prefer desert after meals. / ✅ I prefer dessert after meals."
+    },
+    {
+        "Mistake": "Discreet vs Discrete",
+        "Correction": "Discreet / Discrete",
+        "Example": "❌ Be discrete about the secret. / ✅ Be discreet about the secret."
+    },
+    {
+        "Mistake": "Elicit vs Illicit",
+        "Correction": "Elicit / Illicit",
+        "Example": "❌ Illicit drugs caused problems. / ✅ Illicit drugs caused problems."
+    },
+    {
+        "Mistake": "Emigrate vs Immigrate",
+        "Correction": "Emigrate / Immigrate",
+        "Example": "❌ He immigrated from Mexico. / ✅ He emigrated from Mexico."
+    },
+    {
+        "Mistake": "Envelop vs Envelope",
+        "Correction": "Envelop / Envelope",
+        "Example": "❌ Please envelop the letter. / ✅ Please envelope the letter."
+    },
+    {
+        "Mistake": "Farther vs Further",
+        "Correction": "Farther / Further",
+        "Example": "❌ We drove further than expected. / ✅ We drove farther than expected."
+    },
+    {
+        "Mistake": "Flair vs Flare",
+        "Correction": "Flair / Flare",
+        "Example": "❌ He has flair for the dramatic. / ✅ He has flair for the dramatic."
+    },
+    {
+        "Mistake": "Flaunt vs Flout",
+        "Correction": "Flaunt / Flout",
+        "Example": "❌ Don’t flout your wealth. / ✅ Don’t flaunt your wealth."
+    },
+    {
+        "Mistake": "Gambit vs Gamut",
+        "Correction": "Gambit / Gamut",
+        "Example": "❌ The artist used a wide gambit of colors. / ✅ The artist used a wide gamut of colors."
+    },
+    {
+        "Mistake": "Hanged vs Hung",
+        "Correction": "Hanged / Hung",
+        "Example": "❌ The sign was hanged on the wall. / ✅ The sign was hung on the wall."
+    },
+    {
+        "Mistake": "Imply vs Infer",
+        "Correction": "Imply / Infer",
+        "Example": "❌ I inferred from your words. / ✅ I implied from your words."
+    },
+    {
+        "Mistake": "Ingenious vs Ingenuous",
+        "Correction": "Ingenious / Ingenuous",
+        "Example": "❌ That was an ingenuous solution. / ✅ That was an ingenious solution."
+    },
+    {
+        "Mistake": "Its vs It’s",
+        "Correction": "Its / It’s",
+        "Example": "❌ Its a lovely day. / ✅ It’s a lovely day."
+    },
+    {
+        "Mistake": "Lay vs Lie",
+        "Correction": "Lay / Lie",
+        "Example": "❌ I will lay down for a nap. / ✅ I will lie down for a nap."
+    },
+    {
+        "Mistake": "Lead vs Led",
+        "Correction": "Lead / Led",
+        "Example": "❌ He lead the team to victory. / ✅ He led the team to victory."
+    },
+    {
+        "Mistake": "Loose vs Lose",
+        "Correction": "Loose / Lose",
+        "Example": "❌ Don’t loose your wallet. / ✅ Don’t lose your wallet."
+    },
+    {
+        "Mistake": "Moral vs Morale",
+        "Correction": "Moral / Morale",
+        "Example": "❌ The story had a good morale. / ✅ The story had a good moral."
+    },
+    {
+        "Mistake": "Passed vs Past",
+        "Correction": "Passed / Past",
+        "Example": "❌ He past me in the hallway. / ✅ He passed me in the hallway."
+    },
+    {
+        "Mistake": "Pedal vs Peddle",
+        "Correction": "Pedal / Peddle",
+        "Example": "❌ He peddled goods at the market. / ✅ He pedaled his bike to school."
+    },
+    {
+        "Mistake": "Persecute vs Prosecute",
+        "Correction": "Persecute / Prosecute",
+        "Example": "❌ They prosecuted the group unfairly. / ✅ They persecuted the group unfairly."
+    },
+    {
+        "Mistake": "Personal vs Personnel",
+        "Correction": "Personal / Personnel",
+        "Example": "❌ Personal records are confidential. / ✅ Personnel records are confidential."
+    },
+    {
+        "Mistake": "Principal vs Principle",
+        "Correction": "Principal / Principle",
+        "Example": "❌ The principal reason is clear. / ✅ The principal reason is clear."
+    },
+    {
+        "Mistake": "Quiet vs Quite",
+        "Correction": "Quiet / Quite",
+        "Example": "❌ The area was quite. / ✅ The area was quiet."
+    },
+    {
+        "Mistake": "Raise vs Rise",
+        "Correction": "Raise / Rise",
+        "Example": "❌ Prices will rise next month. / ✅ Prices will rise next month."
+    },
+    {
+        "Mistake": "Respectfully vs Respectively",
+        "Correction": "Respectfully / Respectively",
+        "Example": "❌ They arrived respectfully at 5 and 6. / ✅ They arrived respectively at 5 and 6."
+    },
+    {
+        "Mistake": "Stationary vs Stationery",
+        "Correction": "Stationary / Stationery",
+        "Example": "❌ The stationary store is closed. / ✅ The stationery store is closed."
+    },
+    {
+        "Mistake": "Than vs Then",
+        "Correction": "Than / Then",
+        "Example": "❌ I will go than stay. / ✅ I will go then stay."
+    },
+    {
+        "Mistake": "Their vs There",
+        "Correction": "Their / There",
+        "Example": "❌ Their going to the party. / ✅ They’re going to the party."
+    },
+    {
+        "Mistake": "To vs Too",
+        "Correction": "To / Too",
+        "Example": "❌ I want to go too. / ✅ I want to go too."
+    },
+    {
+        "Mistake": "Weather vs Whether",
+        "Correction": "Weather / Whether",
+        "Example": "❌ I don’t know weather it will rain. / ✅ I don’t know whether it will rain."
+    },
+    {
+        "Mistake": "Who vs Whom",
+        "Correction": "Who / Whom",
+        "Example": "❌ Whom will join us? / ✅ Who will join us?"
+    },
+    {
+        "Mistake": "Your vs You’re",
+        "Correction": "Your / You’re",
+        "Example": "❌ Your welcome to stay. / ✅ You’re welcome to stay."
+    },
+    {
+        "Mistake": "Accept vs Except",
+        "Correction": "Accept / Except",
+        "Example": "❌ Everyone accept Mary. / ✅ Everyone except Mary."
+    },
+    {
+        "Mistake": "Affect vs Effect",
+        "Correction": "Affect / Effect",
+        "Example": "❌ The new policy will effect productivity. / ✅ The new policy will affect productivity."
+    },
+    {
+        "Mistake": "Allusion vs Illusion",
+        "Correction": "Allusion / Illusion",
+        "Example": "❌ The book contains an allusion to Shakespeare. / ✅ The book contains an illusion to Shakespeare."
+    },
+    {
+        "Mistake": "Altar vs Alter",
+        "Correction": "Altar / Alter",
+        "Example": "❌ They went to the altar for the wedding. / ✅ They went to the altar for the wedding."
+    },
+    {
+        "Mistake": "Among vs Between",
+        "Correction": "Among / Between",
+        "Example": "❌ Distribute the tasks between team members. / ✅ Distribute the tasks among team members."
+    },
+    {
+        "Mistake": "Amount vs Number",
+        "Correction": "Amount / Number",
+        "Example": "❌ The amount of money is high. / ✅ The number of dollars is high."
+    },
+    {
+        "Mistake": "Assure vs Ensure",
+        "Correction": "Assure / Ensure",
+        "Example": "❌ I assure you this will work. / ✅ I ensure you this will work."
+    },
+    {
+        "Mistake": "Breath vs Breathe",
+        "Correction": "Breath / Breathe",
+        "Example": "❌ Take a deep breathe. / ✅ Take a deep breath."
+    },
+    {
+        "Mistake": "Capital vs Capitol",
+        "Correction": "Capital / Capitol",
+        "Example": "❌ The capital building is historic. / ✅ The Capitol building is historic."
+    },
+    {
+        "Mistake": "Cite vs Site",
+        "Correction": "Cite / Site",
+        "Example": "❌ Always cite your sources. / ✅ Always cite your sources."
+    },
+    {
+        "Mistake": "Complement vs Compliment",
+        "Correction": "Complement / Compliment",
+        "Example": "❌ Your scarf complements your outfit. / ✅ Your scarf complements your outfit."
+    },
+    {
+        "Mistake": "Continual vs Continuous",
+        "Correction": "Continual / Continuous",
+        "Example": "❌ The noise was continual. / ✅ The noise was continuous."
+    },
+    {
+        "Mistake": "Counsel vs Council",
+        "Correction": "Counsel / Council",
+        "Example": "❌ He sought counsel from the lawyer. / ✅ He sought counsel from the lawyer."
+    },
+    {
+        "Mistake": "Defuse vs Diffuse",
+        "Correction": "Defuse / Diffuse",
+        "Example": "❌ We need to diffuse the situation. / ✅ We need to defuse the situation."
+    },
+    {
+        "Mistake": "Desert vs Dessert",
+        "Correction": "Desert / Dessert",
+        "Example": "❌ I love chocolate desert. / ✅ I love chocolate dessert."
+    },
+    {
+        "Mistake": "Discreet vs Discrete",
+        "Correction": "Discreet / Discrete",
+        "Example": "❌ Be discreet about the information. / ✅ Be discreet about the information."
+    },
+    {
+        "Mistake": "Elicit vs Illicit",
+        "Correction": "Elicit / Illicit",
+        "Example": "❌ The law prohibits elicit drugs. / ✅ The law prohibits illicit drugs."
+    },
+    {
+        "Mistake": "Emigrate vs Immigrate",
+        "Correction": "Emigrate / Immigrate",
+        "Example": "❌ They emigrated to the US. / ✅ They immigrated to the US."
+    },
+    {
+        "Mistake": "Envelop vs Envelope",
+        "Correction": "Envelop / Envelope",
+        "Example": "❌ Please envelope the letter. / ✅ Please envelope the letter."
+    },
+    {
+        "Mistake": "Farther vs Further",
+        "Correction": "Farther / Further",
+        "Example": "❌ We cannot go any farther. / ✅ We cannot go any further."
+    },
+    {
+        "Mistake": "Flair vs Flare",
+        "Correction": "Flair / Flare",
+        "Example": "❌ He has a flare for music. / ✅ He has flair for music."
+    },
+    {
+        "Mistake": "Flaunt vs Flout",
+        "Correction": "Flaunt / Flout",
+        "Example": "❌ Don’t flout the rules. / ✅ Don’t flaunt the rules."
+    },
+    {
+        "Mistake": "Gambit vs Gamut",
+        "Correction": "Gambit / Gamut",
+        "Example": "❌ He used a gambit of colors. / ✅ He used a gamut of colors."
+    },
+    {
+        "Mistake": "Hanged vs Hung",
+        "Correction": "Hanged / Hung",
+        "Example": "❌ The sign was hung. / ✅ The sign was hanged."
+    },
+    {
+        "Mistake": "Imply vs Infer",
+        "Correction": "Imply / Infer",
+        "Example": "❌ I infer you are upset. / ✅ I imply you are upset."
+    },
+    {
+        "Mistake": "Ingenious vs Ingenuous",
+        "Correction": "Ingenious / Ingenuous",
+        "Example": "❌ She was ingenuous in her speech. / ✅ She was ingenuous in her speech."
+    },
+    {
+        "Mistake": "Its vs It’s",
+        "Correction": "Its / It’s",
+        "Example": "❌ Its a nice day. / ✅ It’s a nice day."
+    },
+    {
+        "Mistake": "Lay vs Lie",
+        "Correction": "Lay / Lie",
+        "Example": "❌ I will lay down now. / ✅ I will lie down now."
+    },
+    {
+        "Mistake": "Lead vs Led",
+        "Correction": "Lead / Led",
+        "Example": "❌ She lead the team well. / ✅ She led the team well."
+    },
+    {
+        "Mistake": "Leech vs Leach",
+        "Correction": "Leech / Leach",
+        "Example": "❌ Don’t leech onto others. / ✅ Don’t leech onto others."
+    },
+    {
+        "Mistake": "Lightning vs Lightening",
+        "Correction": "Lightning / Lightening",
+        "Example": "❌ The lightning struck the tree. / ✅ The lightning struck the tree."
+    },
+    {
+        "Mistake": "Loose vs Lose",
+        "Correction": "Loose / Lose",
+        "Example": "❌ I might loose my keys. / ✅ I might lose my keys."
+    },
+    {
+        "Mistake": "Moral vs Morale",
+        "Correction": "Moral / Morale",
+        "Example": "❌ The team had good morals. / ✅ The team had high morale."
+    },
+    {
+        "Mistake": "Passed vs Past",
+        "Correction": "Passed / Past",
+        "Example": "❌ He passed through the city. / ✅ He passed through the city."
+    },
+    {
+        "Mistake": "Pedal vs Peddle",
+        "Correction": "Pedal / Peddle",
+        "Example": "❌ He peddled his bicycle. / ✅ He pedaled his bicycle."
+    },
+    {
+        "Mistake": "Persecute vs Prosecute",
+        "Correction": "Persecute / Prosecute",
+        "Example": "❌ They prosecuted the case. / ✅ They persecuted the case unfairly."
+    },
+    {
+        "Mistake": "Personal vs Personnel",
+        "Correction": "Personal / Personnel",
+        "Example": "❌ Personal files are confidential. / ✅ Personnel files are confidential."
+    },
+    {
+        "Mistake": "Principal vs Principle",
+        "Correction": "Principal / Principle",
+        "Example": "❌ The principle of the matter is clear. / ✅ The principal of the school is clear."
+    },
+    {
+        "Mistake": "Quiet vs Quite",
+        "Correction": "Quiet / Quite",
+        "Example": "❌ The room was quite. / ✅ The room was quiet."
+    },
+    {
+        "Mistake": "Raise vs Rise",
+        "Correction": "Raise / Rise",
+        "Example": "❌ The sun will rise soon. / ✅ The sun will rise soon."
+    },
+    {
+        "Mistake": "Respectfully vs Respectively",
+        "Correction": "Respectfully / Respectively",
+        "Example": "❌ They came respectfully. / ✅ They arrived respectfully, at 8 and 9."
+    },
+    {
+        "Mistake": "Stationary vs Stationery",
+        "Correction": "Stationary / Stationery",
+        "Example": "❌ The stationary bike is broken. / ✅ The stationery store is nearby."
+    },
+    {
+        "Mistake": "Than vs Then",
+        "Correction": "Than / Then",
+        "Example": "❌ I’d rather stay than leave. / ✅ I’d rather stay than leave."
+    },
+    {
+        "Mistake": "Their vs There",
+        "Correction": "Their / There",
+        "Example": "❌ There books are missing. / ✅ Their books are missing."
+    },
+    {
+        "Mistake": "To vs Too",
+        "Correction": "To / Too",
+        "Example": "❌ I want too buy that. / ✅ I want to buy that."
+    },
+    {
+        "Mistake": "Weather vs Whether",
+        "Correction": "Weather / Whether",
+        "Example": "❌ I wonder weather it will rain. / ✅ I wonder whether it will rain."
+    },
+    {
+        "Mistake": "Who vs Whom",
+        "Correction": "Who / Whom",
+        "Example": "❌ Whom is calling? / ✅ Who is calling?"
+    },
+    {
+        "Mistake": "Your vs You’re",
+        "Correction": "Your / You’re",
+        "Example": "❌ Your late. / ✅ You’re late."
+    }
+]

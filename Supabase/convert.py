@@ -37,7 +37,9 @@ def convert_csv_to_json(csv_filepath):
 csv_files_to_convert = [
     'english_grammar_rules.csv',
     'english_idioms.csv',
-    'english_vocabulary.csv'
+    'english_vocabulary.csv',
+    'english_common_mistakes.csv',
+    'english_conversations.csv'
 ]
 
 # --- Vòng lặp để xử lý từng file ---

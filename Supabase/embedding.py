@@ -96,3 +96,5 @@ def generate_and_update_embeddings(table_name, text_columns):
 generate_and_update_embeddings('english_idioms', ['phrase', 'meaning', 'example'])
 generate_and_update_embeddings('english_grammar_rules', ['rule', 'explanation', 'example'])
 generate_and_update_embeddings('english_vocabulary', ['word', 'meaning', 'example'])
+generate_and_update_embeddings('english_common_mistakes', ['mistake', 'correction', 'example'])
+generate_and_update_embeddings('english_conversations', ['situation', 'dialogue', 'context'])

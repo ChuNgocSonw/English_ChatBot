@@ -62,7 +62,13 @@
         const API_URL = 'http://127.0.0.1:8000/answer';
         const TTS_API_URL = 'http://127.0.0.1:8000/synthesize-speech';
         
-        // --- HÀM XỬ LÝ ÂM THANH (ĐƠN GIẢN HÓA RẤT NHIỀU) ---
+        // --- CÁC HÀM XỬ LÝ ÂM THANH (ĐÃ ĐƠN GIẢN HÓA) ---
+        // Chúng ta không cần các hàm base64ToArrayBuffer và pcmToWav nữa
+        // vì backend đã xử lý việc đó.
+
+        /**
+         * Gửi văn bản đến API backend để LẤY URL và phát âm thanh.
+         */
         async function speak(text, iconElement) {
             if (iconElement.classList.contains('loading')) return;
 
@@ -78,7 +84,7 @@
 
                 const data = await response.json();
                 
-                // Chỉ cần lấy URL và phát
+                // === SỬA LỖI QUAN TRỌNG: Chỉ cần lấy URL và phát ===
                 const audio = new Audio(data.audioUrl);
                 audio.play();
 
@@ -90,20 +96,27 @@
             }
         }
         
-        // --- CÁC HÀM XỬ LÝ GIAO DIỆN CHAT (giữ nguyên) ---
+        // --- CÁC HÀM XỬ LÝ GIAO DIỆN CHAT ---
 
         function displayMessage(message, sender) {
             const messageWrapper = document.createElement('div');
             messageWrapper.className = `flex mb-4 ${sender === 'user' ? 'justify-end' : 'justify-start'}`;
+
             const messageBubble = document.createElement('div');
             messageBubble.className = `max-w-lg p-3 rounded-lg ${sender === 'user' ? 'chat-bubble-user' : 'chat-bubble-bot'}`;
+            
+            // Chuyển đổi message từ Markdown sang HTML
             let htmlMessage = showdownConverter.makeHtml(message);
+
+            // Sửa lỗi hiển thị thẻ HTML
             htmlMessage = htmlMessage.replace(/&lt;span class="tts-word"&gt;/g, '<span class="tts-word">');
             htmlMessage = htmlMessage.replace(/&lt;\/span&gt;/g, '</span>');
+
             messageBubble.innerHTML = htmlMessage;
             messageWrapper.appendChild(messageBubble);
             chatBox.appendChild(messageWrapper);
             
+            // Tìm các từ vựng đã được backend đánh dấu và thêm biểu tượng loa
             const ttsElements = messageBubble.querySelectorAll('.tts-word');
             ttsElements.forEach(element => {
                 const wordToSpeak = element.textContent;
@@ -111,18 +124,22 @@
                 speakerIcon.className = 'tts-icon';
                 speakerIcon.title = `Nghe phát âm của '${wordToSpeak}'`;
                 speakerIcon.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M9.383 3.076A1 1 0 0110 4v12a1 1 0 01-1.707.707L4.586 13H2a1 1 0 01-1-1V8a1 1 0 011-1h2.586l3.707-3.707a1 1 0 011.09-.217zM14.657 2.929a1 1 0 011.414 0A9.972 9.972 0 0119 10a9.972 9.972 0 01-2.929 7.071 1 1 0 01-1.414-1.414A7.971 7.971 0 0017 10c0-2.21-.894-4.208-2.343-5.657a1 1 0 010-1.414zm-2.829 2.828a1 1 0 011.415 0A5.983 5.983 0 0115 10a5.984 5.984 0 01-1.757 4.243 1 1 0 01-1.415-1.415A3.984 3.984 0 0013 10a3.983 3.983 0 00-1.172-2.828 1 1 0 010-1.415z" clip-rule="evenodd" /></svg>`;
+                
                 speakerIcon.onclick = (e) => {
                     e.stopPropagation();
                     speak(wordToSpeak, speakerIcon);
                 };
+                
                 element.insertAdjacentElement('afterend', speakerIcon);
             });
+            
             chatBox.scrollTop = chatBox.scrollHeight;
         }
 
         async function handleSendMessage() {
             const message = userInput.value.trim();
             if (!message) return;
+
             displayMessage(message, 'user');
             userInput.value = '';
             sendButton.disabled = true;
@@ -136,14 +153,18 @@
                     headers: { 'Content-Type': 'application/json' },
                     body: JSON.stringify({ text: message }) 
                 });
+
                 removeMessageById(loadingBubbleId);
-                if (!response.ok) throw new Error('Network response');
+                if (!response.ok) throw new Error('Network response was not ok');
+
                 const data = await response.json();
                 displayMessage(data.answer, 'bot');
+
             } catch (error) {
                 console.error('Error:', error);
                 removeMessageById(loadingBubbleId);
-                displayMessage('Xin lỗi, đã có lỗi xảy ra. Vui lòng thử lại sau.', 'bot');
+                const errorMessage = 'Xin lỗi, đã có lỗi xảy ra. Vui lòng thử lại sau.';
+                displayMessage(errorMessage, 'bot');
             } finally {
                 sendButton.disabled = false;
                 userInput.focus();
@@ -151,20 +172,20 @@
         }
         
         function displaySpecialContent(htmlContent, sender, id) {
-            const el = document.createElement('div');
-            if (id) el.id = id;
-            el.className = `flex mb-4 ${sender === 'user' ? 'justify-end' : 'justify-start'}`;
-            const bubble = document.createElement('div');
-            bubble.className = `max-w-lg p-3 rounded-lg ${sender === 'user' ? 'chat-bubble-user' : 'chat-bubble-bot'}`;
-            bubble.innerHTML = htmlContent;
-            el.appendChild(bubble);
-            chatBox.appendChild(el);
+            const messageWrapper = document.createElement('div');
+            if (id) messageWrapper.id = id;
+            messageWrapper.className = `flex mb-4 ${sender === 'user' ? 'justify-end' : 'justify-start'}`;
+            const messageBubble = document.createElement('div');
+            messageBubble.className = `max-w-lg p-3 rounded-lg ${sender === 'user' ? 'chat-bubble-user' : 'chat-bubble-bot'}`;
+            messageBubble.innerHTML = htmlContent;
+            messageWrapper.appendChild(messageBubble);
+            chatBox.appendChild(messageWrapper);
             chatBox.scrollTop = chatBox.scrollHeight;
         }
         
         function removeMessageById(id) {
-            const el = document.getElementById(id);
-            if(el) el.remove();
+            const messageToRemove = document.getElementById(id);
+            if(messageToRemove) messageToRemove.remove();
         }
 
         sendButton.addEventListener('click', handleSendMessage);

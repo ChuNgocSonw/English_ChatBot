@@ -1,0 +1,644 @@
+mistake,correction,example
+Their going to the store,They're going to the store,❌ Their going to the store. / ✅ They're going to the store.
+Your welcome,You're welcome,❌ Your welcome! / ✅ You're welcome!
+I could care less,I couldn't care less,❌ I could care less about that. / ✅ I couldn't care less about that.
+Irregardless,Regardless,"❌ Irregardless of the weather, we will go. / ✅ Regardless of the weather, we will go."
+To vs Too,To / Too,❌ I want too go. / ✅ I want to go.
+Then vs Than,Then / Than,❌ She is taller then me. / ✅ She is taller than me.
+Less vs Fewer,Less / Fewer,❌ There are less apples here. / ✅ There are fewer apples here.
+Could of,Could have,❌ I could of done better. / ✅ I could have done better.
+Who vs Whom,Who / Whom,❌ Whom is coming to dinner? / ✅ Who is coming to dinner?
+Me vs I,Me / I,❌ Me and him went to the park. / ✅ He and I went to the park.
+Affect vs Effect,Affect / Effect,❌ The effect of the weather will affect us. / ✅ The effect of the weather will affect us.
+Lie vs Lay,Lie / Lay,❌ I am going to lay down. / ✅ I am going to lie down.
+Between you and I,Between you and me,"❌ Between you and I, this is a secret. / ✅ Between you and me, this is a secret."
+Okay vs OK,Okay / OK,❌ It's ok to be late. / ✅ It's OK to be late.
+Everybody vs Every body,Everybody,❌ Every body enjoyed the party. / ✅ Everybody enjoyed the party.
+Good vs Well,Good / Well,❌ She sings good. / ✅ She sings well.
+Should of,Should have,❌ You should of called me. / ✅ You should have called me.
+Bring vs Take,Bring / Take,❌ Please bring this to your house. / ✅ Please take this to your house.
+Farther vs Further,Farther / Further,❌ We cannot discuss this any farther. / ✅ We cannot discuss this any further.
+Could care less,Couldn't care less,❌ I could care less about the game. / ✅ I couldn't care less about the game.
+Less vs Least,Less / Least,❌ This is less of a problem than before. / ✅ This is the least of our problems.
+Accept vs Except,Accept / Except,❌ Everyone accept John was there. / ✅ Everyone except John was there.
+Then vs Than,Then / Than,❌ She is better then me. / ✅ She is better than me.
+Alot vs A lot,A lot,❌ I have alot of homework. / ✅ I have a lot of homework.
+He don’t vs He doesn’t,He doesn’t,❌ He don’t like pizza. / ✅ He doesn’t like pizza.
+Could care less,Couldn't care less,❌ I could care less about your opinion. / ✅ I couldn't care less about your opinion.
+I seen vs I saw,I saw,❌ I seen the movie last night. / ✅ I saw the movie last night.
+Less vs Fewer,Less / Fewer,❌ There’s less people here today. / ✅ There’s fewer people here today.
+Then vs Than,Then / Than,❌ You’re taller then I am. / ✅ You’re taller than I am.
+Their vs There,Their / There,❌ Their going over there later. / ✅ They're going over there later.
+Your vs You're,Your / You're,❌ Your going to love this. / ✅ You're going to love this.
+Its vs It's,Its / It's,❌ Its raining outside. / ✅ It's raining outside.
+Who vs Whom,Who / Whom,❌ Whom is calling? / ✅ Who is calling?
+Less vs Fewer,Less / Fewer,❌ There are less cars in the parking lot. / ✅ There are fewer cars in the parking lot.
+Bring vs Take,Bring / Take,❌ Bring that book to your house. / ✅ Take that book to your house.
+I did good vs I did well,I did well,❌ I did good on the test. / ✅ I did well on the test.
+Less vs Fewer,Less / Fewer,❌ I have less books than you. / ✅ I have fewer books than you.
+Could of vs Could have,Could have,❌ I could of helped you. / ✅ I could have helped you.
+Lie vs Lay,Lie / Lay,❌ I will lay down now. / ✅ I will lie down now.
+Alot vs A lot,A lot,❌ She has alot of friends. / ✅ She has a lot of friends.
+Irregardless vs Regardless,Regardless,"❌ Irregardless of the weather, we will go. / ✅ Regardless of the weather, we will go."
+Me vs I,Me / I,❌ Me and him went to the store. / ✅ He and I went to the store.
+He don’t vs He doesn’t,He doesn’t,❌ He don’t want to go. / ✅ He doesn’t want to go.
+Should of vs Should have,Should have,❌ You should of asked. / ✅ You should have asked.
+Effect vs Affect,Effect / Affect,❌ How will this affect the effect? / ✅ How will this affect the outcome?
+Less vs Fewer,Less / Fewer,❌ I have less friends than him. / ✅ I have fewer friends than him.
+There vs Their,There / Their,❌ Their going to the meeting. / ✅ They're going to the meeting.
+Farther vs Further,Farther / Further,❌ We need to discuss this matter further. / ✅ We need to discuss this matter further.
+All together vs altogether,All together / Altogether,❌ We were all together at the event. / ✅ We were altogether at the event.
+Complement vs Compliment,Complement / Compliment,❌ Your skills complement the team. / ✅ Your skills are a compliment to the team.
+Lose vs Loose,Lose / Loose,❌ Be careful not to loose your keys. / ✅ Be careful not to lose your keys.
+Quite vs Quiet,Quite / Quiet,❌ The room is quite loud today. / ✅ The room is quiet today.
+Stationary vs Stationery,Stationary / Stationery,❌ The car remained stationary. / ✅ I bought stationery for school.
+Discreet vs Discrete,Discreet / Discrete,❌ She was very discreet about the matter. / ✅ She was very discrete about the matter.
+Elicit vs Illicit,Elicit / Illicit,❌ The joke elicited laughter. / ✅ The drug is illicit.
+Faint vs Feint,Faint / Feint,❌ I saw a faint outline. / ✅ He made a feint to the left.
+Principal vs Principle,Principal / Principle,❌ The principal address is tomorrow. / ✅ The principle of honesty is important.
+Stationary vs Stationery,Stationary / Stationery,❌ He stayed stationary during the race. / ✅ He bought stationery for his office.
+Sense vs Cents,Sense / Cents,❌ It makes sense to save more money. / ✅ That costs fifty cents.
+Breath vs Breathe,Breath / Breathe,❌ Take a deep breath before speaking. / ✅ You need to breathe more easily.
+Dual vs Duel,Dual / Duel,❌ They have a dual purpose. / ✅ They fought a duel.
+Elicit vs Illicit,Elicit / Illicit,❌ The survey elicited many responses. / ✅ The drug is illicit.
+Weather vs Whether,Weather / Whether,❌ The weather is nice today. / ✅ I wonder whether it will rain.
+Accept vs Except,Accept / Except,❌ Everyone accept John came to the party. / ✅ Everyone except John came.
+Compliment vs Complement,Compliment / Complement,❌ She gave a compliment on my dress. / ✅ This will complement your skills.
+Do vs Due,Do / Due,❌ My homework isn't do yet. / ✅ My homework isn't due yet.
+Fewer vs Less,Fewer / Less,❌ There are fewer options available. / ✅ There is less water left.
+Knew vs New,Knew / New,❌ I knew about the event. / ✅ I bought a new phone.
+Lead vs Led,Lead / Led,❌ She will lead the team tomorrow. / ✅ She led the team yesterday.
+Loose vs Lose,Loose / Lose,❌ My shirt is too loose. / ✅ I don't want to lose that document.
+Principal vs Principle,Principal / Principle,❌ The principal of the school addressed the issue. / ✅ The principle of fairness is important.
+Stationary vs Stationery,Stationery / Stationery,❌ I need new stationery supplies. / ✅ I stayed stationary during the game.
+Than vs Then,Than / Then,❌ She is taller then her brother. / ✅ She is taller than her brother.
+Their vs There,Their / There,❌ There going to be a delay. / ✅ They're going to be late.
+You're vs Your,You're / Your,❌ Your going to love this. / ✅ You're going to love this.
+Weather vs Whether,Weather / Whether,❌ We should check the weather forecast. / ✅ I can't decide whether to stay or go.
+Your vs You're,Your / You're,❌ Your late for the appointment. / ✅ You're late for the appointment.
+Brakes vs Breaks,Brakes / Breaks,❌ The car's brakes need repair. / ✅ He took a break from work.
+Overdue vs Overdo,Overdue / Overdo,❌ The library book is overdue. / ✅ Don't overdo it at the gym.
+Site vs Sight,Site / Sight,❌ The construction site is busy today. / ✅ The view is a beautiful sight.
+Peace vs Piece,Peace / Piece,❌ I wish for peace in the world. / ✅ Can I have a piece of cake?
+Practice vs Practise,Practice / Practise,❌ I need more practice. / ✅ I will practises my piano tonight.
+Effect vs Affect,Effect / Affect,❌ The medicine had an immediate effect. / ✅ The news affected him deeply.
+Their vs They're,Their / They're,❌ Their coming to the party. / ✅ They're coming to the party.
+Complement vs Compliment,Complement / Compliment,❌ His skills complement the team well. / ✅ She paid him a compliment.
+I have went,I have gone,❌ I have went to the store. / ✅ I have gone to the store.
+Could care less,Couldn't care less,❌ I could care less about that. / ✅ I couldn't care less about that.
+Who vs That,Who / That,❌ She is the person that helped me. / ✅ She is the person who helped me.
+Between you and I,Between you and me,"❌ Between you and I, this is a secret. / ✅ Between you and me, this is a secret."
+Hanged vs Hung,Hung / Hanged,❌ The man was hung for his crimes. / ✅ The man was hanged for his crimes.
+Less vs Least,Less / Least,❌ This is less important. / ✅ This is the least important.
+Could of,Could have,❌ He could of gone earlier. / ✅ He could have gone earlier.
+I could of done it,I could have done it,❌ I could of done better. / ✅ I could have done better.
+Besides vs Beside,Besides / Beside,"❌ Besides the point, your idea is good. / ✅ Beside the point, your idea is good."
+Lead vs Led,Lead / Led,❌ He lead the team yesterday. / ✅ He led the team yesterday.
+Try and vs Try to,Try to,❌ I will try and call you. / ✅ I will try to call you.
+Wanna vs Want to,Want to,❌ I wanna go now. / ✅ I want to go now.
+Amount vs Number,Amount / Number,❌ The amount of people was large. / ✅ The number of people was large.
+Loose vs Lose,Loose / Lose,❌ Don't loose your keys. / ✅ Don't lose your keys.
+Less vs Fewer,Less / Fewer,❌ There are less chairs than before. / ✅ There are fewer chairs than before.
+Irregardless,Regardless,"❌ Irregardless of the rules, do it. / ✅ Regardless of the rules, do it."
+Them vs Those,Them / Those,❌ Them books are mine. / ✅ Those books are mine.
+Ain't vs Isn't,Isn't,❌ She ain't here. / ✅ She isn't here.
+Should of,Should have,❌ You should of told me. / ✅ You should have told me.
+Good vs Well,Good / Well,❌ She did good on the test. / ✅ She did well on the test.
+Where vs Were,Where / Were,❌ They where late. / ✅ They were late.
+Their vs There,Their / There,❌ Their is my book. / ✅ There is my book.
+Me vs I,Me / I,❌ Me and her went to the market. / ✅ She and I went to the market.
+Whose vs Who's,Whose / Who's,❌ Whose coming to dinner? / ✅ Who's coming to dinner?
+Lay vs Lie,Lay / Lie,❌ I need to lay down. / ✅ I need to lie down.
+Bring vs Take,Bring / Take,❌ Please bring this to your house. / ✅ Please take this to your house.
+Amount vs Number,Amount / Number,❌ The amount of apples is high. / ✅ The number of apples is high.
+Compliment vs Complement,Compliment / Complement,❌ That hat complements your outfit. / ✅ That hat complements your outfit.
+Everyday vs Every day,Everyday / Every day,❌ I wear this shirt everyday. / ✅ I wear this shirt every day.
+Then vs Than,Then / Than,❌ I am taller then you. / ✅ I am taller than you.
+Passed vs Past,Passed / Past,❌ He past the exam. / ✅ He passed the exam.
+Personal vs Personnel,Personal / Personnel,❌ Personal files are confidential. / ✅ Personnel files are sensitive.
+Principal vs Principle,Principal / Principle,❌ The principle of the school spoke today. / ✅ The principal of the school spoke today.
+Allusion vs Illusion,Allusion / Illusion,❌ The movie gave an illusion to Shakespeare. / ✅ The movie gave an allusion to Shakespeare.
+Assure vs Ensure vs Insure,Assure / Ensure / Insure,❌ I will insure you that it's safe. / ✅ I will assure you that it's safe.
+Among vs Between,Among / Between,❌ Choose among the two options. / ✅ Choose between the two options.
+Continual vs Continuous,Continual / Continuous,❌ The noise was continual. / ✅ The noise was continuous.
+Defuse vs Diffuse,Defuse / Diffuse,❌ We need to diffuse the situation. / ✅ We need to defuse the situation.
+Economic vs Economical,Economic / Economical,❌ It's more economic to buy in bulk. / ✅ It's more economical to buy in bulk.
+Farther vs Further,Farther / Further,❌ We need to walk further. / ✅ We need to walk farther.
+Imply vs Infer,Imply / Infer,❌ I infer from her statement that she is upset. / ✅ I imply that she is upset.
+It's vs Its,It's / Its,❌ Its a great day. / ✅ It's a great day.
+Lead vs Led,Lead / Led,❌ They will led the project. / ✅ They will lead the project.
+Moral vs Morale,Moral / Morale,❌ The moral of the story was clear. / ✅ The team's morale was high.
+Raise vs Rise,Raise / Rise,❌ The sun will raise soon. / ✅ The sun will rise soon.
+Stationary vs Stationery,Stationary / Stationery,❌ The stationery bike is broken. / ✅ The stationary bike is broken.
+Waive vs Wave,Waive / Wave,❌ I will wave my rights. / ✅ I will waive my rights.
+Your vs You're,Your / You're,❌ Your late again. / ✅ You're late again.
+Could of vs Could have,Could have,❌ I could of helped you. / ✅ I could have helped you.
+Lead vs Led,Lead / Led,"❌ Yesterday, she lead the meeting. / ✅ Yesterday, she led the meeting."
+Literally vs Figuratively,Literally / Figuratively,❌ I literally died laughing. / ✅ I figuratively died laughing.
+Myself vs Me,Myself / Me,❌ Please contact John or myself. / ✅ Please contact John or me.
+Different from vs Different than,Different from / Different than,❌ This is different than I expected. / ✅ This is different from what I expected.
+Whatever vs What ever,Whatever,❌ You can do what ever you want. / ✅ You can do whatever you want.
+Assume vs Presume,Assume / Presume,❌ I assume he is at home. / ✅ I presume he is at home.
+Between you and I,Between you and me,"❌ Between you and I, it’s a secret. / ✅ Between you and me, it’s a secret."
+Envy vs Jealous,Envy / Jealous,❌ I am jealous of her success. / ✅ I envy her success.
+Amount vs Number,Amount / Number,❌ The amount of students is large. / ✅ The number of students is large.
+All right vs Alright,All right / Alright,❌ That's alright with me. / ✅ That's all right with me.
+Between vs Among,Between / Among,❌ Choose among two options. / ✅ Choose between two options.
+Bring vs Take,Bring / Take,❌ Please bring the book to your house. / ✅ Please take the book to your house.
+Confident vs Confidant,Confident / Confidant,❌ She is my confident. / ✅ She is my confidant.
+Could of vs Could have,Could have,❌ You could of helped. / ✅ You could have helped.
+Each other vs One another,Each other / One another,❌ They looked at one another’s eyes. / ✅ They looked into each other's eyes.
+Everyday vs Every day,Everyday / Every day,❌ I wear this shirt everyday. / ✅ I wear this shirt every day.
+Farther vs Further,Farther / Further,❌ We can talk further about this. / ✅ We can talk further about this.
+Good vs Well,Good / Well,❌ She plays good. / ✅ She plays well.
+Its vs It's,Its / It's,❌ Its raining outside. / ✅ It's raining outside.
+Lay vs Lie,Lay / Lie,❌ I will lay down now. / ✅ I will lie down now.
+Like vs As,Like / As,❌ She sings like a professional. / ✅ She sings as a professional.
+Me vs I,Me / I,❌ Me and him are coming. / ✅ He and I are coming.
+Of vs Have,Of / Have,❌ I should of called you. / ✅ I should have called you.
+Or vs Nor,Or / Nor,❌ I don’t want coffee or tea. / ✅ I don’t want coffee nor tea.
+Passed vs Past,Passed / Past,❌ We walked passed the house. / ✅ We walked past the house.
+Principal vs Principle,Principal / Principle,❌ The principle of the school is strict. / ✅ The principal of the school is strict.
+Than vs Then,Than / Then,❌ She is taller then me. / ✅ She is taller than me.
+Their vs There,Their / There,❌ Their going home. / ✅ They’re going home.
+To vs Too,To / Too,❌ I want to come too. / ✅ I want to come too.
+Weather vs Whether,Weather / Whether,❌ We don’t know weather he will come. / ✅ We don’t know whether he will come.
+Who vs Whom,Who / Whom,❌ Whom is calling me? / ✅ Who is calling me?
+Your vs You're,Your / You're,❌ Your the best! / ✅ You're the best!
+Accept vs Except,Accept / Except,❌ Everyone accept John was there. / ✅ Everyone except John was there.
+Affect vs Effect,Affect / Effect,❌ The effect of the news affected me. / ✅ The effect of the news was clear.
+Already vs All ready,Already / All ready,❌ We are all ready to go. / ✅ We are already going.
+Any more vs Anymore,Any more / Anymore,❌ I don’t want any more trouble. / ✅ I don’t want any more trouble.
+Bad vs Badly,Bad / Badly,❌ He did bad on the test. / ✅ He did badly on the test.
+Bring vs Take,Bring / Take,❌ Bring this to the party. / ✅ Take this to the party.
+Could of vs Could have,Could have,❌ She could of helped. / ✅ She could have helped.
+Different from vs Different than,Different from / Different than,❌ It’s different than I thought. / ✅ It’s different from what I thought.
+Discreet vs Discrete,Discreet / Discrete,❌ Be discreet about the plans. / ✅ Be discreet about the plans.
+Either vs Neither,Either / Neither,❌ Neither of the options are good. / ✅ Neither of the options is good.
+Each other vs One another,Each other / One another,❌ They spoke to one another. / ✅ They spoke to each other.
+Farther vs Further,Farther / Further,❌ He ran farther than me. / ✅ He ran further than me.
+Good vs Well,Good / Well,❌ She dances good. / ✅ She dances well.
+Have vs Of,Have / Of,❌ I should of known better. / ✅ I should have known better.
+Historic vs Historical,Historic / Historical,❌ It was a historical event. / ✅ It was a historic event.
+Imply vs Infer,Imply / Infer,❌ I infer that you’re leaving. / ✅ I imply that you’re leaving.
+Irregardless vs Regardless,Irregardless / Regardless,❌ Irregardless of the cost... / ✅ Regardless of the cost...
+Its vs It’s,Its / It’s,❌ Its going to rain. / ✅ It’s going to rain.
+Lay vs Lie,Lay / Lie,❌ I need to lay down now. / ✅ I need to lie down now.
+Lead vs Led,Lead / Led,❌ She lead the team yesterday. / ✅ She led the team yesterday.
+Less vs Fewer,Less / Fewer,❌ There are less cars here. / ✅ There are fewer cars here.
+All ready vs Already,All ready / Already,❌ They are already to leave. / ✅ They are all ready to leave.
+As good as vs Like,As good as / Like,❌ She sings like a professional. / ✅ She sings as good as a professional.
+Bad vs Badly,Bad / Badly,❌ He feels bad today. / ✅ He feels badly today.
+Bring vs Take,Bring / Take,❌ Can you bring this to the office? / ✅ Can you take this to the office?
+Could of vs Could have,Could have,❌ They could of helped us. / ✅ They could have helped us.
+Different than vs Different from,Different from / Different than,❌ This is different than I expected. / ✅ This is different from what I expected.
+Discreet vs Discrete,Discreet / Discrete,❌ Be discreet when talking. / ✅ Be discreet when talking.
+Effect vs Affect,Effect / Affect,❌ How will the news affect the effect? / ✅ How will the news affect the outcome?
+Emigrate vs Immigrate,Emigrate / Immigrate,❌ She emigrated to the USA last year. / ✅ She immigrated to the USA last year.
+Farther vs Further,Farther / Further,❌ We need to think farther about this. / ✅ We need to think further about this.
+Fewer vs Less,Fewer / Less,❌ There are less cars than before. / ✅ There are fewer cars than before.
+Good vs Well,Good / Well,❌ She did good on the test. / ✅ She did well on the test.
+Hanged vs Hung,Hanged / Hung,❌ The picture was hung on the wall. / ✅ The picture was hung on the wall.
+I.e. vs E.g.,i.e. / e.g.,"❌ Bring something to eat, i.e. a sandwich or salad. / ✅ Bring something to eat, e.g., a sandwich or salad."
+Its vs It's,Its / It's,❌ Its a beautiful day. / ✅ It's a beautiful day.
+Lay vs Lie,Lay / Lie,❌ I need to lay down for a while. / ✅ I need to lie down for a while.
+Less vs Fewer,Less / Fewer,❌ Use less cups. / ✅ Use fewer cups.
+Loose vs Lose,Loose / Lose,❌ Don’t loose your keys. / ✅ Don’t lose your keys.
+Me vs I,Me / I,❌ Me and John went shopping. / ✅ John and I went shopping.
+Moral vs Morale,Moral / Morale,❌ The moral of the story is clear. / ✅ The team's morale is high.
+Passed vs Past,Passed / Past,❌ She passed by my house yesterday. / ✅ She passed the exam yesterday.
+Persecute vs Prosecute,Persecute / Prosecute,❌ He was prosecuted for his faith. / ✅ He was persecuted for his faith.
+Principal vs Principle,Principal / Principle,❌ The principle of the school retired. / ✅ The principal of the school retired.
+Quiet vs Quite,Quiet / Quite,❌ It was quite in the room. / ✅ It was quiet in the room.
+Raise vs Rise,Raise / Rise,❌ The sun will raise at 6 a.m. / ✅ The sun will rise at 6 a.m.
+Respectfully vs Respectively,Respectfully / Respectively,"❌ They are John and Mike, respectfully. / ✅ They are John and Mike, respectively."
+Stationary vs Stationery,Stationary / Stationery,❌ I bought stationeries today. / ✅ I bought stationery today.
+Than vs Then,Than / Then,❌ I would rather go then stay. / ✅ I would rather go than stay.
+Their vs There,Their / There,❌ Their is a problem with that. / ✅ There is a problem with that.
+To vs Too,To / Too,❌ I want to go too. / ✅ I want to go too.
+Weather vs Whether,Weather / Whether,❌ I don’t know weather to go or stay. / ✅ I don’t know whether to go or stay.
+Who vs Whom,Who / Whom,❌ Whom is at the door? / ✅ Who is at the door?
+Your vs You're,Your / You're,❌ Your going to love this. / ✅ You're going to love this.
+You’re vs Your,You're / Your,❌ Your the best friend ever. / ✅ You're the best friend ever.
+A lot vs Alot,A lot / Alot,❌ She likes him alot. / ✅ She likes him a lot.
+Accept vs Except,Accept / Except,❌ Everyone accept him was there. / ✅ Everyone except him was there.
+Advice vs Advise,Advice / Advise,❌ Please advice me on this matter. / ✅ Please advise me on this matter.
+Affect vs Effect,Affect / Effect,❌ How will the effect affect us? / ✅ How will the effect affect us?
+Allusion vs Illusion,Allusion / Illusion,❌ The book made an illusion to history. / ✅ The book made an allusion to history.
+Always vs All ways,Always / All ways,❌ He always takes the same route. / ✅ He takes all ways to the destination.
+Among vs Between,Among / Between,❌ Choose between the group. / ✅ Choose among the group.
+Amount vs Number,Amount / Number,❌ The amount of people is large. / ✅ The number of people is large.
+Anyway vs Any way,Anyway / Any way,❌ I did it anyway I could. / ✅ I did it any way I could.
+Assure vs Ensure,Assure / Ensure,❌ I assure you that it will happen. / ✅ I ensure that it will happen.
+Bring vs Take,Bring / Take,❌ Bring this with you to my place. / ✅ Take this with you to my place.
+Can't hardly vs Can hardly,Can hardly,❌ I can't hardly wait. / ✅ I can hardly wait.
+Compliment vs Complement,Compliment / Complement,❌ That shirt compliments your eyes. / ✅ That shirt complements your eyes.
+Continual vs Continuous,Continual / Continuous,❌ There was a continual noise. / ✅ There was a continuous noise.
+Adverse vs Averse,Adverse / Averse,❌ She is adverse to change. / ✅ She is averse to change.
+All together vs Altogether,All together / Altogether,❌ Let's do this altogether. / ✅ Let's do this all together.
+Allusion vs Illusion,Allusion / Illusion,❌ The movie created an illusion to history. / ✅ The movie created an allusion to history.
+Bare vs Bear,Bare / Bear,❌ Don't bare with me. / ✅ Don't bear with me.
+Breath vs Breathe,Breath / Breathe,❌ Take a deep breathe. / ✅ Take a deep breath.
+Capital vs Capitol,Capital / Capitol,❌ Washington is the capital building. / ✅ Washington is the Capitol building.
+Cite vs Site,Cite / Site,❌ Please cite your sources. / ✅ Please cite your sources.
+Complement vs Compliment,Complement / Compliment,❌ That color compliments you. / ✅ That color complements you.
+Continual vs Continuous,Continual / Continuous,❌ The noise was continual all night. / ✅ The noise was continuous all night.
+Convince vs Persuade,Convince / Persuade,❌ I persuaded her to come. / ✅ I convinced her to come.
+Council vs Counsel,Council / Counsel,❌ We need to counsel the mayor. / ✅ We need to council the mayor.
+Discreet vs Discrete,Discreet / Discrete,❌ Be discrete about this. / ✅ Be discreet about this.
+Elicit vs Illicit,Elicit / Illicit,❌ The law prohibits elicit drugs. / ✅ The law prohibits illicit drugs.
+Eminent vs Imminent,Eminent / Imminent,❌ There is an eminent danger. / ✅ There is an imminent danger.
+Envelop vs Envelope,Envelop / Envelope,❌ Please envelop this letter. / ✅ Please envelope this letter.
+Fewer vs Less,Fewer / Less,❌ There are less apples. / ✅ There are fewer apples.
+Flaunt vs Flout,Flaunt / Flout,❌ He likes to flout his wealth. / ✅ He likes to flaunt his wealth.
+For vs Four,For / Four,❌ I need for apples. / ✅ I need four apples.
+Gambit vs Gamut,Gambit / Gamut,❌ The artist showed a wide gambit of colors. / ✅ The artist showed a wide gamut of colors.
+Imply vs Infer,Imply / Infer,❌ I infer from your comment. / ✅ I imply from your comment.
+Ingenious vs Ingenuous,Ingenious / Ingenuous,❌ She had an ingenuous plan. / ✅ She had an ingenious plan.
+Later vs Latter,Later / Latter,❌ I will attend the latter session. / ✅ I will attend the latter session.
+Lay vs Lie,Lay / Lie,❌ I lay down now. / ✅ I lie down now.
+Lead vs Led,Lead / Led,❌ She led the meeting yesterday. / ✅ She led the meeting yesterday.
+Loathe vs Loath,Loathe / Loath,❌ I am loath to leave. / ✅ I loathe violence.
+Loose vs Lose,Loose / Lose,❌ Don't lose your keys. / ✅ Don't lose your keys.
+Nauseous vs Nauseated,Nauseous / Nauseated,❌ I feel nauseous. / ✅ I feel nauseated.
+Passed vs Past,Passed / Past,❌ He past by my house. / ✅ He passed by my house.
+Peace vs Piece,Peace / Piece,❌ I need a peace of cake. / ✅ I need a piece of cake.
+Pedal vs Peddle,Pedal / Peddle,❌ He peddled his bike. / ✅ He pedaled his bike.
+Persecute vs Prosecute,Persecute / Prosecute,❌ He was prosecuted for beliefs. / ✅ He was persecuted for beliefs.
+Personal vs Personnel,Personal / Personnel,❌ Our personal files are secure. / ✅ Our personnel files are secure.
+Perquisite vs Prerequisite,Perquisite / Prerequisite,❌ A perquisite for the job is experience. / ✅ A prerequisite for the job is experience.
+Prescribe vs Proscribe,Prescribe / Proscribe,❌ The doctor proscribed medicine. / ✅ The doctor prescribed medicine.
+Precede vs Proceed,Precede / Proceed,❌ The ceremony will proceed the speech. / ✅ The ceremony will precede the speech.
+Quiet vs Quite,Quiet / Quite,❌ The room is quite loud. / ✅ The room is quiet.
+Raise vs Rise,Raise / Rise,❌ Prices will raise soon. / ✅ Prices will rise soon.
+Reign vs Rein,Reign / Rein,❌ The king will rein for 20 years. / ✅ The king will reign for 20 years.
+Reluctant vs Reticent,Reluctant / Reticent,❌ She was reluctant to speak. / ✅ She was reticent to speak.
+Respectfully vs Respectively,Respectfully / Respectively,"❌ The brothers, John and Joe, arrived respectfully. / ✅ The brothers, John and Joe, arrived respectively."
+Stationary vs Stationery,Stationary / Stationery,❌ The stationary store is nearby. / ✅ The stationery store is nearby.
+Than vs Then,Than / Then,❌ I will eat than leave. / ✅ I will eat then leave.
+Their vs There,Their / There,❌ Their house is big. / ✅ Their house is big.
+Too vs To,Too / To,❌ I want to go too. / ✅ I want to go too.
+Waist vs Waste,Waist / Waste,❌ She tied a belt around her waste. / ✅ She tied a belt around her waist.
+Weather vs Whether,Weather / Whether,"❌ Whether you come or not, I'll go. / ✅ Whether you come or not, I'll go."
+Whose vs Who's,Whose / Who's,❌ Whose coming to the party? / ✅ Who's coming to the party?
+Wrong vs Wring,Wrong / Wring,❌ Don’t wring the towels. / ✅ Don’t wring the towels.
+Your vs You're,Your / You're,❌ Your right about that. / ✅ You're right about that.
+Accept vs Except,Accept / Except,❌ Everyone accept John was there. / ✅ Everyone except John was there.
+Amount vs Number,Amount / Number,❌ The amount of students is high. / ✅ The number of students is high.
+Breath vs Breathe,Breath / Breathe,❌ Take a deep breathe. / ✅ Take a deep breath.
+Choose vs Chose,Choose / Chose,❌ I chose the red one yesterday. / ✅ I choose the red one every time.
+Different than vs Different from,Different from / Different than,❌ This is different than I thought. / ✅ This is different from what I thought.
+Farther vs Further,Farther / Further,❌ We walked further than them. / ✅ We walked farther than them.
+Good vs Well,Good / Well,❌ She sings good. / ✅ She sings well.
+Its vs It's,Its / It's,❌ Its a nice day. / ✅ It's a nice day.
+Lay vs Lie,Lay / Lie,❌ I need to lay down for a while. / ✅ I need to lie down for a while.
+Less vs Fewer,Less / Fewer,❌ There are less apples today. / ✅ There are fewer apples today.
+Loose vs Lose,Loose / Lose,❌ Don’t loose your keys. / ✅ Don’t lose your keys.
+Me vs I,Me / I,❌ Me and him went to the store. / ✅ He and I went to the store.
+Passed vs Past,Passed / Past,❌ He past the ball. / ✅ He passed the ball.
+Passed vs Past,Passed / Past,"❌ In the past year, something happened. / ✅ In the past year, something happened."
+Personal vs Personnel,Personal / Personnel,❌ All personnel files are confidential. / ✅ All personnel files are confidential.
+Principal vs Principle,Principal / Principle,❌ The principle of the school spoke. / ✅ The principal of the school spoke.
+Quiet vs Quite,Quiet / Quite,❌ It was quite in the library. / ✅ It was quiet in the library.
+Raise vs Rise,Raise / Rise,❌ The sun will raise soon. / ✅ The sun will rise soon.
+Than vs Then,Than / Then,❌ I will do that then. / ✅ I will do that then.
+There vs Their,There / Their,❌ Their is no way to know. / ✅ There is no way to know.
+Too vs To,Too / To,❌ She is going to the store too. / ✅ She is going to the store too.
+Weather vs Whether,Weather / Whether,❌ I don’t know weather he will come. / ✅ I don’t know whether he will come.
+Who vs Whom,Who / Whom,❌ Whom should I call? / ✅ Who should I call?
+Your vs You're,Your / You're,❌ Your the best. / ✅ You're the best.
+Would of vs Would have,Would have,❌ I would of helped you. / ✅ I would have helped you.
+Amount vs Number,Amount / Number,❌ The amount of money is high. / ✅ The number of coins is high.
+Bad vs Badly,Bad / Badly,❌ He did bad on the test. / ✅ He did badly on the test.
+Capital vs Capitol,Capital / Capitol,"❌ The Capitol is in Washington, D.C. / ✅ The Capitol is in Washington, D.C."
+Compliment vs Complement,Compliment / Complement,❌ She gave me a complement. / ✅ She gave me a compliment.
+Discreet vs Discrete,Discreet / Discrete,❌ Be discrete about the plan. / ✅ Be discreet about the plan.
+Emigrate vs Immigrate,Emigrate / Immigrate,❌ He emigrated to Canada. / ✅ He immigrated to Canada.
+Envelop vs Envelope,Envelop / Envelope,❌ Please envelop the letter. / ✅ Please envelope the letter.
+Fewer vs Less,Fewer / Less,❌ There was less people at the event. / ✅ There were fewer people at the event.
+Good vs Well,Good / Well,❌ She plays good. / ✅ She plays well.
+Hanged vs Hung,Hanged / Hung,❌ The picture was hanged. / ✅ The picture was hung.
+Lay vs Lie,Lay / Lie,❌ I laid down for a bit. / ✅ I lay down for a bit.
+Lie vs Lay,Lie / Lay,❌ I am going to lay down now. / ✅ I am going to lie down now.
+Loose vs Lose,Loose / Lose,❌ His loose clothes were uncomfortable. / ✅ His loose clothes were uncomfortable.
+Passed vs Past,Passed / Past,❌ We walked passed the park. / ✅ We walked past the park.
+Passed vs Past,Passed / Past,❌ In the past we had more rain. / ✅ In the past we had more rain.
+Principal vs Principle,Principal / Principle,❌ The school principle is strict. / ✅ The school principal is strict.
+Than vs Then,Than / Then,❌ She is taller then me. / ✅ She is taller than me.
+Their vs There,Their / There,❌ Their going home. / ✅ They’re going home.
+To vs Too,To / Too,❌ I want to go too. / ✅ I want to go too.
+Weather vs Whether,Weather / Whether,❌ I’m unsure weather he will come. / ✅ I’m unsure whether he will come.
+Aggravate vs Irritate,Aggravate / Irritate,❌ His comments aggravated me. / ✅ His comments irritated me.
+All right vs Alright,All right / Alright,❌ Everything is alright. / ✅ Everything is all right.
+Altar vs Alter,Altar / Alter,❌ They went to the alter. / ✅ They went to the altar.
+Among vs Between,Among / Between,❌ Share the money between three people. / ✅ Share the money among three people.
+Amount vs Number,Amount / Number,❌ The amount of cars is high. / ✅ The number of cars is high.
+Antidote vs Anecdote,Antidote / Anecdote,❌ He told a funny antidote. / ✅ He told a funny anecdote.
+Ascent vs Assent,Ascent / Assent,❌ They gave assent to the plan. / ✅ They gave assent to the plan.
+At vs In,At / In,❌ She's in the door. / ✅ She's at the door.
+Birth vs Birthed,Birth / Birthed,❌ She birthed a baby last night. / ✅ She gave birth last night.
+Breath vs Breathe,Breath / Breathe,❌ Take a deep breath. / ✅ Take a deep breath.
+Capital vs Capitol,Capital / Capitol,❌ The Capitol is large. / ✅ The Capitol is large.
+Cite vs Site,Cite / Site,❌ Make sure to site your sources. / ✅ Make sure to cite your sources.
+Complement vs Compliment,Complement / Compliment,❌ Your dress compliments your eyes. / ✅ Your dress complements your eyes.
+Defuse vs Diffuse,Defuse / Diffuse,❌ They need to diffuse the conflict. / ✅ They need to defuse the conflict.
+Desert vs Dessert,Desert / Dessert,❌ I love chocolate desert. / ✅ I love chocolate dessert.
+Discreet vs Discrete,Discreet / Discrete,❌ Please be discrete with this information. / ✅ Please be discreet with this information.
+Ensure vs Insure,Ensure / Insure,❌ Please insure your belongings. / ✅ Please ensure your belongings.
+Everyday vs Every day,Everyday / Every day,❌ This is an everyday occurrence. / ✅ This happens every day.
+Fewer vs Less,Fewer / Less,❌ There were less people at the event. / ✅ There were fewer people at the event.
+Flaunt vs Flout,Flaunt / Flout,❌ He flouted his wealth. / ✅ He flaunted his wealth.
+Gambit vs Gamut,Gambit / Gamut,❌ The artist displayed a wide gambit of colors. / ✅ The artist displayed a wide gamut of colors.
+Hanged vs Hung,Hanged / Hung,❌ The picture was hanged on the wall. / ✅ The picture was hung on the wall.
+Imply vs Infer,Imply / Infer,❌ I infer that you’re upset. / ✅ I imply that you’re upset.
+Ingenious vs Ingenuous,Ingenious / Ingenuous,❌ She was ingenuous in her ideas. / ✅ She was ingenious in her ideas.
+It's vs Its,It's / Its,❌ Its raining today. / ✅ It's raining today.
+Lay vs Lie,Lay / Lie,❌ I am going to lay down now. / ✅ I am going to lie down now.
+Lead vs Led,Lead / Led,❌ She lead the team yesterday. / ✅ She led the team yesterday.
+Lightning vs Lightening,Lightning / Lightening,❌ The lightening struck the tree. / ✅ The lightning struck the tree.
+Loose vs Lose,Loose / Lose,❌ Don’t loose your ticket. / ✅ Don’t lose your ticket.
+Moral vs Morale,Moral / Morale,❌ The team’s moral was high. / ✅ The team’s morale was high.
+Passed vs Past,Passed / Past,❌ She passed me in the street yesterday. / ✅ She passed me in the street yesterday.
+Pedal vs Peddle,Pedal / Peddle,❌ He peddled his bike fast. / ✅ He pedaled his bike fast.
+Persecute vs Prosecute,Persecute / Prosecute,❌ They persecuted the criminal. / ✅ They prosecuted the criminal.
+Personal vs Personnel,Personal / Personnel,❌ Personal files need updating. / ✅ Personnel files need updating.
+Principal vs Principle,Principal / Principle,❌ He learned an important principal. / ✅ He learned an important principle.
+Quiet vs Quite,Quiet / Quite,❌ The room was quite noisy. / ✅ The room was quiet.
+Raise vs Rise,Raise / Rise,❌ They raised rapidly. / ✅ They rose rapidly.
+Respectfully vs Respectively,Respectfully / Respectively,❌ They arrived respectfully at 9 and 10 a.m. / ✅ They arrived respectively at 9 and 10 a.m.
+Stationary vs Stationery,Stationary / Stationery,❌ I bought stationary today. / ✅ I bought stationery today.
+Than vs Then,Than / Then,❌ I like pizza then pasta. / ✅ I like pizza more than pasta.
+Their vs There,Their / There,❌ There books are on the table. / ✅ Their books are on the table.
+To vs Too,To / Too,❌ I want to come to. / ✅ I want to come too.
+Weather vs Whether,Weather / Whether,❌ I don’t know the weather he will come. / ✅ I don’t know whether he will come.
+Who vs Whom,Who / Whom,❌ Whom is coming to the party? / ✅ Who is coming to the party?
+Your vs You're,Your / You're,❌ Your very kind. / ✅ You're very kind.
+Accept vs Except,Accept / Except,❌ Everyone accept Tom was invited. / ✅ Everyone except Tom was invited.
+Affect vs Effect,Affect / Effect,❌ This will effect the outcome. / ✅ This will affect the outcome.
+Allusion vs Illusion,Allusion / Illusion,❌ The story contains an illusion to Greek mythology. / ✅ The story contains an allusion to Greek mythology.
+Altar vs Alter,Altar / Alter,❌ They married at the alter. / ✅ They married at the altar.
+Among vs Between,Among / Between,❌ Share the cake between five people. / ✅ Share the cake among five people.
+Amount vs Number,Amount / Number,❌ The amount of chairs is limited. / ✅ The number of chairs is limited.
+Assure vs Ensure,Assure / Ensure,❌ I assure you the project will succeed. / ✅ I ensure the project will succeed.
+Breath vs Breathe,Breath / Breathe,❌ Take a deep breathe before speaking. / ✅ Take a deep breath before speaking.
+Bring vs Take,Bring / Take,❌ Bring the documents to my office. / ✅ Take the documents to my office.
+Capital vs Capitol,Capital / Capitol,❌ The capital building is historic. / ✅ The Capitol building is historic.
+Cite vs Site,Cite / Site,❌ Please site your sources correctly. / ✅ Please cite your sources correctly.
+Complement vs Compliment,Complement / Compliment,❌ The wine complements the meal. / ✅ The wine complements the meal.
+Continual vs Continuous,Continual / Continuous,❌ There were continual interruptions. / ✅ There were continuous interruptions.
+Counsel vs Council,Counsel / Council,❌ The counsel will meet tomorrow. / ✅ The council will meet tomorrow.
+Defuse vs Diffuse,Defuse / Diffuse,❌ We need to diffuse the tension. / ✅ We need to defuse the tension.
+Desert vs Dessert,Desert / Dessert,❌ Would you like dessert or desert? / ✅ Would you like dessert or desert?
+Discreet vs Discrete,Discreet / Discrete,❌ The data is discreet. / ✅ The data is discrete.
+Elicit vs Illicit,Elicit / Illicit,❌ His behavior was illicit a strong reaction. / ✅ His behavior elicited a strong reaction.
+Emigrate vs Immigrate,Emigrate / Immigrate,❌ They immigrated from Ireland last year. / ✅ They emigrated from Ireland last year.
+Ensure vs Insure,Ensure / Insure,❌ Please insure your belongings before traveling. / ✅ Please ensure your belongings before traveling.
+Fewer vs Less,Fewer / Less,❌ There are less cars on the road today. / ✅ There are fewer cars on the road today.
+Flaunt vs Flout,Flaunt / Flout,❌ He likes to flout his success. / ✅ He likes to flaunt his success.
+Hanged vs Hung,Hanged / Hung,❌ The picture was hanged on the wall. / ✅ The picture was hung on the wall.
+Imply vs Infer,Imply / Infer,❌ I inferred from his tone that he was upset. / ✅ I implied from his tone that he was upset.
+Ingenious vs Ingenuous,Ingenious / Ingenuous,❌ She had an ingenuous idea. / ✅ She had an ingenious idea.
+Its vs It's,Its / It's,❌ Its raining outside. / ✅ It's raining outside.
+Lay vs Lie,Lay / Lie,❌ I will lay down for a rest. / ✅ I will lie down for a rest.
+Lead vs Led,Lead / Led,❌ She has lead the team to victory. / ✅ She has led the team to victory.
+Loose vs Lose,Loose / Lose,❌ Watch out or you will loose your wallet. / ✅ Watch out or you will lose your wallet.
+Moral vs Morale,Moral / Morale,❌ The moral of the story was inspiring. / ✅ The team's morale was high.
+Passed vs Past,Passed / Past,❌ He passed by the store yesterday. / ✅ He passed by the store yesterday.
+Pedal vs Peddle,Pedal / Peddle,❌ They peddled their goods on the street corner. / ✅ They pedaled their bikes to school.
+Persecute vs Prosecute,Persecute / Prosecute,❌ The government prosecuted the group unjustly. / ✅ The government persecuted the group unjustly.
+Personal vs Personnel,Personal / Personnel,❌ Personal changes affect us all. / ✅ Personnel changes affect us all.
+Principal vs Principle,Principal / Principle,❌ The school principle attended the event. / ✅ The school principal attended the event.
+Quiet vs Quite,Quiet / Quite,❌ The room is quite noisy. / ✅ The room is quiet.
+Raise vs Rise,Raise / Rise,❌ They will rise the prices next month. / ✅ They will raise the prices next month.
+Respectfully vs Respectively,Respectfully / Respectively,❌ They arrived respectfully at 8 and 9. / ✅ They arrived respectively at 8 and 9.
+Stationary vs Stationery,Stationary / Stationery,❌ The bike remained stationery. / ✅ The bike remained stationary.
+Than vs Then,Than / Then,❌ Finish your work than go home. / ✅ Finish your work then go home.
+Their vs There,Their / There,❌ Their is no answer yet. / ✅ There is no answer yet.
+To vs Too,To / Too,❌ I want too go home. / ✅ I want to go home.
+Weather vs Whether,Weather / Whether,❌ I don’t know weather she will come. / ✅ I don’t know whether she will come.
+Who vs Whom,Who / Whom,❌ Whom will take the lead? / ✅ Who will take the lead?
+Your vs You're,Your / You're,❌ Your going to love this movie. / ✅ You're going to love this movie.
+Abbreviate vs Abridge,Abbreviate / Abridge,❌ The author abbreviated the novel. / ✅ The author abridged the novel.
+Accept vs Except,Accept / Except,❌ I accept everyone except him. / ✅ I accept everyone except him.
+Adapt vs Adopt,Adapt / Adopt,❌ She adapted a new policy. / ✅ She adopted a new policy.
+Allusion vs Illusion,Allusion / Illusion,❌ The magician created an allusion of flying. / ✅ The magician created an illusion of flying.
+Alumna vs Alumni,Alumna / Alumni,❌ The group consists of several alumna. / ✅ The group consists of several alumni.
+Amoral vs Immoral,Amoral / Immoral,❌ His actions were amoral. / ✅ His actions were immoral.
+Assure vs Ensure vs Insure,Assure / Ensure / Insure,❌ I will ensure you it’s safe. / ✅ I will assure you it’s safe.
+Capital vs Capitol,Capital / Capitol,❌ The capital building is beautiful. / ✅ The Capitol building is beautiful.
+Cite vs Site,Cite / Site,❌ Please site your sources carefully. / ✅ Please cite your sources carefully.
+Complement vs Compliment,Complement / Compliment,❌ Your scarf complements your outfit. / ✅ Your scarf complements your outfit.
+Continual vs Continuous,Continual / Continuous,❌ There was continual noise. / ✅ There was continuous noise.
+Counsel vs Council,Counsel / Council,❌ He sought counsel about the issue. / ✅ He sought council about the issue.
+Defuse vs Diffuse,Defuse / Diffuse,❌ We must diffuse the bomb carefully. / ✅ We must defuse the bomb carefully.
+Discreet vs Discrete,Discreet / Discrete,❌ Be discrete about this matter. / ✅ Be discreet about this matter.
+Elicit vs Illicit,Elicit / Illicit,❌ His joke was illicit a laugh. / ✅ His joke elicited a laugh.
+Emigrate vs Immigrate,Emigrate / Immigrate,❌ She will emigrate to Canada. / ✅ She will immigrate to Canada.
+Envelop vs Envelope,Envelop / Envelope,❌ Please envelop the letter. / ✅ Please envelope the letter.
+Farther vs Further,Farther / Further,❌ I can’t go any further. / ✅ I can’t go any farther.
+Flair vs Flare,Flair / Flare,❌ He showed great flare in his performance. / ✅ He showed great flair in his performance.
+Flaunt vs Flout,Flaunt / Flout,❌ Don’t flout your wealth. / ✅ Don’t flaunt your wealth.
+For all intensive purposes,For all intents and purposes,"❌ For all intensive purposes, it’s done. / ✅ For all intents and purposes, it’s done."
+Imply vs Infer,Imply / Infer,❌ I inferred he was lying. / ✅ I implied he was lying.
+Ingenious vs Ingenuous,Ingenious / Ingenuous,❌ That was an ingenuous idea. / ✅ That was an ingenious idea.
+Its vs It's,Its / It's,❌ Its raining outside. / ✅ It's raining outside.
+Lay vs Lie,Lay / Lie,❌ I will lay down now. / ✅ I will lie down now.
+Lead vs Led,Lead / Led,❌ She lead the project. / ✅ She led the project.
+Leech vs Leach,Leech / Leach,❌ Don’t leech off others. / ✅ Don’t leech off others.
+Lightning vs Lightening,Lightning / Lightening,❌ Lightening struck the tree. / ✅ Lightning struck the tree.
+Loose vs Lose,Loose / Lose,❌ She might loose her keys. / ✅ She might lose her keys.
+Moral vs Morale,Moral / Morale,❌ The moral of the story was clear. / ✅ The team's morale was high.
+Passed vs Past,Passed / Past,❌ He walked past the park. / ✅ He walked past the park.
+Pedal vs Peddle,Pedal / Peddle,❌ She peddled vegetables on the street. / ✅ She pedaled her bicycle.
+Persecute vs Prosecute,Persecute / Prosecute,❌ The innocent were prosecuted. / ✅ The innocent were persecuted.
+Personal vs Personnel,Personal / Personnel,❌ Personnel issues are confidential. / ✅ Personnel issues are confidential.
+Principal vs Principle,Principal / Principle,❌ She explained the school principle. / ✅ She explained the school principal.
+Quiet vs Quite,Quiet / Quite,❌ It was quite loud outside. / ✅ It was quiet outside.
+Raise vs Rise,Raise / Rise,❌ The sun will raise in the east. / ✅ The sun will rise in the east.
+Respectfully vs Respectively,Respectfully / Respectively,❌ They arrived respectfully at 9 and 10 a.m. / ✅ They arrived respectively at 9 and 10 a.m.
+Stationary vs Stationery,Stationary / Stationery,❌ The bike is stationery. / ✅ The bike is stationary.
+Than vs Then,Than / Then,❌ I will eat than go. / ✅ I will eat then go.
+Their vs There,Their / There,❌ Their is no answer yet. / ✅ There is no answer yet.
+To vs Too,To / Too,❌ I want too go. / ✅ I want to go.
+Trail vs Trial,Trail / Trial,❌ The court will start a trail. / ✅ The court will start a trial.
+Weather vs Whether,Weather / Whether,❌ I’m not sure weather he will come. / ✅ I’m not sure whether he will come.
+Who vs Whom,Who / Whom,❌ Whom is calling? / ✅ Who is calling?
+Your vs You're,Your / You're,❌ Your welcome. / ✅ You're welcome.
+Accept vs Except,Accept / Except,❌ Everyone accept him was invited. / ✅ Everyone except him was invited.
+Affect vs Effect,Affect / Effect,❌ This will effect the results. / ✅ This will affect the results.
+Allusion vs Illusion,Allusion / Illusion,❌ The magician created an allusion of ghosts. / ✅ The magician created an illusion of ghosts.
+Altar vs Alter,Altar / Alter,❌ They changed the altar to the plan. / ✅ They altered the plan.
+Among vs Between,Among / Between,❌ Distribute the gifts between the children. / ✅ Distribute the gifts among the children.
+Amount vs Number,Amount / Number,❌ The amount of participants was large. / ✅ The number of participants was large.
+Assure vs Ensure,Assure / Ensure,❌ I assure that the task will be done. / ✅ I ensure that the task will be done.
+Breath vs Breathe,Breath / Breathe,❌ Take a deep breathe before you speak. / ✅ Take a deep breath before you speak.
+Capital vs Capitol,Capital / Capitol,❌ The capital building is impressive. / ✅ The Capitol building is impressive.
+Cite vs Site,Cite / Site,❌ Always site your sources. / ✅ Always cite your sources.
+Complement vs Compliment,Complement / Compliment,❌ This wine compliments the meal. / ✅ This wine complements the meal.
+Continual vs Continuous,Continual / Continuous,❌ There were continual interruptions. / ✅ There were continuous interruptions.
+Counsel vs Council,Counsel / Council,❌ He needed counsel from the experts. / ✅ He sought counsel from the experts.
+Defuse vs Diffuse,Defuse / Diffuse,❌ We need to diffuse the bomb. / ✅ We need to defuse the bomb.
+Desert vs Dessert,Desert / Dessert,❌ I love eating desert after dinner. / ✅ I love eating dessert after dinner.
+Discreet vs Discrete,Discreet / Discrete,❌ Please be discrete with this information. / ✅ Please be discreet with this information.
+Elicit vs Illicit,Elicit / Illicit,❌ The law prohibits elicit drugs. / ✅ The law prohibits illicit drugs.
+Emigrate vs Immigrate,Emigrate / Immigrate,❌ My family immigrated from Italy. / ✅ My family emigrated from Italy.
+Envelop vs Envelope,Envelop / Envelope,❌ Please envelop the letter. / ✅ Please envelope the letter.
+Farther vs Further,Farther / Further,❌ We can’t go any further. / ✅ We can’t go any farther.
+Flair vs Flare,Flair / Flare,❌ He has a flair for music. / ✅ He has a flair for music.
+Flaunt vs Flout,Flaunt / Flout,❌ She flouts her designer bags. / ✅ She flaunts her designer bags.
+Gambit vs Gamut,Gambit / Gamut,❌ The artist used a wide gambit of colors. / ✅ The artist used a wide gamut of colors.
+Hanged vs Hung,Hanged / Hung,❌ The man was hung for his crimes. / ✅ The man was hanged for his crimes.
+Imply vs Infer,Imply / Infer,❌ I infer you are unhappy. / ✅ I imply you are unhappy.
+Ingenious vs Ingenuous,Ingenious / Ingenuous,❌ She had an ingenuous plan. / ✅ She had an ingenious plan.
+Its vs It's,Its / It's,❌ Its cold outside. / ✅ It's cold outside.
+Lay vs Lie,Lay / Lie,❌ I will lay down now. / ✅ I will lie down now.
+Lead vs Led,Lead / Led,❌ She lead the team well. / ✅ She led the team well.
+Loose vs Lose,Loose / Lose,❌ Don’t loose your phone. / ✅ Don’t lose your phone.
+Moral vs Morale,Moral / Morale,❌ The moral of the story was uplifting. / ✅ The team’s morale was high.
+Passed vs Past,Passed / Past,❌ He passed through the city last week. / ✅ He passed through the city last week.
+Pedal vs Peddle,Pedal / Peddle,❌ She peddled her bike furiously. / ✅ She pedaled her bike furiously.
+Persecute vs Prosecute,Persecute / Prosecute,❌ Many were prosecuted for their beliefs. / ✅ Many were persecuted for their beliefs.
+Personal vs Personnel,Personal / Personnel,❌ Personal decisions affect productivity. / ✅ Personnel decisions affect productivity.
+Principal vs Principle,Principal / Principle,❌ The school’s principal taught math. / ✅ The school’s principal taught math.
+Quiet vs Quite,Quiet / Quite,❌ The library was quite. / ✅ The library was quiet.
+Raise vs Rise,Raise / Rise,❌ They will raise tomorrow. / ✅ They will rise tomorrow.
+Respectfully vs Respectively,Respectfully / Respectively,❌ They arrived respectfully at 9 and 10 a.m. / ✅ They arrived respectively at 9 and 10 a.m.
+Stationary vs Stationery,Stationary / Stationery,❌ The cyclist remained stationery. / ✅ The cyclist remained stationary.
+Than vs Then,Than / Then,❌ I’ll eat than leave. / ✅ I’ll eat then leave.
+Their vs There,Their / There,❌ Their is a problem. / ✅ There is a problem.
+To vs Too,To / Too,❌ I want too go. / ✅ I want to go.
+Weather vs Whether,Weather / Whether,❌ I don’t know weather he will come. / ✅ I don’t know whether he will come.
+Who vs Whom,Who / Whom,❌ Whom is at the door? / ✅ Who is at the door?
+Your vs You're,Your / You're,❌ Your going too fast. / ✅ You're going too fast.
+All together vs Altogether,All together / Altogether,❌ We’re altogether ready. / ✅ We’re all together ready.
+Amount vs Number,Amount / Number,❌ The amount of books is huge. / ✅ The number of books is huge.
+Assure vs Ensure,Assure / Ensure,❌ I assure you it will be fine. / ✅ I ensure you it will be fine.
+Breath vs Breathe,Breath / Breathe,❌ Take a deep breathe. / ✅ Take a deep breath.
+Complement vs Compliment,Complement / Compliment,❌ Your tie compliments your shirt. / ✅ Your tie complements your shirt.
+Continual vs Continuous,Continual / Continuous,❌ There were continual interruptions. / ✅ There were continuous interruptions.
+Counsel vs Council,Counsel / Council,❌ The council advised him. / ✅ The counsel advised him.
+Defuse vs Diffuse,Defuse / Diffuse,❌ We need to diffuse the conflict. / ✅ We need to defuse the conflict.
+Discreet vs Discrete,Discreet / Discrete,❌ The numbers are discreet. / ✅ The numbers are discrete.
+Emigrate vs Immigrate,Emigrate / Immigrate,❌ They immigrated from Canada last year. / ✅ They emigrated from Canada last year.
+Envelop vs Envelope,Envelop / Envelope,❌ Please envelop the letter carefully. / ✅ Please envelope the letter carefully.
+Farther vs Further,Farther / Further,❌ We drove farther than expected. / ✅ We drove further than expected.
+Flair vs Flare,Flair / Flare,❌ She has great flare for drama. / ✅ She has great flair for drama.
+Flaunt vs Flout,Flaunt / Flout,❌ Don’t flout the rules. / ✅ Don’t flaunt the rules.
+Household vs House hold,Household / House hold,❌ There are ten people in the house hold. / ✅ There are ten people in the household.
+Imply vs Infer,Imply / Infer,❌ I implied she was upset. / ✅ I inferred she was upset.
+Ingenious vs Ingenuous,Ingenious / Ingenuous,❌ That was an ingenuous idea. / ✅ That was an ingenious idea.
+Its vs It’s,Its / It’s,❌ Its my car. / ✅ It’s my car.
+Lay vs Lie,Lay / Lie,❌ I will lay down now. / ✅ I will lie down now.
+Lead vs Led,Lead / Led,❌ She lead the team. / ✅ She led the team.
+Lightening vs Lightning,Lightning / Lightening,❌ The lightening struck the tree. / ✅ The lightning struck the tree.
+Loose vs Lose,Loose / Lose,❌ I don’t want to loose the game. / ✅ I don’t want to lose the game.
+Moral vs Morale,Moral / Morale,❌ The team had good moral. / ✅ The team had good morale.
+Passed vs Past,Passed / Past,❌ He passed me on the street. / ✅ He passed me on the street.
+Pedal vs Peddle,Pedal / Peddle,❌ She peddled her bike fast. / ✅ She pedaled her bike fast.
+Personal vs Personnel,Personal / Personnel,❌ Personal file needs updating. / ✅ Personnel file needs updating.
+Persecute vs Prosecute,Persecute / Prosecute,❌ Many were prosecuted for beliefs. / ✅ Many were persecuted for beliefs.
+Principal vs Principle,Principal / Principle,❌ The principle of the school retired. / ✅ The principal of the school retired.
+Quiet vs Quite,Quiet / Quite,❌ The place was quite. / ✅ The place was quiet.
+Raise vs Rise,Raise / Rise,❌ The sun will raise soon. / ✅ The sun will rise soon.
+Respectfully vs Respectively,Respectfully / Respectively,❌ They spoke respectfully at the meeting. / ✅ They arrived respectively by train and bus.
+Stationary vs Stationery,Stationary / Stationery,❌ I need to buy stationary. / ✅ I need to buy stationery.
+Than vs Then,Than / Then,❌ I’d rather wait then leave. / ✅ I’d rather wait than leave.
+Their vs There,Their / There,❌ Their going to be late. / ✅ They’re going to be late.
+To vs Too,To / Too,❌ I want too eat now. / ✅ I want to eat now.
+Weather vs Whether,Weather / Whether,❌ I don’t know weather it will rain. / ✅ I don’t know whether it will rain.
+Who vs Whom,Who / Whom,❌ Whom should I ask? / ✅ Who should I ask?
+Your vs You’re,Your / You’re,❌ Your late again. / ✅ You’re late again.
+Accept vs Except,Accept / Except,❌ Everyone accept John agreed. / ✅ Everyone except John agreed.
+Affect vs Effect,Affect / Effect,❌ This will effect your progress. / ✅ This will affect your progress.
+Allusion vs Illusion,Allusion / Illusion,❌ The story had an illusion to history. / ✅ The story had an allusion to history.
+Altar vs Alter,Altar / Alter,❌ They married at the alter. / ✅ They married at the altar.
+Among vs Between,Among / Between,❌ Distribute between the three friends. / ✅ Distribute among the three friends.
+Amount vs Number,Amount / Number,❌ The amount of cars increased. / ✅ The number of cars increased.
+Assure vs Ensure,Assure / Ensure,❌ I assure you it’s safe. / ✅ I ensure you it’s safe.
+Breath vs Breathe,Breath / Breathe,❌ Take a deep breath. / ✅ Take a deep breath.
+Capital vs Capitol,Capital / Capitol,❌ The capital building is historic. / ✅ The Capitol building is historic.
+Cite vs Site,Cite / Site,❌ Always site your sources. / ✅ Always cite your sources.
+Complement vs Compliment,Complement / Compliment,❌ Your scarf compliments your outfit. / ✅ Your scarf complements your outfit.
+Continual vs Continuous,Continual / Continuous,❌ The noise was continual. / ✅ The noise was continuous.
+Counsel vs Council,Counsel / Council,❌ She sought council from a lawyer. / ✅ She sought counsel from a lawyer.
+Defuse vs Diffuse,Defuse / Diffuse,❌ We need to diffuse the bomb. / ✅ We need to defuse the bomb.
+Desert vs Dessert,Desert / Dessert,❌ I prefer desert after meals. / ✅ I prefer dessert after meals.
+Discreet vs Discrete,Discreet / Discrete,❌ Be discrete about the secret. / ✅ Be discreet about the secret.
+Elicit vs Illicit,Elicit / Illicit,❌ Illicit drugs caused problems. / ✅ Illicit drugs caused problems.
+Emigrate vs Immigrate,Emigrate / Immigrate,❌ He immigrated from Mexico. / ✅ He emigrated from Mexico.
+Envelop vs Envelope,Envelop / Envelope,❌ Please envelop the letter. / ✅ Please envelope the letter.
+Farther vs Further,Farther / Further,❌ We drove further than expected. / ✅ We drove farther than expected.
+Flair vs Flare,Flair / Flare,❌ He has flair for the dramatic. / ✅ He has flair for the dramatic.
+Flaunt vs Flout,Flaunt / Flout,❌ Don’t flout your wealth. / ✅ Don’t flaunt your wealth.
+Gambit vs Gamut,Gambit / Gamut,❌ The artist used a wide gambit of colors. / ✅ The artist used a wide gamut of colors.
+Hanged vs Hung,Hanged / Hung,❌ The sign was hanged on the wall. / ✅ The sign was hung on the wall.
+Imply vs Infer,Imply / Infer,❌ I inferred from your words. / ✅ I implied from your words.
+Ingenious vs Ingenuous,Ingenious / Ingenuous,❌ That was an ingenuous solution. / ✅ That was an ingenious solution.
+Its vs It’s,Its / It’s,❌ Its a lovely day. / ✅ It’s a lovely day.
+Lay vs Lie,Lay / Lie,❌ I will lay down for a nap. / ✅ I will lie down for a nap.
+Lead vs Led,Lead / Led,❌ He lead the team to victory. / ✅ He led the team to victory.
+Loose vs Lose,Loose / Lose,❌ Don’t loose your wallet. / ✅ Don’t lose your wallet.
+Moral vs Morale,Moral / Morale,❌ The story had a good morale. / ✅ The story had a good moral.
+Passed vs Past,Passed / Past,❌ He past me in the hallway. / ✅ He passed me in the hallway.
+Pedal vs Peddle,Pedal / Peddle,❌ He peddled goods at the market. / ✅ He pedaled his bike to school.
+Persecute vs Prosecute,Persecute / Prosecute,❌ They prosecuted the group unfairly. / ✅ They persecuted the group unfairly.
+Personal vs Personnel,Personal / Personnel,❌ Personal records are confidential. / ✅ Personnel records are confidential.
+Principal vs Principle,Principal / Principle,❌ The principal reason is clear. / ✅ The principal reason is clear.
+Quiet vs Quite,Quiet / Quite,❌ The area was quite. / ✅ The area was quiet.
+Raise vs Rise,Raise / Rise,❌ Prices will rise next month. / ✅ Prices will rise next month.
+Respectfully vs Respectively,Respectfully / Respectively,❌ They arrived respectfully at 5 and 6. / ✅ They arrived respectively at 5 and 6.
+Stationary vs Stationery,Stationary / Stationery,❌ The stationary store is closed. / ✅ The stationery store is closed.
+Than vs Then,Than / Then,❌ I will go than stay. / ✅ I will go then stay.
+Their vs There,Their / There,❌ Their going to the party. / ✅ They’re going to the party.
+To vs Too,To / Too,❌ I want to go too. / ✅ I want to go too.
+Weather vs Whether,Weather / Whether,❌ I don’t know weather it will rain. / ✅ I don’t know whether it will rain.
+Who vs Whom,Who / Whom,❌ Whom will join us? / ✅ Who will join us?
+Your vs You’re,Your / You’re,❌ Your welcome to stay. / ✅ You’re welcome to stay.
+Accept vs Except,Accept / Except,❌ Everyone accept Mary. / ✅ Everyone except Mary.
+Affect vs Effect,Affect / Effect,❌ The new policy will effect productivity. / ✅ The new policy will affect productivity.
+Allusion vs Illusion,Allusion / Illusion,❌ The book contains an allusion to Shakespeare. / ✅ The book contains an illusion to Shakespeare.
+Altar vs Alter,Altar / Alter,❌ They went to the altar for the wedding. / ✅ They went to the altar for the wedding.
+Among vs Between,Among / Between,❌ Distribute the tasks between team members. / ✅ Distribute the tasks among team members.
+Amount vs Number,Amount / Number,❌ The amount of money is high. / ✅ The number of dollars is high.
+Assure vs Ensure,Assure / Ensure,❌ I assure you this will work. / ✅ I ensure you this will work.
+Breath vs Breathe,Breath / Breathe,❌ Take a deep breathe. / ✅ Take a deep breath.
+Capital vs Capitol,Capital / Capitol,❌ The capital building is historic. / ✅ The Capitol building is historic.
+Cite vs Site,Cite / Site,❌ Always cite your sources. / ✅ Always cite your sources.
+Complement vs Compliment,Complement / Compliment,❌ Your scarf complements your outfit. / ✅ Your scarf complements your outfit.
+Continual vs Continuous,Continual / Continuous,❌ The noise was continual. / ✅ The noise was continuous.
+Counsel vs Council,Counsel / Council,❌ He sought counsel from the lawyer. / ✅ He sought counsel from the lawyer.
+Defuse vs Diffuse,Defuse / Diffuse,❌ We need to diffuse the situation. / ✅ We need to defuse the situation.
+Desert vs Dessert,Desert / Dessert,❌ I love chocolate desert. / ✅ I love chocolate dessert.
+Discreet vs Discrete,Discreet / Discrete,❌ Be discreet about the information. / ✅ Be discreet about the information.
+Elicit vs Illicit,Elicit / Illicit,❌ The law prohibits elicit drugs. / ✅ The law prohibits illicit drugs.
+Emigrate vs Immigrate,Emigrate / Immigrate,❌ They emigrated to the US. / ✅ They immigrated to the US.
+Envelop vs Envelope,Envelop / Envelope,❌ Please envelope the letter. / ✅ Please envelope the letter.
+Farther vs Further,Farther / Further,❌ We cannot go any farther. / ✅ We cannot go any further.
+Flair vs Flare,Flair / Flare,❌ He has a flare for music. / ✅ He has flair for music.
+Flaunt vs Flout,Flaunt / Flout,❌ Don’t flout the rules. / ✅ Don’t flaunt the rules.
+Gambit vs Gamut,Gambit / Gamut,❌ He used a gambit of colors. / ✅ He used a gamut of colors.
+Hanged vs Hung,Hanged / Hung,❌ The sign was hung. / ✅ The sign was hanged.
+Imply vs Infer,Imply / Infer,❌ I infer you are upset. / ✅ I imply you are upset.
+Ingenious vs Ingenuous,Ingenious / Ingenuous,❌ She was ingenuous in her speech. / ✅ She was ingenuous in her speech.
+Its vs It’s,Its / It’s,❌ Its a nice day. / ✅ It’s a nice day.
+Lay vs Lie,Lay / Lie,❌ I will lay down now. / ✅ I will lie down now.
+Lead vs Led,Lead / Led,❌ She lead the team well. / ✅ She led the team well.
+Leech vs Leach,Leech / Leach,❌ Don’t leech onto others. / ✅ Don’t leech onto others.
+Lightning vs Lightening,Lightning / Lightening,❌ The lightning struck the tree. / ✅ The lightning struck the tree.
+Loose vs Lose,Loose / Lose,❌ I might loose my keys. / ✅ I might lose my keys.
+Moral vs Morale,Moral / Morale,❌ The team had good morals. / ✅ The team had high morale.
+Passed vs Past,Passed / Past,❌ He passed through the city. / ✅ He passed through the city.
+Pedal vs Peddle,Pedal / Peddle,❌ He peddled his bicycle. / ✅ He pedaled his bicycle.
+Persecute vs Prosecute,Persecute / Prosecute,❌ They prosecuted the case. / ✅ They persecuted the case unfairly.
+Personal vs Personnel,Personal / Personnel,❌ Personal files are confidential. / ✅ Personnel files are confidential.
+Principal vs Principle,Principal / Principle,❌ The principle of the matter is clear. / ✅ The principal of the school is clear.
+Quiet vs Quite,Quiet / Quite,❌ The room was quite. / ✅ The room was quiet.
+Raise vs Rise,Raise / Rise,❌ The sun will rise soon. / ✅ The sun will rise soon.
+Respectfully vs Respectively,Respectfully / Respectively,"❌ They came respectfully. / ✅ They arrived respectfully, at 8 and 9."
+Stationary vs Stationery,Stationary / Stationery,❌ The stationary bike is broken. / ✅ The stationery store is nearby.
+Than vs Then,Than / Then,❌ I’d rather stay than leave. / ✅ I’d rather stay than leave.
+Their vs There,Their / There,❌ There books are missing. / ✅ Their books are missing.
+To vs Too,To / Too,❌ I want too buy that. / ✅ I want to buy that.
+Weather vs Whether,Weather / Whether,❌ I wonder weather it will rain. / ✅ I wonder whether it will rain.
+Who vs Whom,Who / Whom,❌ Whom is calling? / ✅ Who is calling?
+Your vs You’re,Your / You’re,❌ Your late. / ✅ You’re late.

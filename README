@@ -89,7 +89,7 @@ Một chatbot thông minh sử dụng RAG (Retrieval-Augmented Generation) để
     * Tạo project trên Supabase.
     * Trong SQL Editor, chạy các lệnh SQL để tạo bảng (`english_vocabulary`, `english_grammar_rules`, `english_idioms`) và các hàm tìm kiếm (`match_...`). Đảm bảo kích hoạt extension `vector`.
     * Tạo một Storage Bucket tên là `audio_cache` và đặt nó là public.
-    * (Tùy chọn) Chạy script `embedding.py` (nếu có) để tạo vector embeddings cho dữ liệu ban đầu của bạn.
+    * Chạy script `embedding.py` để tạo vector embeddings cho dữ liệu ban đầu của bạn.
 
 ---
 
