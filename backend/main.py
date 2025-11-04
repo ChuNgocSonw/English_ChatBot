@@ -101,10 +101,19 @@ def determine_intent(user_query: str) -> str:
         return "Q&A"
 
 def extract_keyword(user_query: str) -> str:
-    """Trích xuất từ khóa tiếng Anh từ một câu hỏi Q&A."""
+    """Trích xuất từ khóa/chủ đề chính từ một câu hỏi Q&A (cả tiếng Anh và tiếng Việt)."""
     print(f"--- [LOG] Bắt đầu trích xuất từ khóa từ: '{user_query}' ---")
     prompt = f"""
-    Extract the main English keyword or phrase from the following query. Return only the keyword.
+    Extract the main keyword or topic from the following query. Return only the keyword/topic.
+    If the query is conversational, return an empty string.
+
+    Examples:
+    - "Flagrant nghĩa là gì và cho câu ví dụ" -> Flagrant
+    - "cho tôi ví dụ về 'a piece of cake'" -> a piece of cake
+    - "hội thoại đặt đồ ăn" -> hội thoại đặt đồ ăn
+    - "phân biệt advice và advise" -> advice advise
+    - "xin chào bạn" -> 
+
     Query: "{user_query}"
     Keyword:
     """
@@ -114,7 +123,7 @@ def extract_keyword(user_query: str) -> str:
         print(f"--- [LOG] Đã trích xuất từ khóa: '{keyword}' ---")
         return keyword
     except Exception as e:
-        print(f"--- [LỖI] Khi trích xuất từ khóa: {e} ---")
+        print(f"--- [LỖI] Khi trích xuất từ khóa: {e}")
         return ""
 
 def pcm_to_wav_bytes(pcm_data, sample_rate):
@@ -227,52 +236,79 @@ def synthesize_speech(request: TTSRequest):
 
         for attempt in range(max_retries):
             try:
-                tts_prompt = f"Speak the following word clearly: {request.text}"
-                tts_config = {"response_modalities": ["AUDIO"], "speech_config": {"voice_config": {"prebuilt_voice_config": {"voice_name": "Kore"}}}}
+                tts_prompt = f"Speak this word clearly and naturally, not too slow, at normal speaking speed: {request.text}"
+                tts_config = {
+                    "response_modalities": ["AUDIO"],
+                    "speech_config": {
+                        "voice_config": {"prebuilt_voice_config": {"voice_name": "Aoede"}},
+                    }
+                }
                 
                 print(f"--- [LOG] Đang gọi API TTS của Google (Lần {attempt + 1})... ---")
                 response = TTS_MODEL.generate_content(tts_prompt, generation_config=tts_config)
-                
+
                 if response.candidates and response.candidates[0].content.parts:
                     print("--- [LOG] Đã nhận được dữ liệu âm thanh từ API. ---")
                     audio_part = response.candidates[0].content.parts[0]
-                    
-                    # === SỬA LỖI QUAN TRỌNG: Giải mã (decode) Base64 ===
-                    # 1. Dữ liệu âm thanh là chuỗi Base64 (str), CẦN GIẢI MÃ (decode) về bytes thô
-                    pcm_data_bytes = base64.b64decode(audio_part.inline_data.data) 
-                    
-                    # 2. Dữ liệu mime type đã là (str), KHÔNG CẦN GIẢI MÃ
-                    mime_type_string = audio_part.inline_data.mime_type
-                    
-                    # 3. Trích xuất sample rate từ string
-                    sample_rate_match = re.search(r'rate=(\d+)', mime_type_string)
-                    if not sample_rate_match: raise ValueError("Sample rate not found.")
-                    sample_rate = int(sample_rate_match.group(1))
 
-                    # 4. Chuyển đổi âm thanh thô (bytes) sang WAV (bytes)
-                    wav_data = pcm_to_wav_bytes(pcm_data_bytes, sample_rate)
+                    mime_type = getattr(audio_part.inline_data, "mime_type", "audio/L16;codec=pcm;rate=24000")
+                    audio_raw = getattr(audio_part.inline_data, "data", None)
+                    print(f"--- [DEBUG] MIME Type: {mime_type} ---")
+
+                    if audio_raw is None:
+                        raise ValueError("Không có dữ liệu âm thanh trong phản hồi TTS.")
+
+                    # Xử lý dữ liệu có thể là base64 hoặc bytes
+                    if isinstance(audio_raw, str):
+                        try:
+                            pcm_data = base64.b64decode(audio_raw)
+                        except Exception:
+                            print("--- [WARN] Inline data không phải base64, chuyển sang bytes thô. ---")
+                            pcm_data = audio_raw.encode("latin1")
+                    else:
+                        pcm_data = audio_raw
+
+                    # Kiểm tra độ dài để tránh file “câm”
+                    if len(pcm_data) < 2000:
+                        raise ValueError(f"Dữ liệu âm thanh quá ngắn ({len(pcm_data)} bytes).")
+
+                    # Lấy sample rate từ MIME
+                    sample_rate_match = re.search(r"rate=(\d+)", mime_type)
+                    sample_rate = int(sample_rate_match.group(1)) if sample_rate_match else 24000
+
+                    # Chuyển PCM sang WAV
+                    wav_data = pcm_to_wav_bytes(pcm_data, sample_rate)
 
                     print(f"--- [LOG] Đang tải file '{file_path}' lên Supabase Storage... ---")
                     supabase.storage.from_(AUDIO_BUCKET).upload(
                         file=wav_data,
                         path=file_path,
-                        file_options={"content-type": "audio/wav", "x-upsert": "true"}
+                        file_options={"content-type": "audio/wav", "x-upsert": "true"},
                     )
                     print(f"--- [LOG] Đã tải lên file thành công. ---")
 
-                    # 5. Trả về URL cho client
                     return {"audioUrl": supabase.storage.from_(AUDIO_BUCKET).get_public_url(file_path)}
-                
+
+                else:
+                    print("--- [LỖI] API TTS không trả về candidate hợp lệ. ---")
+                    if response.prompt_feedback:
+                        print(f"Lý do: {response.prompt_feedback}")
+                    if attempt == max_retries - 1:
+                        raise HTTPException(status_code=500, detail="TTS generation failed.")
+                    print(f"--- [LOG] Đang đợi {retry_delay} giây để thử lại... ---")
+                    time.sleep(retry_delay)
+
             except Exception as e:
-                if "429" in str(e) and attempt < max_retries - 1:
+                is_quota_error = "429" in str(e) or "quota" in str(e).lower()
+                if is_quota_error and attempt < max_retries - 1:
                     print(f"--- [LỖI] Lỗi Quota 429. Đang đợi {retry_delay} giây để thử lại... ---")
                     time.sleep(retry_delay)
                     continue
                 else:
                     raise e
-        
+
         raise HTTPException(status_code=429, detail="API quota exceeded.")
 
     except Exception as e:
         print(f"---!!! [LỖI] Lỗi khi tạo hoặc lấy âm thanh: {e} !!!---")
-        raise HTTPException(status_code=500, detail="Failed to process speech.")
+        raise HTTPException(status_code=500, detail=str(e))
